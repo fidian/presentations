@@ -27,7 +27,6 @@ Tyler Akins
 Professionally programming since 1995
 
 612-387-8102 <br>
-Handout: https://goo.gl/dTc8As <br>
 fidian@rumkin.com
 
 Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
@@ -875,7 +874,8 @@ You must earn the Cyber Chip before the Programming Merit Badge can be earned.
 Tyler Akins
 
 612-387-8102 <br>
-Handout: https://goo.gl/dTc8As <br>
 fidian@rumkin.com
 
 Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
+
+Handout is available online at [https://github.com/fidian/presentations/programming-merit-badge](https://github.com/fidian/presentations/programming-merit-badge)

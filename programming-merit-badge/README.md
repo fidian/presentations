@@ -2,6 +2,8 @@
 
 Tyler Akins, 612-387-8102, fidian@rumkin.com (for adults and Scouts with Cyber Chip).
 
+Handout is available online at [https://github.com/fidian/presentations/programming-merit-badge](https://github.com/fidian/presentations/programming-merit-badge)
+
 ## Requirements Not In Slideshow
 
 **1a.** Obtain your Level II (Green) Cyber Chip. Requirements are at [https://goo.gl/3M6kQJ](https://goo.gl/3M6kQJ)
