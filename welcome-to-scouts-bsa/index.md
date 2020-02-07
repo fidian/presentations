@@ -30,9 +30,7 @@ css: style.css
 
 Notes:
 
-The worldwide Scouting movement started in London.
-
-Robert Baden-Powell published a series of booklets that established games and practices to make youth more fit for adventure and leadership. He thought of this program for years after trying to handle improperly trained recruits in the military.
+Started in London. Robert Baden-Powell published a series of booklets that established games and practices to make youth more fit for adventure and leadership. He thought of this program for years after trying to handle improperly trained recruits in the military.
 
 ----
 
@@ -58,9 +56,7 @@ Robert Baden-Powell published a series of booklets that established games and pr
 
 Notes:
 
-YMCA had camps at the turn of the century. Also, there were the Tribe of Woodland Indians boys organization from Ernest Thompson Seton and the Sons of Daniel Boone from Daniel Carter Beard.
-
-William Boyce was inspired by an unknown Scout in London, so he came back to the USA and talked with the other leaders to combine forces and make the Boy Scouts of America.
+Turn of century had YMCA had camps, the Tribe of Woodland Indians boys' organization from Ernest Thompson Seton, and the Sons of Daniel Boone from Daniel Carter Beard. They were brought together by William Boyce, who was inspired by an unknown Scout in London. Boyce combined these into the BSA.
 
 ----
 
@@ -107,7 +103,7 @@ Chartered organization owns everything that the troop owns.
 
 ## Methods
 
-* Ideals
+* Ideals (Oath, Law, Motto, Slogan)
 * Patrols
 * Outdoor programs
 * Advancement
@@ -118,19 +114,9 @@ Chartered organization owns everything that the troop owns.
 
 Notes:
 
-Scout Oath, Scout Law, Scout Motto, Scout Slogan.
+75% of Scouting is outing. // Surmountable obstacles in a safe environment. // Adults are positive role models.
 
-The patrol method isn't one method, it's the only method.
-
-75% of Scouting is outing.
-
-Surmountable obstacles in a safe environment.
-
-Adults are positive role models.
-
-Doing a Good Turn help others, but also improve yourself. Contributing to the community.
-
-There are many leadership opportunities built into each troop.
+Doing a Good Turn helps others, but also improves yourself by building good character.
 
 Uniform creates a positive image in the community and shows commitment to the program.
 
@@ -150,7 +136,7 @@ Uniform creates a positive image in the community and shows commitment to the pr
 
 Notes:
 
-Official BSA policy does not require a uniform. This troop does expect the Scout to have one and to wear it for all meetings and while traveling for outings.
+No official requirement. Troop expectations.
 
 Field Uniform / Class A - Shirt and all patches, belt, pants, socks. Merit badge sash only for formal events. Activity Uniform / Class B - dark blue shirt or hoodie, used when we're working or while at camp.
 
@@ -300,7 +286,7 @@ Your new best friend.
 
 Notes:
 
-On campouts, Scouts will set up tents, the dining fly, and use a patrol box for a kitchen. They cook the meals and clean up. They are responsible for tending the fire and even getting to activities on time.
+Scouts set up tents, dining fly, patrol box. Cook meals, clean up. Tend the fire and managing their time.
 
 What do parents do? Great question. Mostly sit around and talk. Parents are observers. Leaders are mostly observers too.
 
@@ -353,9 +339,7 @@ Notes:
 
 Can't have anything count for two requirements of the same type.
 
-A hike can count for a merit badge and rank requirement, but not for two merit badges nor for two separate rank requirements.
-
-A two-day hike could count for a hike, an overnight, and a second hike.
+Eg. A short hike for merit badge and rank, but not two merit badges nor two ranks. A long hike can be broken up and each chunk can count for different things.
 
 ----
 
@@ -536,17 +520,17 @@ Can be done in a class or online.
 
 Notes:
 
-You'll notice that Safety is our primary concern.
+You'll notice that Safety is our primary concern. It's a part of everything we do.
 
 ----
 
 <table><tr><td width="25%">
 
-![](guide-to-safe-scouting.jpg)
+![](youth-protection-logo.jpg)
 
 </td><td width="25%">
 
-![](youth-protection-logo.jpg)
+![](guide-to-safe-scouting.jpg)
 
 </td><td width="25%">
 
@@ -577,13 +561,9 @@ You'll notice that Safety is our primary concern.
 
 Notes:
 
-Safety First!
+Youth Protection, Guide to Safe Scouting, Totin' Chip, Cyber Chip, Wilderness First Aid, Safety Afloat, Two-Deep Leadership, Hazardous Weather Training.
 
-All leaders are trained to watch for safety violations regardless of their role.
-
-Two-deep leadership, no one-on-one contact
-
-The first requirements of all merit badges are safety.
+All leaders have YPT. Always two-deep leadership, no one-on-one contact. The first requirements of all merit badges are safety.
 
 ---
 
