@@ -26,8 +26,17 @@ Tyler Akins
 
 Professionally programming since 1995
 
+<table><tr><td>
+
+12650 130th Ave N<br>
+Dayton, MN 55327
+
+</td><td>
+
 612-387-8102 <br>
 fidian@rumkin.com
+
+</td></tr></table>
 
 Email is for adults and for Scouts that have a current Cyber Chip.
 <!-- .element style="color: red" -->
@@ -901,8 +910,17 @@ You must earn the Cyber Chip before the Programming Merit Badge can be earned.
 
 Tyler Akins
 
+<table><tr><td>
+
+12650 130th Ave N<br>
+Dayton, MN 55327
+
+</td><td>
+
 612-387-8102 <br>
 fidian@rumkin.com
+
+</td></tr></table>
 
 Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
 

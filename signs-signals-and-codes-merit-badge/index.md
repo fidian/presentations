@@ -30,8 +30,17 @@ Tyler Akins
 
 Website on pencil-and-paper ciphers
 
+<table><tr><td>
+
+12650 130th Ave N<br>
+Dayton, MN 55327
+
+</td><td>
+
 612-387-8102 <br>
 fidian@rumkin.com
+
+</td></tr></table>
 
 Email is for adults and for Scouts that have a current Cyber Chip.
 <!-- .element style="color: red" -->
@@ -58,15 +67,11 @@ When did they first get used?
 
 ----
 
-<table><tr><td>
-
-![](ground-to-air.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="ground-to-air.jpg" data-background-size="contain" -->
 
 ----
 
-<!-- .slide: data-background="air-seeing-signal.jpg" -->
+<!-- .slide: data-background="air-seeing-signal.jpg" data-background-size="contain"-->
 
 ---
 
@@ -78,27 +83,15 @@ When did they first get used?
 
 ----
 
-<table><tr><td>
-
-![](morse-code.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="morse-code.jpg" data-background-size="contain" -->
 
 ----
 
-<table><tr><td>
-
-![](morse-code-tree.png)
-
-</td></tr></table>
+<!-- .slide: data-background="morse-code-tree.png" data-background-size="contain" -->
 
 ----
 
-<table width=90%><tr><td>
-
-![](asl.png)
-
-</td></tr></table>
+<!-- .slide: data-background="asl.png" data-background-size="contain" -->
 
 ---
 
@@ -108,11 +101,7 @@ When did they first get used?
 
 ----
 
-<table><tr><td>
-
-![](flags.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="flags.jpg" data-background-size="contain" -->
 
 ----
 
@@ -128,11 +117,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-<table><tr><td>
-
-![](semaphore.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="semaphore.jpg" data-background-size="contain" -->
 
 ---
 
@@ -150,11 +135,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-<table><tr><td>
-
-![](braille.gif)
-
-</td></tr></table>
+<!-- .slide: data-background="braille.gif" data-background-size="contain" -->
 
 ---
 
@@ -166,11 +147,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-<table><tr><td>
-
-![](silent-scout-signals.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="silent-scout-signals.jpg" data-background-size="contain" -->
 
 ---
 
@@ -180,11 +157,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-<table width="70%"><tr><td>
-
-![](trail-signs.jpg)
-
-</td></tr></table>
+<!-- .slide: data-background="trail-signs.jpg" data-background-size="contain" -->
 
 ---
 
@@ -242,13 +215,18 @@ Bucky says this should be prepared before class.
 
 ----
 
-## Thanks for working on the Programming Merit Badge
-
 Tyler Akins
+
+<table><tr><td>
+
+12650 130th Ave N<br>
+Dayton, MN 55327
+
+</td><td>
 
 612-387-8102 <br>
 fidian@rumkin.com
 
-Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
+</td></tr></table>
 
-Handout is available online at [https://github.com/fidian/presentations/programming-merit-badge](https://github.com/fidian/presentations/programming-merit-badge)
+Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
