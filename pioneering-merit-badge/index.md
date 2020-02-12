@@ -238,6 +238,10 @@ Rope
 
 ----
 
+<!-- .slide: data-background="rope-spinner.jpg" data-background-size="contain" -->
+
+----
+
 <!-- .slide: data-background="make-rope.jpg" data-background-size="contain" -->
 
 Notes:
