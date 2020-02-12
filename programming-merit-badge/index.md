@@ -29,15 +29,16 @@ Professionally programming since 1995
 612-387-8102 <br>
 fidian@rumkin.com
 
-Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
+Email is for adults and for Scouts that have a current Cyber Chip.
+<!-- .element style="color: red" -->
 
 ---
 
 ## Safety
 
-1a. Cyber Chip
+1a: Show your counselor your current, up-to-date Cyber Chip.
 
-1b. Potential Injuries
+1b: Discuss first aid prevention for potential injuries, such as eyestrain and repetitive stress injuries, that could occur during programming activities.
 
 ----
 
@@ -118,9 +119,13 @@ This only covers physical injuries. What about stolen information, leaked pictur
 
 ---
 
-## Historical Dates
+## History
 
-2a. Brief history of programming with at least 3 milestones.
+2a: Give a brief history of programming, including at least three milestones related to the advancement or development of programming.
+
+Notes:
+
+Bucky needs Scouts to come prepared, hopefully with notes.
 
 ----
 
@@ -206,17 +211,20 @@ response.send(12345);
 
 ---
 
-## Language Evolution
+## History
 
-2b. Programming language evolution
+2b: Discuss with your counselor the history of programming and the evolution of programming languages.
 
-(Always make things easier)
+Notes:
+
+The goal is to always make difficult things easier.
 
 ----
 
 <!-- .slide: data-background="punch-cards.png" theme="black" -->
 
-### In The Beginning <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+### In The Beginning
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
 
@@ -521,9 +529,13 @@ var fizzBuzz = function () {
 
 ## General Knowledge
 
-3a. Examine ten popular languages in use today
+3a: Create a list of 10 popular programming languages in use today and describe which industry or industries they are primarily used in and why.
 
-3b. Describe three different programmed devices you rely on every day
+3b: Describe three different programmed devices you rely on every day.
+
+Notes:
+
+Bucky requires effort to have been put into this section for sign off.
 
 ----
 
@@ -568,11 +580,15 @@ How many can you name?
 
 ## Intellectual Property
 
-4a. Four types of intellectual property used to protect computer programs
+4a: Explain the four types of intellectual property used to protect computer programs.
 
-4b. Licensing versus owning software
+4b: Describe the difference between licensing and owning software.
 
-4c. Differences between freeware, open source, commercial software
+4c: Describe the differences between freeware, open source, and commercial software, and why it is important to respect the terms of use of each.
+
+Notes:
+
+Bucky recommends notes and requires active participation in class discussion as well as being able to satisfy the counselor of their understanding of each.
 
 ----
 
@@ -585,6 +601,16 @@ How many can you name?
 **Trademarks** - Symbol or words registered to represent a company or product
 
 **Trade Secrets** - Secret device or technique used by a company
+
+Notes:
+
+Copyright applies to basically any written or printed work, like books.
+
+Patents apply to processes, like new ways to create medicines.
+
+Trademarks are for symbols.
+
+Trade secrets are not really protected by law, like the secret recipe for Coca-Cola.
 
 ----
 
@@ -666,13 +692,7 @@ What do you think? Do you own the software or do you have permission to use the 
 
 ## Projects
 
-5a. Fix a bug
-
-5b. Program in a different language
-
-5c. Program in yet another language
-
-5d. Explain the programs you wrote
+5a: With your counselor's approval, choose a sample program. Modify the code or add a function or subroutine to it. Debug and demonstrate the modified program to your counselor.
 
 ----
 
@@ -693,6 +713,14 @@ Can you make the program say the "Ten Little Cub Scouts" song?
 ```
 
 *Hint: There's some bugs in this program.*
+
+---
+
+## Projects
+
+5b: With your counselor's approval, choose a second programming language and development environment, different from those used for requirement 5a and in a different industry from 5a. Then write, debug, and demonstrate a functioning program to your counselor, using that language and environment.
+
+5c: *Same as 5b, but a different language and environment.*
 
 ----
 
@@ -723,15 +751,15 @@ console.log("Success! Number of guesses:", guesses);
 
 ---
 
+## Projects
+
+5d: Explain how the programs you wrote for requirements 5a, 5b, and 5c process inputs, how they make decisions based on those inputs, and how they provide outputs based on the decision making.
+
+---
+
 ## Careers
 
-Find out about three career opportunities that require knowledge in programming.
-
-What careers can you think of that use computers?
-
-What education, training, and experience is needed?
-
-Would that career interest you?
+6: Find out about three career opportunities that require knowledge in programming. Pick one and find out the education, training, and experience required. Discuss this with your counselor and explain why this career might be of interest to you.
 
 ----
 
