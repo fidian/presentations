@@ -69,6 +69,12 @@ When did they first get used?
 
 <!-- .slide: data-background="ground-to-air.jpg" data-background-size="contain" -->
 
+Notes:
+
+2 mylar space blankets cut up to make the arrow.
+
+https://www.flickr.com/photos/troop14/8433084241
+
 ----
 
 <!-- .slide: data-background="air-seeing-signal.jpg" data-background-size="contain"-->
