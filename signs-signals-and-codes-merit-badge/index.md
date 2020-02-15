@@ -55,9 +55,35 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 What are signs, signals, and codes?
 
-How are they used?
+Notes:
 
-When did they first get used?
+Different methods of communication that are not simply words.
+
+----
+
+How are signs, signals, and codes used?
+
+Notes:
+
+They can indicate danger, instructions for use, or convey messages.
+
+----
+
+When were signs, signals, and codes first used?
+
+Notes:
+
+Most likely it was a gesture.
+
+----
+
+How did signs, signals, and codes develop over time?
+
+Notes:
+
+They became more complex. Fire on tops of mountains, reflected sunlight from shields, smoke signals.
+
+Codes typically change a message from one form to another. They can obscure, shorten, or allow the transmission of a message through a different medium.
 
 ---
 
@@ -79,13 +105,15 @@ https://www.flickr.com/photos/troop14/8433084241
 
 <!-- .slide: data-background="air-seeing-signal.jpg" data-background-size="contain"-->
 
+----
+
+<!-- .slide: data-background="pop-smoke.jpg" data-background-size="contain" -->
+
 ---
 
-## Codes
+## Codes (Part 1)
 
 3a. Describe what Morse code is and the various means by which it can be sent. Spell your first name using Morse code. Send or receive a message of six to 10 words using Morse code.
-
-3b. Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.
 
 ----
 
@@ -97,6 +125,12 @@ https://www.flickr.com/photos/troop14/8433084241
 
 ----
 
+## Codes (Part 2)
+
+3b. Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.
+
+----
+
 <!-- .slide: data-background="asl.png" data-background-size="contain" -->
 
 ---
@@ -105,15 +139,35 @@ https://www.flickr.com/photos/troop14/8433084241
 
 4: Give your counselor a brief explanation about semaphore, why it is used, how it is used, and where it is used. Explain the difference between semaphore flags and nautical flags.
 
+Notes:
+
+Transmits messages visually, one letter at a time, by positioning flags around the sender. Originated on land, used by the Navy and the Royal Canadian Mounted Police.
+
 ----
 
-<!-- .slide: data-background="flags.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="optical-telegraph.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="maritime-signal-flags.gif" data-background-size="contain" -->
+
+Notes:
+
+Flags here represent letters, numbers, or short messages. It does this by using many different flags. Semaphore conveys single letters at a time by flag position.
 
 ----
 
 ## Semaphore (Part 2)
 
 4a: Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.
+
+----
+
+<!-- .slide: data-background="semaphore.jpg" data-background-size="contain" -->
+
+----
+
+## Semaphore (Part 3)
 
 4b: Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.
 
@@ -123,7 +177,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-<!-- .slide: data-background="semaphore.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="flags.jpg" data-background-size="contain" -->
 
 ---
 
@@ -145,9 +199,17 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ---
 
-## Sounds
+## Sounds (Part 1)
 
 6a: Describe to your counselor six sound-only signals that are in use today. Discuss the pros and cons of using sound signals versus other types of signals.
+
+Notes:
+
+Train whistle. Fire alarm (questionable). Bugle calls. Whistle signals in military or shooting/archery range. Horn blasts for distress or in cars. Sirens. Doorbell.
+
+----
+
+## Sounds (Part 2)
 
 6b: Demonstrate to your counselor six different silent Scout signals. Use these Scout signals to direct the movements and actions of your patrol or troop.
 
@@ -201,7 +263,19 @@ Bucky says this should be prepared before class.
 
 9a: Show examples of 10 traffic signs and explain their meaning.
 
+----
+
+<!-- .slide: data-background="traffic-signs.jpg" data-background-size="contain" -->
+
+----
+
+## Examples (Part 3)
+
 9b: Using a topographical map, explain what a map legend is and discuss its importance. Point out 10 map symbols and explain the meaning of each.
+
+----
+
+## Examples (Part 4)
 
 9c: Discuss text-message symbols and why they are commonly used. Give examples of your favorite 10 text symbols or emoticons. Then see if your counselor or parent can identify the meaning or usage of each symbol.
 
