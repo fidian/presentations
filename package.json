@@ -1,5 +1,8 @@
 {
     "private": true,
+    "scripts": {
+        "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
+    },
     "dependencies": {
         "reveal-md": "latest"
     }

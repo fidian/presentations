@@ -165,6 +165,12 @@ Flags here represent letters, numbers, or short messages. It does this by using 
 
 <!-- .slide: data-background="semaphore.jpg" data-background-size="contain" -->
 
+Notes:
+
+The images here are shown from the receiver's point of view.
+
+Space/rest also should be used to separate repeated letters, such as with "HELLO".
+
 ----
 
 ## Semaphore (Part 3)
@@ -187,7 +193,7 @@ Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
-## Braille (Part 1)
+## Braille (Part 2)
 
 5a: Either by sight or by touch, identify the letters of the braille alphabet that spell your name. By sight or touch, decode a braille message at least six words long.
 
