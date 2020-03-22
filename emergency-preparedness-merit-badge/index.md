@@ -31,6 +31,98 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 ---
 
+### What Is An Emergency?
+
+----
+
+## Localized Emergencies
+
+<table><tr><td width="50%">
+
+![](house-fire.jpg)
+
+</td><td>
+
+![](cpr.jpg)
+
+</td></tr></table>
+
+Notes:
+
+* House on fire
+* CPR
+* Active shooter
+* Car accident
+* Ingestion of poison
+* Gas leak
+* Explosion
+
+----
+
+## Community and Regional Emergencies
+
+<table><tr><td width="33%">
+
+![](flood.jpg)
+
+</td><td width="33%">
+
+![](tornado.jpg)
+
+</td><td>
+
+![](riots.jpg)
+
+</td></tr></table>
+
+Notes:
+
+* Flood
+* Tornado
+* Riots
+* Earthquake
+
+----
+
+## National Emergencies
+
+<table><tr><td width="50%">
+
+![](war.jpg)
+
+</td><td width="50%">
+
+![](economic.jpg)
+
+</td></tr></table>
+
+Notes:
+
+* War
+* Economic or trade emergencies
+
+----
+
+## Global Emergencies
+
+<table><tr><td width="50%">
+
+![](covid-19.jpg)
+
+</td><td width="50%">
+
+![](climate-change.jpg)
+
+</td></tr></table>
+
+Notes:
+
+* Disease
+* Climate change
+* Nuclear reactor explosions
+
+---
+
 ## First Aid
 
 1: Earn the First Aid merit badge.
@@ -59,25 +151,75 @@ Include in your discussion the kinds of questions that are important to ask your
 
 ## Prevention
 
+Avoiding the problem is the safest course of action.
+
+Notes:
+
+Safety First
+
 ----
 
 ## Protection
+
+Make a plan and practice it.
+
+Make a kit and ensure it's ready.
+
+Warning devices.
+
+Notes:
+
+Smoke detectors are warning devices.
 
 ----
 
 ## Mitigation
 
+Lessen the impact of the next emergency by taking action now.
+
+Notes:
+
+This class can be seen as mitigation for people who are not prepared, or protection as a review of what you already have on place.
+
+Mitigation is often done after an event, but can be done in advance.
+
 ----
 
 ## Response
+
+STOP: Stop, Think, Observe, Plan
+
+First Aid.
+
+Focus on your task.
+
+Notes:
+
+Avoid chaos and panic. Speak clearly. Ensure people know what's going on and direct them to best help the situation.
 
 ----
 
 ## Recovery
 
+Get back to normal.
+
+Rebuild, repair, heal, console.
+
 ----
 
 2b: Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a for 10 emergency situations from the list below. Discuss your findings with your counselor.
+
+----
+
+<table style="border: 1px solid black; font-size: 75%" border=1>
+<tr><th>Emergency</th><th>Prevent</th><th>Protect</th><th>Mitigate</th><th>Respond</th><th>Recover</th></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
+</table>
 
 ----
 
@@ -92,25 +234,30 @@ You must use these five situations. Discuss prevention, protection, mitigation, 
 ----
 
 Pick 5 more from this list. Discuss prevention, protection, mitigation, response, recovery.
-<!-- .element: style="font-size: 0.75em" -->
 
-6. Fire or explosion in a public place <!-- .element: style="font-size: 0.75em" -->
-7. Vehicle stalled in the desert <!-- .element: style="font-size: 0.75em" -->
-8. Vehicle trapped in a blizzard <!-- .element: style="font-size: 0.75em" -->
-9. Earthquake or tsunami <!-- .element: style="font-size: 0.75em" -->
-10. Mountain / backcountry accident <!-- .element: style="font-size: 0.75em" -->
-11. Boating or water accident <!-- .element: style="font-size: 0.75em" -->
-12. Gas leak in a home or a building <!-- .element: style="font-size: 0.75em" -->
-13. Tornado or hurricane <!-- .element: style="font-size: 0.75em" -->
-14. Major flooding or a flash flood <!-- .element: style="font-size: 0.75em" -->
-15. Toxic chemical spills and releases <!-- .element: style="font-size: 0.75em" -->
-16. Nuclear power plant emergency <!-- .element: style="font-size: 0.75em" -->
-17. Avalanche (snowslide or rockslide) <!-- .element: style="font-size: 0.75em" -->
-18. Violence in a public place <!-- .element: style="font-size: 0.75em" -->
+----
+
+6. Fire or explosion in a public place <!-- .element: style="font-size: 0.80em" -->
+7. Vehicle stalled in the desert <!-- .element: style="font-size: 0.80em" -->
+8. Vehicle trapped in a blizzard <!-- .element: style="font-size: 0.80em" -->
+9. Earthquake or tsunami <!-- .element: style="font-size: 0.80em" -->
+10. Mountain / backcountry accident <!-- .element: style="font-size: 0.80em" -->
+11. Boating or water accident <!-- .element: style="font-size: 0.80em" -->
+12. Gas leak in a home or a building <!-- .element: style="font-size: 0.80em" -->
+13. Tornado or hurricane <!-- .element: style="font-size: 0.80em" -->
+14. Major flooding or a flash flood <!-- .element: style="font-size: 0.80em" -->
+15. Toxic chemical spills and releases <!-- .element: style="font-size: 0.80em" -->
+16. Nuclear power plant emergency <!-- .element: style="font-size: 0.80em" -->
+17. Avalanche (snowslide or rockslide) <!-- .element: style="font-size: 0.80em" -->
+18. Violence in a public place <!-- .element: style="font-size: 0.80em" -->
 
 ----
 
 2c: Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Complete a family plan. Then meet with your counselor and report on your family meeting, discuss their responses, and share your family plan.
+
+Notes:
+
+Do not focus on the kit itself at this point. It comes up again later.
 
 ---
 
@@ -118,31 +265,111 @@ Pick 5 more from this list. Discuss prevention, protection, mitigation, response
 
 ----
 
+<!-- .slide: data-background="live-household-wire.jpg" data-background-size="contain" -->
+
 3a: Touching a live household wire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 ----
 
-3b: A structure filled with carbon monoxide
+<!-- .slide: data-background="carbon-monoxide.jpg" data-background-size="contain" -->
+
+3b: A structure <br> filled with <br> carbon monoxide
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 ----
+
+<!-- .slide: data-background="clothes-on-fire.jpg" data-background-size="contain" -->
 
 3c: Clothes on fire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 ----
 
-3d: Drowning using nonswimming rescues (including accidents on ice)
+<!-- .slide: data-background="drowning.jpg" data-background-size="contain" -->
+
+3d: Drowning using nonswimming rescues
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+* Reach
+* Throw
+* Row
+* Don't go, unless trained
+
+----
+
+<!-- .slide: data-background="drowning-under-ice.jpg" data-background-size="contain" -->
+
+3d: ... (including accidents on ice)
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+* Reach
+* Throw
+* Go, carefully, laying on ice, reaching with a stick
 
 ---
 
 4: Show three ways of attracting and communicating with rescue planes / aircraft.
 
+----
+
+<!-- .slide: data-background="body-signals.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="ground-to-air.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="air-seeing-signal.jpg" data-background-size="contain" -->
+
+Notes:
+
+Arrow was made from two mylar blankets cut in half. The trunk of the arrow is about 2 feet wide and 14 feet long.
+
+----
+
+<!-- .slide: data-background="walkie-talkie.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="signal-mirror.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="signal-fire.jpg" data-background-size="contain" -->
+
 ---
 
 5: With another person, show a good way to transport an injured person out of a remote and/or rugged area, conserving the energy of rescuers while ensuring the well-being and protection of the injured person.
+
+----
+
+<!-- .slide: data-background="two-person-carry.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="two-person-carry-2.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="one-person-carry.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="improvised-stretcher.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="improvised-stretcher.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="improvised-splint.jpg" data-background-size="contain" -->
 
 ---
 
@@ -152,7 +379,31 @@ Pick 5 more from this list. Discuss prevention, protection, mitigation, response
 
 ----
 
-6b: Identify the government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS. Explain to your counselor one of the following:
+## National Incident Management System (NIMS)
+
+Helps government at all levels work together to prepare for, prevent, respond to, recover from, and mitigate the effects of incidents regardless of the incident's cause, size, location, or complexity.
+
+----
+
+## Incident Command System (ICS)
+
+Provides effective, cross-jurisdictional coordination.
+
+Represents organizational "best practices" and is the standard for emergency management across the country.
+
+----
+
+6b: Identify the government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS.
+
+Notes:
+
+* Hennepin County, and each city's Emergency Operation Plan.
+* National Weather Service Twin Cities.
+* Federal Emergency Management Agency.
+
+----
+
+6b: (continued) Explain to your counselor one of the following:
 
 1. How the NIMS/ICS can assist a Scout troop when responding in a disaster.
 2. How a group of Scouts could volunteer to help in an event of these types of emergencies.
@@ -186,6 +437,99 @@ Pick 5 more from this list. Discuss prevention, protection, mitigation, response
 
 8b: Prepare a personal emergency service pack for a mobilization call. Prepare a family emergency kit (suitcase or waterproof box) for use by your family in case an emergency evacuation is needed. Explain the needs and uses of the contents.
 
+----
+
+<!-- .slide: data-background="kit.jpg" data-background-size="contain" -->
+
+## My Kit
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+I'll go over the major groupings of items in my pack.
+
+----
+
+<!-- .slide: data-background="kit-first-aid-and-medicines.jpg" data-background-size="contain" -->
+
+## First Aid and Medicines
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+<!-- .slide: data-background="kit-shelter-and-protection.jpg" data-background-size="contain" -->
+
+## Shelter and Protection
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+Heavy duty garbage bag as a raincoat or shelter.
+
+----
+
+<!-- .slide: data-background="kit-water-and-food.jpg" data-background-size="contain" -->
+
+## Water and Food
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Food is much less important.
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+Purification tablets plus a water filter. Two separate systems that will work.
+
+----
+
+<!-- .slide: data-background="kit-fire.jpg" data-background-size="contain" -->
+
+## Fire
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+Three different ways to start fires, plus emergency tinder. Most are waterproof.
+
+* Lighter + cotton balls rubbed in Vasoline
+* Flint + magnesium bar (magnesium is tinder)
+* Flint wheel + Tinder Quick
+
+----
+
+<!-- .slide: data-background="kit-cooking.jpg" data-background-size="contain" -->
+
+## Cooking
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+<!-- .slide: data-background="kit-tools.jpg" data-background-size="contain" -->
+
+## Tools
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+<!-- .slide: data-background="kit-hygiene.jpg" data-background-size="contain" -->
+
+## Hygiene
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+<!-- .slide: data-background="kit-communication.jpg" data-background-size="contain" -->
+
+## Communication and Lighting
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+<!-- .slide: data-background="kit-assembled.jpg" data-background-size="contain" -->
+
+## My Kit
+<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
 ---
 
 9: Do one of the following:
@@ -194,9 +538,13 @@ Pick 5 more from this list. Discuss prevention, protection, mitigation, response
 
 ----
 
+Or
+
 9b: Review or develop a plan of escape for your family in case of fire in your home.
 
 ----
+
+Or
 
 9c: Develop an accident prevention program for five family activities outside the home (such as taking a picnic or seeing a movie) that includes an analysis of possible hazards, a proposed plan to correct those hazards, and the reasons for the corrections you propose.
 
