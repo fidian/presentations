@@ -97,7 +97,7 @@ Codes typically change a message from one form to another. They can obscure, sho
 
 Notes:
 
-2 mylar space blankets cut up to make the arrow.
+2 mylar space blankets cut up to make the arrow. The trunk of the arrow is about 2 feet wide and 14 feet long.
 
 https://www.flickr.com/photos/troop14/8433084241
 

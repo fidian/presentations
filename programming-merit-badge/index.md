@@ -142,7 +142,7 @@ Bucky needs Scouts to come prepared, hopefully with notes.
 
 ### Ada Lovelace
 
-First published program was written by Ada Lovelace in 1843. She wrote it for the idea of the "analytical engine," a mechanical computer, from Charles Babbage.
+First published program was written by Augusta Ada King, Countess of Lovelace in 1843. She wrote it for the idea of the "analytical engine," a mechanical computer, from Charles Babbage.
 
 The analytical engine was never created.
 
