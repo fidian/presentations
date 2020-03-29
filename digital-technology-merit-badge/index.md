@@ -161,12 +161,12 @@ Today we rely on transistors, not steam or mechanical force.
 
 <!-- .slide: data-background="keyboard.gif" data-background-size="contain" -->
 
-## Text is Easy
+## Text
 <!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
 
-Signals on the keyboard start out as digital signals.
+Signals on the keyboard start out as digital signals and end up encoded as Unicode, ASCII, or ANSI extended character set. Sometimes EBCDIC.
 
 ----
 
@@ -184,7 +184,7 @@ DAC - Digital to Analog Converter
 
 Notes:
 
-This covers both pictures and video, because video is just a lot of pictures.
+This covers both pictures and video, because video is just a lot of pictures with some audio.
 
 ----
 
