@@ -47,6 +47,194 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 ---
 
+## Knots are Hard
+
+People get them wrong all the time.
+
+It's okay. This is hard and people make simple errors.
+
+----
+
+<table><tr><td colspan=2 align=center>
+
+Naming Knots - this is just the "Carrick Bend".
+
+</td></tr><tr><td align=center>
+
+![](double-carrick-bend-wrong.png)
+
+BSA's "Forty Knots" card
+
+</td><td align=center>
+
+![](carrick-bend.png)
+
+Ashley Book of Knots
+
+</td></tr></table>
+
+----
+
+<table><tr><td align=center>
+
+![](sailors-knot-mislabeled.png)
+
+BSA's "Forty Knots" card
+
+</td><td align=center width="50%">
+
+"Sailor's Knot" isn't listed anywhere else. It's a variant of a lark's head, cow hitch and Ashley calls it reversed half hitches.
+
+</td><td align=center>
+
+![](reversed-half-hitches.png)
+
+</td></tr></table>
+
+----
+
+## If names are hard, what about the knots themselves?
+
+----
+
+<table><tr><td colspan=2 align=center>
+
+Anchoring, Pioneering merit badge pamphlet
+
+</td></tr><tr><td align=center>
+
+![](anchoring-wrong-2009.png)
+
+2009: top is half hitch, bottom is reversed half hitches
+
+</td><td align=center>
+
+![](anchoring-2019.png)
+
+2019: Unable to understand the knot.
+
+</td></tr></table>
+
+----
+
+<table><tr><td align=center>
+
+2009<br>
+(Wrong)
+
+</td><td>
+
+![](diagonal-lashing-wrong-2009.png)
+
+</td><td>
+
+![](floor-lashing-wrong-2009.png)
+
+</td><td>
+
+![](tripod-lashing-wrong-2009.png)
+
+</td></tr><tr><td colspan=4 align=center>
+
+Lashings, Pioneering merit badge pamphlet
+
+</td></tr><tr><td align=center>
+
+2019<br>
+(Right)
+
+</td><td>
+
+![](diagonal-lashing-2019.png)
+
+</td><td>
+
+![](floor-lashing-2019.png)
+
+</td><td>
+
+![](tripod-lashing-2019.png)
+
+</td></tr></table>
+
+----
+
+Really little details mean a lot with a knot
+
+Even experts and paid professionals get it wrong
+
+----
+
+<table><tr><td colspan=2 align=center>
+
+Figure eight on a bight, Pioneering merit badge pamphlet, 2009 (left) vs 2019 (right). Compare the crossings.
+
+</td></tr><tr><td align=center>
+
+![](figure-8-on-bight-wrong-2009.png)
+
+</td><td align=center>
+
+![](figure-8-on-bight-2019.png)
+
+</td></tr></table>
+
+----
+
+Did you notice this?
+
+<table><tr><td align=center>
+
+![](figure-8-on-bight-wrong-2009-zoom.png)
+
+</td><td align=center>
+
+![](figure-8-on-bight-2019-zoom.png)
+
+</td></tr></table>
+
+----
+
+Midshipman's knot and Rolling Hitch
+
+<table><tr><td align=center>
+
+![](midshipmans-knot-wrong.png)
+
+</td><td align=center>
+
+BSA's Forty Knots card (wrong)
+
+</td><td align=center>
+
+![](rolling-hitch-wrong.png)
+
+</td></tr><tr><td align=center>
+
+![](midshipmans-knot-right.png)
+
+</td><td align=center>
+
+Ashley Book of Knots
+
+</td><td align=center>
+
+![](rolling-hitch-right.png)
+
+</td></tr></table>
+
+----
+
+## What can we learn?
+
+1. Pay close attention.
+
+2. Take your time
+
+3. Don't worry about making mistakes.
+
+---
+
 ## Fundamentals (Part 1)
 
 2a: Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope.
