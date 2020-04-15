@@ -426,7 +426,7 @@ end.
 
 ### C (1972)
 
-Lover level, system programs
+Lower level, system programs
 
 ```
 #include<stdio.h>
