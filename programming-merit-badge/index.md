@@ -142,9 +142,7 @@ Bucky needs Scouts to come prepared, hopefully with notes.
 
 ### Ada Lovelace
 
-First published program was written by Augusta Ada King, Countess of Lovelace (née Byron) in 1843. She wrote it for the idea of the "analytical engine," a mechanical computer, from Charles Babbage.
-
-The analytical engine was never created.
+Augusta Ada King, Countess of Lovelace (née Byron) published the first program in 1843 for Charles Babbage's "analytical engine". The analytical engine was never made.
 
 </td><td>
 
@@ -923,5 +921,3 @@ fidian@rumkin.com
 </td></tr></table>
 
 Email is for adults and for Scouts that have a current Cyber Chip. <!-- .element style="color: red" -->
-
-Handout is available online at [https://github.com/fidian/presentations/programming-merit-badge](https://github.com/fidian/presentations/programming-merit-badge)
