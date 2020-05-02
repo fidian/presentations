@@ -103,6 +103,10 @@ Show keyboard size differences and what an ergonomic keyboard can look like.
 
 ----
 
+<!-- .slide: data-background="ergonomic-keyboard.jpg" data-background-size="contain" -->
+
+----
+
 # Other Injuries
 
 * Electrical shock when working directly on circuits
