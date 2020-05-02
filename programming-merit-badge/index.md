@@ -220,6 +220,10 @@ response.send("string");
 response.send(12345);
 ```
 
+----
+
+<!-- .slide: data-background="arpanet.jpg" data-background-size="contain" -->
+
 ---
 
 ## History
