@@ -343,6 +343,14 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 <!-- .slide: data-background="signal-fire.jpg" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="smoke-from-air.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="smoke-from-air2.jpg" data-background-size="contain" -->
+
 ---
 
 5: With another person, show a good way to transport an injured person out of a remote and/or rugged area, conserving the energy of rescuers while ensuring the well-being and protection of the injured person.
