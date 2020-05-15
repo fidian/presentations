@@ -115,6 +115,14 @@ https://www.flickr.com/photos/troop14/8433084241
 
 <!-- .slide: data-background="pop-smoke.jpg" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="smoke-from-air.jpg" data-background-size="contain"-->
+
+----
+
+<!-- .slide: data-background="smoke-from-air2.jpg" data-background-size="contain"-->
+
 ---
 
 ## Morse Code
