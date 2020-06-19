@@ -105,13 +105,13 @@ Anchoring, Pioneering merit badge pamphlet
 
 ![](anchoring-wrong-2009.png)
 
-2009: top is half hitch, bottom is reversed half hitches
+2009: top is only a half hitch, bottom is a cow hitch
 
 </td><td align=center>
 
 ![](anchoring-2019.png)
 
-2019: Unable to understand the knot.
+2019: unable to see knot
 
 </td></tr></table>
 
@@ -119,43 +119,49 @@ Anchoring, Pioneering merit badge pamphlet
 
 <table><tr><td align=center>
 
-2009<br>
-(Wrong)
+![](diagonal-lashing-wrong-2009.png)<br>
+2009 (Wrong)
 
-</td><td>
+</td><td align=center>
 
-![](diagonal-lashing-wrong-2009.png)
+![](diagonal-lashing-2019.png)<br>
+2019 (Right)
 
-</td><td>
-
-![](floor-lashing-wrong-2009.png)
-
-</td><td>
-
-![](tripod-lashing-wrong-2009.png)
-
-</td></tr><tr><td colspan=4 align=center>
+</td></tr></table>
 
 Lashings, Pioneering merit badge pamphlet
 
-</td></tr><tr><td align=center>
+----
 
-2019<br>
-(Right)
+<table><tr><td align=center>
 
-</td><td>
+![](floor-lashing-wrong-2009.png)<br>
+2009 (Wrong)
 
-![](diagonal-lashing-2019.png)
+</td><td align=center>
 
-</td><td>
-
-![](floor-lashing-2019.png)
-
-</td><td>
-
-![](tripod-lashing-2019.png)
+![](floor-lashing-2019.png)<br>
+2019 (Right)
 
 </td></tr></table>
+
+Lashings, Pioneering merit badge pamphlet
+
+----
+
+<table><tr><td align=center>
+
+![](tripod-lashing-wrong-2009.png)<br>
+2009 (Wrong)
+
+</td><td align=center>
+
+![](tripod-lashing-2019.png)<br>
+2019 (Right)
+
+</td></tr></table>
+
+Lashings, Pioneering merit badge pamphlet
 
 ----
 
@@ -167,7 +173,7 @@ Even experts and paid professionals get it wrong
 
 <table><tr><td colspan=2 align=center>
 
-Figure eight on a bight, Pioneering merit badge pamphlet, 2009 (left) vs 2019 (right). Compare the crossings.
+Figure eight on a bight, Pioneering merit badge pamphlet, 2009 (left) vs 2019 (right). Compare the crossings. 2019 is correct.
 
 </td></tr><tr><td align=center>
 
@@ -231,7 +237,7 @@ Ashley Book of Knots
 
 2. Take your time
 
-3. Don't worry about making mistakes.
+3. You'll make mistakes. It's okay.
 
 ---
 
