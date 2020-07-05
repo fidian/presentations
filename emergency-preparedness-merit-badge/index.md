@@ -205,7 +205,11 @@ Get back to normal.
 
 Rebuild, repair, heal, console.
 
-----
+---
+
+## Planning and Aspects
+
+2: Do the following:
 
 2b: Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a for 10 emergency situations from the list below. Discuss your findings with your counselor.
 
@@ -251,7 +255,11 @@ Pick 5 more from this list. Discuss prevention, protection, mitigation, response
 17. Avalanche (snowslide or rockslide) <!-- .element: style="font-size: 0.80em" -->
 18. Violence in a public place <!-- .element: style="font-size: 0.80em" -->
 
-----
+---
+
+## Planning and Aspects
+
+2: Do the following:
 
 2c: Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Complete a family plan. Then meet with your counselor and report on your family meeting, discuss their responses, and share your family plan.
 
@@ -330,6 +338,14 @@ Notes:
 Notes:
 
 Arrow was made from two mylar blankets cut in half. The trunk of the arrow is about 2 feet wide and 14 feet long.
+
+----
+
+<!-- .slide: data-background="grand-canyon-rescue.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="grand-canyon-rescue-air.png" data-background-size="contain" -->
 
 ----
 
