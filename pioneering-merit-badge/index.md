@@ -24,14 +24,83 @@ Bring pioneering kit!
 
 Tyler Akins
 
-Knots at early age (lived in woods + tree care)<br />
-International Guild of Knot Tyers
+Pioneering Merit Badge Counselor
 
 612-387-8102 <br>
 fidian@rumkin.com
 
 Email is for adults and for Scouts that have a current Cyber Chip.
 <!-- .element style="color: red" -->
+
+----
+
+## Who am I?
+
+Learned and used knots at an early age.
+
+Father owned a nursery and tree care business.
+
+Lived in a woods and built structures.
+
+----
+
+<!-- .slide: data-background="igkt-logo.png" data-background-size="contain" -->
+
+A worldwide association for people with an interest in knots and knot tying. <!-- .element: style="background-color: #ffffffaf" -->
+
+----
+
+Working on earning the world record for the smallest nautical knot board.
+
+<table style="width: 30%"><tr><td align=center>
+
+![](guinness-world-record-logo.png)
+
+</td></tr></table>
+
+---
+
+## What is Pioneering?
+
+Can anyone here define it?
+
+Why does the BSA promote it since its start in 1911?
+
+Notes:
+
+Problem solving skills, teamwork.
+
+----
+
+<!-- .slide: data-background="pioneering-example1.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="catapult.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="battering-ram-gate.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="pioneering-example2.jpg" data-background-size="contain" -->
+
+----
+
+## Dictionary Definition
+
+> (adj) involving new ideas or methods. "his pioneering work on consciousness"
+
+> (adj) relating to or being a pioneer, especially characteristic of early settlers or their time.
+
+----
+
+## Wikipedia: Pioneering (scouting)
+
+The art of using ropes and wooden spars joined by lashings and knots to create a structure, from camp gadgets to bridges and towers.
+
+Name comes from 18th and 19th century military engineers who went ahead of an army to "pioneer" a route, which could involve building bridges and towers with rope and timber.
 
 ---
 
@@ -45,25 +114,51 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 1b: Discuss the prevention of, and first aid treatment for, injuries and conditions that could occur while working on pioneering projects, including rope splinters, rope burns, cuts, scratches, insect bites and stings, hypothermia, dehydration, heat exhaustion, heatstroke, sunburn, and falls.
 
+----
+
+## Guide to Safe Scouting
+
+Pioneering projects, such as monkey bridges, have a maximum height of 6 feet. Close supervision should be followed when Scouts are building or using pioneering projects.
+
+Safe Swim Defense applies to other nonswimming activities whenever participants enter water over knee deep or when submersion is likely, for example, when fording a stream, seining for bait, or constructing a bridge as a pioneering project.
+
 ---
 
-## Knots are Hard
+## Pay Attention to Details
 
-People get them wrong all the time.
+People get knots wrong all the time.
 
-It's okay. This is hard and people make simple errors.
+Even experts.
+
+It's okay.
+
+Be patient. Take your time.
+
+Carefully confirm each step.
+
+----
+
+It's okay to get things wrong!
+
+> Wrong ≠ Bad <!-- .element: style="font-size: 2em" -->
+
+You just didn't succeed ***yet***.
+
+Notes:
+
+It took me until I was 15 until I understood it and stopped tying slipped granny knots.
 
 ----
 
 <table><tr><td colspan=2 align=center>
 
-Naming Knots - this is just the "Carrick Bend".
+Naming Knots - this is just the "Carrick Bend" because there's no "Single Carrick Bend".
 
 </td></tr><tr><td align=center>
 
 ![](double-carrick-bend-wrong.png)
 
-BSA's "Forty Knots" card
+BSA's "Forty Knots" card (97% correct)
 
 </td><td align=center>
 
@@ -73,135 +168,47 @@ Ashley Book of Knots
 
 </td></tr></table>
 
+Notes:
+
+Define: STANDING / WORKING END
+
+Can you see which ends are working ends?
+
 ----
 
 <table><tr><td align=center>
 
 ![](sailors-knot-mislabeled.png)
 
-BSA's "Forty Knots" card
+BSA's "Forty Knots" card (95% correct)
 
 </td><td align=center width="50%">
 
-"Sailor's Knot" isn't listed anywhere else. It's a variant of a lark's head, cow hitch and Ashley calls it reversed half hitches.
+"Sailor's Knot" isn't really found anywhere else. It's really a "cow hitch" or "reversed half hitches."
 
 </td><td align=center>
 
 ![](reversed-half-hitches.png)
 
+Ashley Book of Knots
+
 </td></tr></table>
+
+Notes:
+
+This is a variant of a Lark's Head.
+
+Animals are tethered with it because it comes undone with frantic pulling. Sailors won't use this.
 
 ----
 
 ## If names are hard, what about the knots themselves?
 
-----
-
-<table><tr><td colspan=2 align=center>
-
-Anchoring, Pioneering merit badge pamphlet
-
-</td></tr><tr><td align=center>
-
-![](anchoring-wrong-2009.png)
-
-2009: top is only a half hitch, bottom is a cow hitch
-
-</td><td align=center>
-
-![](anchoring-2019.png)
-
-2019: unable to see knot
-
-</td></tr></table>
+> Surely the BSA can get them right!
 
 ----
 
-<table><tr><td align=center>
-
-![](diagonal-lashing-wrong-2009.png)<br>
-2009 (Wrong)
-
-</td><td align=center>
-
-![](diagonal-lashing-2019.png)<br>
-2019 (Right)
-
-</td></tr></table>
-
-Lashings, Pioneering merit badge pamphlet
-
-----
-
-<table><tr><td align=center>
-
-![](floor-lashing-wrong-2009.png)<br>
-2009 (Wrong)
-
-</td><td align=center>
-
-![](floor-lashing-2019.png)<br>
-2019 (Right)
-
-</td></tr></table>
-
-Lashings, Pioneering merit badge pamphlet
-
-----
-
-<table><tr><td align=center>
-
-![](tripod-lashing-wrong-2009.png)<br>
-2009 (Wrong)
-
-</td><td align=center>
-
-![](tripod-lashing-2019.png)<br>
-2019 (Right)
-
-</td></tr></table>
-
-Lashings, Pioneering merit badge pamphlet
-
-----
-
-Really little details mean a lot with a knot
-
-Even experts and paid professionals get it wrong
-
-----
-
-<table><tr><td colspan=2 align=center>
-
-Figure eight on a bight, Pioneering merit badge pamphlet, 2009 (left) vs 2019 (right). Compare the crossings. 2019 is correct.
-
-</td></tr><tr><td align=center>
-
-![](figure-8-on-bight-wrong-2009.png)
-
-</td><td align=center>
-
-![](figure-8-on-bight-2019.png)
-
-</td></tr></table>
-
-----
-
-Did you notice this?
-
-<table><tr><td align=center>
-
-![](figure-8-on-bight-wrong-2009-zoom.png)
-
-</td><td align=center>
-
-![](figure-8-on-bight-2019-zoom.png)
-
-</td></tr></table>
-
-----
-
-Midshipman's knot and Rolling Hitch
+Midshipman's Knot or Rolling Hitch
 
 <table><tr><td align=center>
 
@@ -209,7 +216,7 @@ Midshipman's knot and Rolling Hitch
 
 </td><td align=center>
 
-BSA's Forty Knots card (wrong)
+BSA's Forty Knots card (wrong, 90% correct)
 
 </td><td align=center>
 
@@ -229,6 +236,138 @@ Ashley Book of Knots
 
 </td></tr></table>
 
+Notes:
+
+Midshipman's Hitch is tied onto a rope. Rolling hitch is tied to a spar.
+
+----
+
+Anchoring, Pioneering merit badge pamphlet
+
+<table><tr><td align=center>
+
+![](anchoring-wrong-2009.png)
+
+2009: top is a half hitch, bottom is a cow hitch with seizing
+
+</td><td align=center>
+
+![](anchoring-2019.png)
+
+2019: neither are knots and both look more like springs
+
+</td></tr></table>
+
+Notes:
+
+Define ROUND, TURN, ROUNDTURN
+
+----
+
+<table><tr><td align=center>
+
+![](diagonal-lashing-wrong-2009.png)<br>
+2009 (Wrong)<br>
+
+</td><td align=center>
+
+![](diagonal-lashing-2019.png)<br>
+2019 (Right)
+
+</td></tr></table>
+
+Lashings, Pioneering merit badge pamphlet
+
+Notes:
+
+Fraps are wrong.
+
+----
+
+<table><tr><td align=center>
+
+![](floor-lashing-wrong-2009.png)<br>
+2009 (Wrong)
+
+</td><td align=center>
+
+![](floor-lashing-2019.png)<br>
+2019 (Right)
+
+</td></tr></table>
+
+Lashings, Pioneering merit badge pamphlet
+
+Notes:
+
+Insufficient detail, picture shows two rows and diagram implies a single loop.
+
+----
+
+<table><tr><td align=center>
+
+![](tripod-lashing-wrong-2009.png)<br>
+2009 (Wrong)
+
+</td><td align=center>
+
+![](tripod-lashing-2019.png)<br>
+2019 (Right)
+
+</td></tr></table>
+
+Lashings, Pioneering merit badge pamphlet
+
+Notes:
+
+Don't weave over/under. Go around the three spars and frap to tighten. The spars should all go out the same side, not alternate.
+
+----
+
+# Why show this?
+
+Really little details mean a lot with a knot.
+
+Even experts and paid professionals get it wrong.
+
+----
+
+<!-- .slide: data-background="quiz-time.jpg" data-background-size="contain" -->
+
+----
+
+<table><tr><td colspan=2 align=center>
+
+Figure eight on a bight, Pioneering merit badge pamphlet, 2009 (left) vs 2019 (right).
+
+**Where is the difference?**
+
+</td></tr><tr><td align=center>
+
+![](figure-8-on-bight-wrong-2009.png)
+
+</td><td align=center>
+
+![](figure-8-on-bight-2019.png)
+
+</td></tr></table>
+
+----
+
+Did you notice this? Compare the crossings.
+
+The left one is wrong.
+
+<table><tr><td align=center>
+
+![](figure-8-on-bight-wrong-2009-zoom.png)
+
+</td><td align=center>
+
+![](figure-8-on-bight-2019-zoom.png)
+
+</td></tr></table>
+
 ----
 
 ## What can we learn?
@@ -241,23 +380,175 @@ Ashley Book of Knots
 
 ---
 
-## Fundamentals (Part 1)
+## Rope Construction
 
-2a: Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope.
-
-----
-
-<!-- .slide: data-background="common-whipping.gif" data-background-size="contain" -->
+Fibers are twisted together to make yarns.<br />
+Yarns are twisted together to make strands.<br />
+Strands are twisted together to make rope.
 
 ----
 
-<!-- .slide: data-background="west-country-whipping.png" data-background-size="contain" -->
+<!-- .slide: data-background="strands-yarns.jpg" data-background-size="contain" -->
+
+Notes:
+
+Define: S twist vs Z twist.
+
+Thinner yarns can be twisted together to make plied yarns.
 
 ----
 
-<!-- .slide: data-background="fuse-rope.jpg" data-background-size="contain" -->
+## Twisted vs Braided
+
+Braided rope can be hollow.
+
+Braided rope can have strands inside. Those may be twisted, braided, or straight.
+
+The braided jackets provide protection for the core.
 
 ----
+
+<!-- .slide: data-background="twisted-vs-braided.jpg" data-background-size="contain" -->
+
+Notes:
+
+Forgive the British English spelling.
+
+---
+
+## Rope Types
+
+4: Explain the differences between synthetic ropes and natural-fiber ropes. Discuss which types of rope are suitable for pioneering work and why. Include the following in your discussion: breaking strength, safe working loads, and the care and storage of rope.
+
+----
+
+<!-- .slide: data-background="types-of-rope.jpg" data-background-size="contain" -->
+
+Notes:
+
+Nylon stretches. Sisal kinks (super bad) when wet. Natural fibers swell and shrink when wet and may need to be stretched before use. Synthetics slip and different knots might need to be used. Polypropylene loses strength when exposed to the sun. Polyethylene develops permanent kinks. Cotton and jute are weaker than most others.
+
+----
+
+<!-- .slide: data-background="rope-comparison.png" data-background-size="contain" -->
+
+Notes:
+
+Nylon is a clear champion for most. Paracord and climbing ropes use sheathed nylon to combat two major weaknesses.
+
+----
+
+<!-- .slide: data-background="quiz-time2.jpg" data-background-size="contain" -->
+
+----
+
+
+What type of rope is best for boat anchors, water skiing, and towing innertubes on the water?
+
+<table><tr><td align="center">
+
+Polypropylene<br />
+Polyester<br />
+Nylon
+
+</td><td align="center">
+
+Cotton<br />
+Sisal<br />
+Jute<br />
+Manila
+
+</td></tr></table>
+
+----
+
+What type of rope is best for boat anchors, water skiing, and towing innertubes on the water?
+
+**Polypropylene**
+
+> Polypropylene and polyethylene float and are resistant to chemicals.
+
+----
+
+What type of rope is best for climbing?
+
+<table><tr><td align="center">
+
+Polypropylene<br />
+Polyester<br />
+Nylon
+
+</td><td align="center">
+
+Cotton<br />
+Sisal<br />
+Jute<br />
+Manila
+
+</td></tr></table>
+
+----
+
+What type of rope is best for climbing?
+
+**Nylon**
+
+> Highly resistant to shocks, high strength, low weight, rot proof, resists chemicals.
+
+----
+
+What type of rope is best for pioneering?
+
+<table><tr><td align="center">
+
+Polypropylene<br />
+Polyester<br />
+Nylon
+
+</td><td align="center">
+
+Cotton<br />
+Sisal<br />
+Jute<br />
+Manila
+
+</td></tr></table>
+
+----
+
+What type of rope is best for pioneering?
+
+**Manila** - **Sisal** - **Polyester**
+
+Notes:
+
+> Manila is best, sisal is good, jacketed polyester can work. These projects require high strength, low stretch, resistance to abrasion, and resistance to the sun's UV rays.
+
+----
+
+What should you do with ropes with kinks?
+
+----
+
+What should you do with ropes with kinks?
+
+> Do not use them for load-sensitive projects. They are compromised.
+
+----
+
+Climbing ropes come labeled with dates.
+
+What should you do with an old climbing rope?
+
+----
+
+Climbing ropes come labeled with dates.
+
+What should you do with an old climbing rope?
+
+> Do not use it for climbing!
+
+---
 
 ## Fundamentals (Part 2)
 
@@ -312,7 +603,25 @@ Attaching to another rope
 
 <!-- .slide: data-background="sheet-bend.jpg" data-background-size="contain" -->
 
+---
+
+## Fundamentals (Part 1)
+
+2a: Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope.
+
 ----
+
+<!-- .slide: data-background="common-whipping.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="west-country-whipping.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="fuse-rope.jpg" data-background-size="contain" -->
+
+---
 
 ## Fundamentals (Part 3)
 
@@ -354,27 +663,17 @@ Attaching to another rope
 
 ---
 
-## Rope Types
-
-4: Explain the differences between synthetic ropes and natural-fiber ropes. Discuss which types of rope are suitable for pioneering work and why. Include the following in your discussion: breaking strength, safe working loads, and the care and storage of rope.
-
-----
-
-<!-- .slide: data-background="types-of-rope.jpg" data-background-size="contain" -->
-
-Notes:
-
-Nylon stretches. Sisal gets kinks when wet, making it unsuitable. Natural fibers swell and shrink when wet and may need to be stretched before use. Synthetics slip and different knots might need to be used. Polypropylene loses strength when exposed to the sun. Polyethylene develops permanent kinks, making it unsuitable. Cotton is weaker than most others.
-
-----
-
-<!-- .slide: data-background="rope-comparison.png" data-background-size="contain" -->
-
----
-
 ## Splices
 
 5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
+
+----
+
+<!-- .slide: data-background="toggle-rope.jpg" data-background-size="contain" -->
+
+Notes:
+
+The toggle rope was used by British Commandos and Paratroopers during World War II.
 
 ----
 
@@ -408,6 +707,10 @@ Rope
 
 ----
 
+<!-- .slide: data-background="rope-making-machine.gif" data-background-size="contain" -->
+
+----
+
 <table><tr><td>
 
 ![](make-cordage.jpg)
@@ -432,6 +735,10 @@ Rope
 
 ----
 
+<!-- .slide: data-background="braided-rope-making-machine.gif" data-background-size="contain" -->
+
+----
+
 <!-- .slide: data-background="rope-spinner.jpg" data-background-size="contain" -->
 
 ----
@@ -443,6 +750,18 @@ Notes:
 Traveler on far side because rope will shorten the cordage to about 70% of starting length. Traveler can twist manually or have a swivel.
 
 Spacer is replaced later with a "top".
+
+----
+
+<video controls>
+    <source src="making-rope.mp4" type="video/mp4">
+</video>
+
+<div style="font-size: 0.5em">
+
+[YouTube](https://www.youtube.com/watch?v=D5F2EcCsNCE) - Rope Making Machine by Johnny Debt
+
+</div>
 
 ---
 
