@@ -605,6 +605,20 @@ Attaching to another rope
 
 ---
 
+## Eight Knot Contest
+
+Do you know your knots?
+
+----
+
+<!-- .slide: data-background="eight-knot-contest-normal.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="eight-knot-contest-pioneering.jpg" data-background-size="contain" -->
+
+---
+
 ## Fundamentals (Part 1)
 
 2a: Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope.
@@ -620,72 +634,6 @@ Attaching to another rope
 ----
 
 <!-- .slide: data-background="fuse-rope.jpg" data-background-size="contain" -->
-
----
-
-## Fundamentals (Part 3)
-
-2c: Demonstrate and explain when to use the following lashings: square, diagonal, round, shear, tripod, and floor lashing.
-
-----
-
-<!-- .slide: data-background="square-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="diagonal-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="round-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="shear-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="tripod-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="floor-lashing.jpg" data-background-size="contain" -->
-
----
-
-## Throwing Rope
-
-3: Explain why it is useful to be able to throw a rope, then demonstrate how to coil and throw a 40-foot length of 1/4- or 3/8-inch rope. Explain how to improve your throwing distance by adding weight to the end of your rope.
-
-----
-
-<!-- .slide: data-background="coil-rope.jpg" data-background-size="contain" -->
-
----
-
-## Splices
-
-5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
-
-----
-
-<!-- .slide: data-background="toggle-rope.jpg" data-background-size="contain" -->
-
-Notes:
-
-The toggle rope was used by British Commandos and Paratroopers during World War II.
-
-----
-
-<!-- .slide: data-background="back-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="eye-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="short-splice.jpg" data-background-size="contain" -->
 
 ---
 
@@ -762,6 +710,72 @@ Spacer is replaced later with a "top".
 [YouTube](https://www.youtube.com/watch?v=D5F2EcCsNCE) - Rope Making Machine by Johnny Debt
 
 </div>
+
+---
+
+## Fundamentals (Part 3)
+
+2c: Demonstrate and explain when to use the following lashings: square, diagonal, round, shear, tripod, and floor lashing.
+
+----
+
+<!-- .slide: data-background="square-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="diagonal-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="round-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="shear-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="tripod-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="floor-lashing.jpg" data-background-size="contain" -->
+
+---
+
+## Throwing Rope
+
+3: Explain why it is useful to be able to throw a rope, then demonstrate how to coil and throw a 40-foot length of 1/4- or 3/8-inch rope. Explain how to improve your throwing distance by adding weight to the end of your rope.
+
+----
+
+<!-- .slide: data-background="coil-rope.jpg" data-background-size="contain" -->
+
+---
+
+## Splices
+
+5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
+
+----
+
+<!-- .slide: data-background="toggle-rope.jpg" data-background-size="contain" -->
+
+Notes:
+
+The toggle rope was used by British Commandos and Paratroopers during World War II.
+
+----
+
+<!-- .slide: data-background="back-splice.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="eye-splice.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="short-splice.jpg" data-background-size="contain" -->
 
 ---
 
