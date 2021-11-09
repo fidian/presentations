@@ -611,7 +611,7 @@ Do you know your knots?
 
 ----
 
-<!-- .slide: data-background="eight-knot-contest-normal.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="eight-knot-contest-normal.png" data-background-size="contain" -->
 
 ----
 
@@ -713,6 +713,32 @@ Spacer is replaced later with a "top".
 
 ---
 
+## Splices
+
+5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
+
+----
+
+<!-- .slide: data-background="toggle-rope.jpg" data-background-size="contain" -->
+
+Notes:
+
+The toggle rope was used by British Commandos and Paratroopers during World War II.
+
+----
+
+<!-- .slide: data-background="back-splice.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="eye-splice.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="short-splice.jpg" data-background-size="contain" -->
+
+---
+
 ## Fundamentals (Part 3)
 
 2c: Demonstrate and explain when to use the following lashings: square, diagonal, round, shear, tripod, and floor lashing.
@@ -750,32 +776,6 @@ Spacer is replaced later with a "top".
 ----
 
 <!-- .slide: data-background="coil-rope.jpg" data-background-size="contain" -->
-
----
-
-## Splices
-
-5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
-
-----
-
-<!-- .slide: data-background="toggle-rope.jpg" data-background-size="contain" -->
-
-Notes:
-
-The toggle rope was used by British Commandos and Paratroopers during World War II.
-
-----
-
-<!-- .slide: data-background="back-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="eye-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="short-splice.jpg" data-background-size="contain" -->
 
 ---
 
