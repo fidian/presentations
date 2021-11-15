@@ -777,6 +777,18 @@ The toggle rope was used by British Commandos and Paratroopers during World War 
 
 <!-- .slide: data-background="coil-rope.jpg" data-background-size="contain" -->
 
+----
+
+<!-- <table><tr><td> -->
+
+![](coil-rope2.jpg)
+
+<!-- </td><td> -->
+
+Split the coil in two. Throw your right hand coil first underhand. Follow with throwing left half or letting coils fly from left hand. The rope will go much farther.
+
+<!-- </td></tr></table> -->
+
 ---
 
 ## Anchoring
@@ -807,7 +819,15 @@ The toggle rope was used by British Commandos and Paratroopers during World War 
 
 ![](rope-tackle2.jpg)
 
+</td><td>
+
+![](rope-tackle3.jpg)
+
 </td></tr></table>
+
+----
+
+<!-- .slide: data-background="rope-tackle-pulling.jpg" data-background-size="contain" -->
 
 ---
 
