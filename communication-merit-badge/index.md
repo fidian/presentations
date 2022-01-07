@@ -85,7 +85,7 @@ It is not designed to be cruel to you, but you'll be jumping around your notes a
 (4) Interview someone you know fairly well, like, or respect because of his or her position, talent, career, or life experiences. Listen actively to learn as much as you can about the person. Then prepare and deliver to your counselor an introduction of the person as though this person were to be a guest speaker, and include reasons why the audience would want to hear this person speak. Show how you would call to invite this person to speak.
 <!-- .element: style="font-size: 0.8em" -->
 
-<img src="homework-2.jpg" width="50%">
+<img src="lets-go-5.jpg" width="25%">
 
 ---
 
@@ -184,7 +184,7 @@ Can teach at this session.
 (1c) In a small-group setting, meet with other Scouts or with friends. Have them share personal stories about significant events in their lives that affected them in some way. Take note of how each Scout participates in the group discussion and how effectively each Scout communicates their story. Report what you have learned to your counselor about the differences you observed in effective communication.
 <!-- .element: style="font-size: 0.8em" -->
 
-<img src="homework-11.jpg" width="50%">
+<img src="option-1.jpg" width="15%">
 
 Notes:
 
@@ -195,7 +195,7 @@ Will likely do this in advance because otherwise this portion can take a long ti
 (1d) List as many ways as you can think of to communicate with others (face-to-face, by telephone, letter, email, text messages, social media, and so on). For each type of communication, discuss with your counselor an instance when that method might not be appropriate or effective.
 <!-- .element: style="font-size: 0.8em" -->
 
-<img src="lets-go-4.jpg" width="50%">
+<img src="option-2.jpg" width="15%">
 
 ---
 
