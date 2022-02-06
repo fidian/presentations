@@ -60,7 +60,15 @@ What are signs, signals, and codes?
 
 Notes:
 
-Different methods of communication that are not simply words.
+BSA definition isn't what's expected - signs communicate messages without words.
+
+----
+
+<!-- .slide: data-background="automotive-symbols.jpg" data-background-size="contain" data-background-color="#03070a" -->
+
+Notes:
+
+Signs can also be confusing without a shared meaning.
 
 ----
 
@@ -76,7 +84,31 @@ When were signs, signals, and codes first used?
 
 Notes:
 
-Most likely it was a gesture.
+Earliest sign was cave paintings, earliest signal was likely a gesture, earliest code was likely steganography in 500 BC (Histiaeus, ruler of Milteus, tattooed a message on a slave's shaved head, let hair grow, sent slave to Aristagoras, his son-in-law).
+
+----
+
+<!-- .slide: data-background="oldest-cave-painting.jpg" data-background-size="contain" -->
+
+Notes:
+
+Earliest sign: picture of pig in Indonesia, 45,500 years ago.
+
+----
+
+<!-- .slide: data-background="caveman-yes.gif" data-background-size="contain" -->
+
+Notes:
+
+Earliest signal: likely a gesture
+
+----
+
+<!-- .slide: data-background="caesar-cipher.png" data-background-size="contain" -->
+
+Notes:
+
+Earliest code: Caesar cipher, about 56 BC, general Julius Caesar
 
 ----
 
@@ -149,6 +181,14 @@ https://www.flickr.com/photos/troop14/8433084241
 
 3b: Describe what American Sign Language (ASL) is and how it is used today. Spell your first name using American Sign Language. Send or receive a message of six to 10 words using ASL.
 
+Notes:
+
+ASL words are not the same as English words. Articles can be omitted. Sign "May the Force be with you" = two gestures, both are compound (roughly 3 words signed).
+
+----
+
+<!-- .slide: data-background="force-be-with-you.gif" data-background-size="contain" -->
+
 ----
 
 <!-- .slide: data-background="asl.png" data-background-size="contain" -->
@@ -169,6 +209,10 @@ Transmits messages visually, one letter at a time, by positioning flags around t
 ----
 
 <!-- .slide: data-background="optical-telegraph.jpg" data-background-size="contain" -->
+
+Notes:
+
+Optical telegraph, 18th century France.
 
 ----
 
@@ -195,10 +239,6 @@ Space/rest also should be used to separate repeated letters, such as with "HELLO
 ----
 
 4b: Using illustrations or photographs, identify 10 examples of nautical flags and discuss their importance.
-
-Notes:
-
-Bucky states that Scouts need to come prepared for 4b.
 
 ----
 
@@ -278,20 +318,12 @@ Train whistle. Fire alarm (questionable). Bugle calls. Whistle signals in milita
 
 8e: An activity selected by you and your counselor
 
-Notes:
-
-Bucky says Scouts should come prepared in order to get this signed off.
-
 ---
 
 ## Examples Used Today
 ### Requirement 9
 
 9: Share with your counselor 10 examples of symbols used in everyday life. Design your own symbol. Share it with your counselor and explain what it means.
-
-Notes:
-
-Bucky says this should be prepared before class.
 
 ----
 
