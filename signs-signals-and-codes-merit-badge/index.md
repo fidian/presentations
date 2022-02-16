@@ -248,6 +248,14 @@ Flags here represent letters, numbers, or short messages. It does this by using 
 
 ----
 
+<!-- .slide: data-background="international-codes-left.jpg" data-background-size="cover" -->
+
+Notes:
+
+International Code of Signals, circa WWII (1940's). Three-letter codes also exist.
+
+----
+
 4a: Spell your first name using semaphore. Send or receive a message of six to 10 words using semaphore.
 
 ----
