@@ -1,10 +1,10 @@
 {
     "private": true,
     "scripts": {
-        "clean": "rm -rf static",
-        "build": "npm run clean && mkdir static && for F in */index.md; do ( D=${F%index.md}; cd \"$D\"; npm run static ); done",
-        "start": "cd \"$INIT_CWD\" && reveal-md index.md -w",
-        "static": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../static/${INIT_CWD##*/}\" --static-dirs ."
+        "clean": "rm -rf docs && mkdir docs",
+        "build": "npm run clean && for F in */index.md; do ( D=${F%index.md}; cd \"$D\"; npm run build-presentation ); done",
+        "build-presentation": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs .",
+        "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
     },
     "dependencies": {
         "reveal-md": "latest"
