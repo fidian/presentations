@@ -236,7 +236,7 @@ Transmits messages visually, one letter at a time, by positioning flags around t
 
 Notes:
 
-Optical telegraph, 18th century France.
+Optical telegraph, 18th century France. Mostly used to spread gossip about aristocrats.
 
 ----
 
@@ -245,6 +245,14 @@ Optical telegraph, 18th century France.
 Notes:
 
 Flags here represent letters, numbers, or short messages. It does this by using many different flags. Semaphore conveys single letters at a time by flag position.
+
+----
+
+<!-- .slide: data-background="boat-flags.jpg" data-background-size="cover" -->
+
+Notes:
+
+Can run flags up any of the masts. Larger ships can send more complex messages because they have the space.
 
 ----
 
