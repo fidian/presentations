@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "clean": "rm -rf docs && mkdir docs",
-        "build": "npm run clean && for F in */index.md; do ( D=${F%index.md}; cd \"$D\"; npm run build-presentation ); done",
+        "build": "npm run clean && for F in */index.md; do ( D=${F%index.md}; cd \"$D\"; npm run build-presentation ); done && npm run build-index",
+        "build-index": "cd docs && for F in */index.html; do D=${F%index.html}; echo \"<a href=\\\"$F\\\">$D</a><br>\"; done > index.html",
         "build-presentation": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs .",
         "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
     },
