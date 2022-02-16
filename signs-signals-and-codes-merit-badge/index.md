@@ -28,8 +28,6 @@ Bring topographical map.
 
 Tyler Akins
 
-Website on pencil-and-paper ciphers
-
 <table><tr><td>
 
 12650 130th Ave N<br>
@@ -81,10 +79,6 @@ They can indicate danger, instructions for use, or convey messages.
 ----
 
 When were signs, signals, and codes first used?
-
-Notes:
-
-Earliest sign was cave paintings, earliest signal was likely a gesture, earliest code was likely steganography in 500 BC (Histiaeus, ruler of Milteus, tattooed a message on a slave's shaved head, let hair grow, sent slave to Aristagoras, his son-in-law).
 
 ----
 
@@ -172,6 +166,16 @@ https://www.flickr.com/photos/troop14/8433084241
 
 <!-- .slide: data-background="morse-code-tree.png" data-background-size="contain" -->
 
+<table style="width: 100%">
+<tr>
+<td style="width: 30%">&larr; Dot</td>
+<td></td>
+<td style="width: 30%">Dash &rarr;</td>
+</tr>
+</table>
+
+<div style="height: 15em"></div>
+
 ---
 
 ## American Sign Language
@@ -183,15 +187,35 @@ https://www.flickr.com/photos/troop14/8433084241
 
 Notes:
 
-ASL words are not the same as English words. Articles can be omitted. Sign "May the Force be with you" = two gestures, both are compound (roughly 3 words signed).
-
-----
-
-<!-- .slide: data-background="force-be-with-you.gif" data-background-size="contain" -->
+ASL words are not the same as English words. Articles can be omitted and there are are contractions.
 
 ----
 
 <!-- .slide: data-background="asl.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="asl-help.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="asl-help-me.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="asl-i-will-help-you.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="asl-how-are-you.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="asl-i-dont-know.gif" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="force-be-with-you.gif" data-background-size="contain" -->
 
 ---
 
