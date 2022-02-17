@@ -31,6 +31,50 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 ---
 
+## Expectations
+
+----
+
+<!-- .slide: data-background="on-my-honor-coin.jpg" data-background-size="cover" -->
+
+## Scout-Like Behavior
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Respectful and engaged, otherwise you will be asked to leave.
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+## Like College, Not High School
+
+With college, you pay the instructor to teach. It's up to the student to learn.
+
+----
+
+## Not Prepared?
+
+It's okay. Let me know, I make a note, and we will simply move on.
+
+I'll try to help achieve as many requirements as possible.
+
+<img src="unprepared.jpg">
+
+----
+
+## Action Verb
+
+Each requirement has action verbs. "Describe," "prepare," "report," "interview," and other actions need to be performed.
+
+Requirements must be met word for word.
+
+----
+
+## Participation Is Expected
+
+<img src="participation.jpg" width="40%"/>
+
+---
+
 ### What Is An Emergency?
 
 ----
