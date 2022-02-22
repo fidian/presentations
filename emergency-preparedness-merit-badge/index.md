@@ -69,6 +69,16 @@ Requirements must be met word for word.
 
 ----
 
+## Ethics
+
+Scouts are expected to have done their own work. It is immoral to claim another person's work as your own. This includes:
+
+* Making your own kit instead of entirely relying on a pre-made emergency kit.
+
+* Writing your own words for the chart in 2C, not copying and pasting.
+
+----
+
 ## Participation Is Expected
 
 <img src="participation.jpg" width="40%"/>
@@ -219,13 +229,7 @@ Smoke detectors are warning devices.
 
 ## Mitigation
 
-Lessen the impact of the next emergency by taking action now.
-
-Notes:
-
-This class can be seen as mitigation for people who are not prepared, or protection as a review of what you already have on place.
-
-Mitigation is often done after an event, but can be done in advance.
+We will come back to this.
 
 ----
 
@@ -249,6 +253,20 @@ Get back to normal.
 
 Rebuild, repair, heal, console.
 
+----
+
+## Mitigation
+
+Lessen the impact of the next emergency by taking action now.
+
+It's finding new ways or taking an action to see if you can improve any of the other four aspects.
+
+Notes:
+
+This class can be seen as mitigation for people who are not prepared, or protection as a review of what you already have on place.
+
+Mitigation is often done after an event, but can be done in advance.
+
 ---
 
 ## Planning and Aspects
@@ -259,15 +277,25 @@ Rebuild, repair, heal, console.
 
 ----
 
-<table style="border: 1px solid black; font-size: 75%" border=1>
-<tr><th>Emergency</th><th>Prevent</th><th>Protect</th><th>Mitigate</th><th>Respond</th><th>Recover</th></tr>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td>
-</table>
+## Let's be REAL CLEAR
+
+Using a chart, graph, spreadsheet, or another method <span style="background-color: yellow">approved by your counselor</span>, <span style="background-color: orange">demonstrate your understanding</span> of each aspect of emergency preparedness listed in requirement 2a for 10 emergency situations from the list below. <span style="background-color: yellow">Discuss your findings</span> with your counselor.
+
+----
+
+## Ethics Again
+
+All work needs to be your own.
+
+If you have any of the answers in this presentation, cross them out. You can recreate the chart and finish this merit badge after the class is over.
+
+----
+
+## Why Not Copy And Paste?
+
+"Privilege escalation threat modeling revealed race conditions triggering edge-case memory overflows."
+
+You can copy and paste it, but you that doesn't mean you understand it.
 
 ----
 
