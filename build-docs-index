@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+link() {
+    echo "<a href=\"$1\">${2:-$1}</a>"
+}
+
+title() {
+    pup 'title text{}' -f "$1"
+}
+
+cd "${0%/*}/docs" || exit 1
+
+echo "<html><head>"
+echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+echo "<title>Presentation Index</title></head><body>"
+
+for DIR in */; do
+    TARGET="${DIR%/}"
+    echo "<div>"
+    echo "    $(link "$TARGET" "$(title "$TARGET/index.html")") -"
+    echo "    ($(link "$TARGET?print-pdf" printable),"
+    echo "    $(link "$TARGET?print-pdf&showNotes=true" notes-overlay),"
+    echo "    $(link "$TARGET?print-pdf&showNotes=separate-page" notes-separate-page))"
+    echo "</div>"
+done
+
+echo "</body></html>"

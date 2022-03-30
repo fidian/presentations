@@ -75,7 +75,7 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 * Making your own kit instead of entirely relying on a pre-made emergency kit.
 
-* Writing your own words for the chart in 2C, not copying and pasting.
+* Writing your own words for the chart in 2C, not copying and pasting. Or you can explain each section in your own words.
 
 ----
 
@@ -259,13 +259,13 @@ Rebuild, repair, heal, console.
 
 Lessen the impact of the next emergency by taking action now.
 
-It's finding new ways or taking an action to see if you can improve any of the other four aspects.
+It's **taking an action** to see if you can improve any of the other four aspects.
 
 Notes:
 
-This class can be seen as mitigation for people who are not prepared, or protection as a review of what you already have on place.
+Taking this class can be seen as a mitigation step. Checklists, audits, and annual reviews are also mitigation steps.
 
-Mitigation is often done after an event, but can be done in advance.
+The important part is that it is an action you are taking.
 
 ---
 
@@ -285,9 +285,11 @@ Using a chart, graph, spreadsheet, or another method <span style="background-col
 
 ## Ethics Again
 
-All work needs to be your own.
+All work needs to be your own. Don't try to claim someone else's worksheet chart as your own.
 
 If you have any of the answers in this presentation, cross them out. You can recreate the chart and finish this merit badge after the class is over.
+
+Alternately, you are able to explain each topic in your own words.
 
 ----
 
@@ -295,7 +297,7 @@ If you have any of the answers in this presentation, cross them out. You can rec
 
 "Privilege escalation threat modeling revealed race conditions triggering edge-case memory overflows."
 
-You can copy and paste it, but you that doesn't mean you understand it.
+You can copy and paste it, but you that doesn't mean you can demonstrate your understanding of the words.
 
 ----
 
