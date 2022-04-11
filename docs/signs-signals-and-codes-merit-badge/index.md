@@ -28,20 +28,66 @@ Bring topographical map.
 
 Tyler Akins
 
-<table><tr><td>
+Cipher website<br />
+Helped proofread books on ciphers
 
-12650 130th Ave N<br>
-Dayton, MN 55327
-
-</td><td>
-
-612-387-8102 <br>
+612-387-8102 <br />
 fidian@rumkin.com
 
 </td></tr></table>
 
 Email is for adults and for Scouts that have a current Cyber Chip.
 <!-- .element style="color: red" -->
+
+---
+
+## Expectations
+
+----
+
+<!-- .slide: data-background="on-my-honor-coin.jpg" data-background-size="cover" -->
+
+## Scout-Like Behavior
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Respectful and engaged, otherwise you will be asked to leave.
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+----
+
+## Like College, Not High School
+
+With college, you pay the instructor to teach. It's up to the student to learn.
+
+----
+
+## Not Prepared?
+
+It's okay. Let me know, I make a note, and we will simply move on.
+
+I'll try to help achieve as many requirements as possible.
+
+<img src="unprepared.jpg">
+
+----
+
+## Action Verb
+
+Each requirement has action verbs. "Describe," "prepare," "report," "interview," and other actions need to be performed.
+
+Requirements must be met word for word.
+
+----
+
+## Ethics
+
+Scouts are expected to have done their own work. It is immoral to claim another person's work as your own.
+
+----
+
+## Participation Is Expected
+
+<img src="participation.jpg" width="40%"/>
 
 ---
 
@@ -338,6 +384,10 @@ Train whistle. Fire alarm (questionable). Bugle calls. Whistle signals in milita
 ----
 
 <!-- .slide: data-background="trail-signs.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="trail-blaze-symbols.svg" data-background-size="contain" -->
 
 ---
 

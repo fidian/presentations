@@ -20,7 +20,6 @@ Tyler Akins
 
 Tyler Akins
 
-
 Accident prone + lived in obscure area
 
 612-387-8102 <br>
