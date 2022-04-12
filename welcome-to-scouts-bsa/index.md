@@ -37,21 +37,13 @@ Started in London. Robert Baden-Powell published a series of booklets that estab
 ## Coming to the United States
 
 <table><tr><td width="20%">
-
-![](ymca.jpg)
-
+<img src="ymca.jpg" style="vertical-align: middle">
 </td><td>+</td><td width="20%">
-
-![](ernest-thompson-seton.jpg)
-
+<img src="ernest-thompson-seton.jpg" style="vertical-align: middle">
 </td><td>+</td><td width="20%">
-
-![](sons-of-daniel-boone.jpg)
-
+<img src="sons-of-daniel-boone.jpg" style="vertical-align: middle">
 </td><td>=</td><td width="20%">
-
-![](official-handbook.jpg)
-
+<img src="official-handbook.jpg" style="vertical-align: middle">
 </td></tr></table>
 
 Notes:
@@ -241,7 +233,7 @@ It's hard, but your children will learn, advance, and become more independent fa
 
 ----
 
-Go do it!
+Go do it!<br>Here's how to get better.
 <!-- .element: style="color: blue" -->
 
 ![](coach-teacher-mentor.png)
@@ -253,7 +245,8 @@ Here's how to do it.<br>Let me help you.
 
 </td><td>
 
-How do you think you'll get that done?
+How do you think you'll get that done?<br>Is there a better, safer, or more
+cost-effective way?
 <!-- .element: style="color: teal" -->
 
 </td></tr></table>
@@ -460,7 +453,7 @@ Notes:
 
 Notes:
 
-NOVA, SuperNOVA, Religious Emblems
+Nova, Supernova, Religious Emblems
 
 ---
 
@@ -594,7 +587,7 @@ Children of active parents seem to get more out of the program and have more fun
 
 Merit Badge Counselors
 
-STEM: NOVA Counselors and SuperNOVA Mentors
+STEM: Nova Counselors and Supernova Mentors
 
 ----
 
