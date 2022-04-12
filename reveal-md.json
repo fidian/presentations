@@ -1,0 +1,12 @@
+{
+    "css": [
+        "plugins/verticator.css",
+        "plugins/style.css"
+    ],
+    "scripts": [
+        "plugins/smallcontrol.js",
+        "plugins/verticator.js",
+        "plugins/plugin-loader.js"
+    ],
+    "theme": "white"
+}

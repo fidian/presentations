@@ -1,7 +1,5 @@
 ---
 title: Signs, Signals, and Codes Merit Badge
-theme: white
-css: style.css
 ---
 
 # Signs, Signals, and Codes

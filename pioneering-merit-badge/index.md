@@ -1,7 +1,5 @@
 ---
 title: Pioneering Merit Badge
-theme: white
-css: style.css
 ---
 
 # Pioneering Merit Badge

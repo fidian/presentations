@@ -1,7 +1,5 @@
 ---
 title: Communication Merit Badge
-theme: white
-css: style.css
 ---
 
 # Communication Merit Badge

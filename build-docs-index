@@ -18,9 +18,10 @@ for DIR in */; do
     TARGET="${DIR%/}"
     echo "<div>"
     echo "    $(link "$TARGET" "$(title "$TARGET/index.html")") -"
-    echo "    ($(link "$TARGET?print-pdf" printable),"
-    echo "    $(link "$TARGET?print-pdf&showNotes=true" notes-overlay),"
-    echo "    $(link "$TARGET?print-pdf&showNotes=separate-page" notes-separate-page))"
+    echo "    ($(link "$TARGET?showNotes=true" notes),"
+    echo "    $(link "$TARGET?print-pdf" printable),"
+    echo "    $(link "$TARGET?print-pdf&showNotes=true" "printable+notes overlay"),"
+    echo "    $(link "$TARGET?print-pdf&showNotes=separate-page" "printable+notes separate page"))"
     echo "</div>"
 done
 

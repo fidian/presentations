@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+cd "${0%/*}" || exit 1
+
+(
+    cd plugins || exit 1
+    ./update
+)
+
+mkdir -p docs
+
+# echo "Updating assets"
+# for D in */index.md; do
+#     D=${D%/*}/
+#     rsync -a --no-links --delete "$D" docs/"$D"
+# done
+
+npx reveal-md ./ --static docs/
+
+echo ""
+echo "Build index"
+./build-docs-index > docs/index.html

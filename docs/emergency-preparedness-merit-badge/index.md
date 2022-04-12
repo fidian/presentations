@@ -1,7 +1,5 @@
 ---
 title: Emergency Preparedness Merit Badge
-theme: white
-css: style.css
 ---
 
 # Emergency Preparedness

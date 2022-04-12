@@ -1,7 +1,5 @@
 ---
 title: Programming Merit Badge
-theme: white
-css: style.css
 ---
 
 # Programming Merit Badge

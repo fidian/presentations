@@ -1,7 +1,5 @@
 ---
 title: Digital Technology Merit Badge
-theme: white
-css: style.css
 ---
 
 # Digital Technology Merit Badge

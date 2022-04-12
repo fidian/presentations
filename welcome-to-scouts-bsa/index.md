@@ -1,7 +1,5 @@
 ---
 title: Welcome to Scouts BSA
-theme: white
-css: style.css
 ---
 
 <!-- .slide: data-background="bsa-logo.svg" -->
@@ -14,18 +12,54 @@ css: style.css
 
 </div>
 
+----
+
+## About This Presentation
+
+Digesting this much information will be difficult.
+
+When you have a question, ***please*** stop me at any time and ask it.
+
+Feel free to ask questions of any leader after this presentation too.
+
+Notes:
+
+If you have a question, there's a good chance that someone else has it too.
+
+----
+
+## TLA's<br><span style="font-size:0.7em">(Three Letter Acronyms)</span>
+
+<table style="font-size: 0.7em"><tr><td>
+BSA – Boy Scouts of America<br>
+SE – Scout executive<br>
+DE – district executive<br>
+COR – chartered organization representative<br>
+SM – Scoutmaster<br>
+ASM – assistant Scoutmaster<br>
+</td><td>
+PLC – patrol leaders’ council<br>
+SPL – senior patrol leader<br>
+ASPL – assistant senior patrol leader<br>
+PL – patrol leader<br>
+APL – assistant patrol leader<br>
+</td><td>
+</td></tr></table>
+
+Notes:
+
+We use a bunch. This presentation does not. Here's a sampling of more common ones. Don't worry about memorizing them; if I use one and you don't know it, simply ask.
+
+Scout and Scoutmaster are capitalized on purpose - they are trademarked by the BSA.
+
 ---
 
 ## What Is Scouting?
 
 <table><tr><td>
-
-![](robert-baden-powell.jpg)
-
+<img src="robert-baden-powell.jpg" style="vertical-align: middle">
 </td><td>
-
-![](scouting-for-boys.jpg)
-
+<img src="scouting-for-boys.jpg" style="vertical-align: middle">
 </td></tr></table>
 
 Notes:
@@ -175,6 +209,10 @@ Scouts do things by themselves, parents step back
 
 </td></tr></table>
 
+Notes:
+
+Each troop is unique, similar to how each family is different. We're covering how our troop wishes to implement the BSA's program.
+
 ----
 
 ## Getting Started
@@ -233,20 +271,19 @@ It's hard, but your children will learn, advance, and become more independent fa
 
 ----
 
-Go do it!<br>Here's how to get better.
+Here's how to get better.
 <!-- .element: style="color: blue" -->
 
 ![](coach-teacher-mentor.png)
 
 <table><tr><td width="50%">
 
-Here's how to do it.<br>Let me help you.
+Let me help you learn how.
 <!-- .element: style="color: green" -->
 
 </td><td>
 
-How do you think you'll get that done?<br>Is there a better, safer, or more
-cost-effective way?
+What do you think? Is there a better way?
 <!-- .element: style="color: teal" -->
 
 </td></tr></table>
@@ -254,18 +291,6 @@ cost-effective way?
 Notes:
 
 On campouts and during troop activities, you're now a mentor. Ask exploratory and probing questions to make them think.
-
-----
-
-<!-- .slide: data-background="bliss.jpg" -->
-
-<table><tr><td>
-
-## Let us take responsibility.
-
-You'll learn to love the freedom!
-
-</td><td width="50%"></td></tr></table>
 
 ----
 
@@ -308,21 +333,22 @@ What do parents do? Great question. Mostly sit around and talk. Parents are obse
 
 ## Advancement Process
 
-Explain the skill to be learned.
-
-Demonstrate the skill.
-
-Guide the Scout while they perform.
-
-Enable the Scout by letting them teach others.
-
 *The EDGE Method*
+<!-- .element: style="background-color: lightblue; border: .04em solid navy; width: 60%; margin: 0.5em auto" -->
+
+*Explain* the skill to be learned.
+
+*Demonstrate* the skill.
+
+*Guide* the Scout while they perform.
+
+*Enable* the Scout by letting them teach others.
 
 ----
 
 ## Completing Requirements
 
-Must be met *exactly as written*
+Must be met <ins>exactly as written</ins>
 
 Signed off by a senior Scout or an adult leader
 
@@ -338,25 +364,33 @@ Eg. A short hike for merit badge and rank, but not two merit badges nor two rank
 
 ## Rank Advancement
 
-Scout Spirit
+Skills or objectives change with each rank.
 
-Scoutmaster Conference
+Three things are always included:
 
-Board of Review
+* Scout Spirit
+* Scoutmaster Conference
+* Board of Review
 
 ----
 
 ## Troop Structure
 
-![](troop-structure.png)
+Youth-led troop and youth leadership positions
+
+Patrols are ideally 6-8 youth
+
+Adults facilitate
 
 Notes:
 
-Explain youth-led troop, which is a small democracy.
+The troop is a small democracy controlled by the youth in elected positions.
 
-Talk about leadership positions.
+Patrols choose a name, a yell, and makes a flag. They camp, cook, clean, and go on activities together.
 
-Talk about patrols - teams of 4 to 10 kids. Each chooses a name, yell, and makes a flag. Camp, cook, clean, and go on activities together.
+----
+
+<!-- .slide: data-background="troop-structure.png" data-background-size="contain"-->
 
 ----
 
@@ -385,7 +419,7 @@ Patrol leaders instructs and guides the patrol.
 
 ----
 
-![](patrol-leader.gif)
+<!-- .slide: data-background="patrol-leader.gif" data-background-size="contain" -->
 
 Notes:
 
@@ -400,8 +434,7 @@ It's also a position with a lot of responsibility. Coordinating meetings, commun
 
 ----
 
-![](merit-badge-poster.jpg)
-
+<!-- .slide: data-background="merit-badge-poster.jpg" data-background-size="contain" -->
 
 Notes:
 
@@ -414,13 +447,9 @@ Available during camp, troop meetings, weekend outings, on their own, and during
 ----
 
 <table><tr><td>
-
-![](blue-card.png)
-
+<img src="blue-card.png" style="vertical-align: middle">
 </td><td>
-
-![](merit-badge-pamphlets.png)
-
+<img src="merit-badge-pamphlets.png" style="vertical-align: middle">
 </td></tr></table>
 
 Notes:
@@ -436,17 +465,11 @@ Notes:
 ## Other Awards
 
 <table><tr><td width="33%">
-
-![](nova.jpg)
-
+<img src="nova.jpg" style="vertical-align: middle">
 </td><td width="33%">
-
-![](supernova.jpg)
-
+<img src="supernova.jpg" style="vertical-align: middle">
 </td><td width="33%">
-
-![](religious-emblems.png)
-
+<img src="religious-emblems.png" style="vertical-align: middle">
 </td></tr></table>
 
 *and many, many more*
@@ -455,6 +478,106 @@ Notes:
 
 Nova, Supernova, Religious Emblems
 
+----
+
+<div style="columns: 3; font-size: 0.4em">
+
+50-Miler<br>
+Asian American Spirit of Scouting Service<br>
+Alumni<br>
+Boardsailing BSA<br>
+BSA Council Alumnus of the Year<br>
+BSA Lifeguard<br>
+BSA Stand up Paddle Boarding<br>
+BSA Distinguished Conservation Service<br>
+Commissioners and Recognitions<br>
+Community Organization<br>
+Conservation Good Turn<br>
+Complete Angler<br>
+Cub Scout Leader Recognitions<br>
+Cub Scout Outdoor Activity<br>
+Cyber Chip<br>
+Den Chief Service<br>
+Den Leader Trainings<br>
+Distinguished Conservation Service<br>
+Distinguished Eagle Scout<br>
+District of Merit<br>
+Elbert K.Fretwell Outstanding Educator<br>
+Endowment Achievement<br>
+Environmental Protection Agency<br>
+Firem’n Chit<br>
+Founders Bar<br>
+Frank L. Weil Memorial Quality Jewish Committee<br>
+Frank L. Weil Memorial Unit Recognition<br>
+George Meany<br>
+Glenn A. and Melinda W. Adams National Eagle Scout Service Project of the Year<br>
+Historic Trails<br>
+International Scouter’s<br>
+International Spirit<br>
+Interpreter Strip<br>
+James E. West Fellowship<br>
+Journey to Excellence<br>
+Kayaking BSA<br>
+Keep America Beautiful Hometown USA<br>
+Lifesaving and Meritorious Action<br>
+Long Cruise<br>
+Memorial Gold Star<br>
+Messengers of Peace<br>
+Mile Swim BSA<br>
+National Duty to God<br>
+National Honor Patrol<br>
+National Major Gift<br>
+National Medal for Outdoor Achievement<br>
+National Outdoor Challenge Unit<br>
+National Summertime Pack<br>
+NESA Life Membership<br>
+NESA Outstanding Eagle Scout<br>
+North Star<br>
+Order of the Arrow—Distinguished Service<br>
+Order of the Arrow—Founder’s<br>
+Order of the Arrow—Red Arrow<br>
+Order of the Arrow—Vigil Honor<br>
+Outdoor Ethics Awareness and Action<br>
+Paul Bunyan<br>
+Philmont Training Center Masters Track<br>
+Presidents Leadership Council<br>
+Professional Circle<br>
+Professional Fellowship Honor<br>
+Recruiter Strip<br>
+¡Scouting…Vale la Pena! Service<br>
+Scholarships<br>
+Scouter’s Key<br>
+Scouter’s Training<br>
+Scuba BSA<br>
+Sea Scout Leadership<br>
+Second Century Society<br>
+Service Stars<br>
+Silver Antelope<br>
+Silver Beaver<br>
+Silver Buffalo<br>
+Skipper’s Key<br>
+Snorkeling BSA<br>
+Special Needs Scouting Service<br>
+Spirit of the Eagle<br>
+Totin’ Chip<br>
+Torch of Gold<br>
+Trained Strip<br>
+Unit Leader of Merit<br>
+Venturing Leadership<br>
+Venturing Shooting Sports Outstanding Achievement<br>
+Veteran<br>
+Veteran Unit<br>
+W.P. Society<br>
+Whitewater Rafting BSA<br>
+Whitney M. Young Jr. Service<br>
+Whittling Chip<br>
+William D. Boyce New-Unit Organizer<br>
+Winthrop Rockefeller<br>
+World Conservation<br>
+Woods Services
+
+</div>
+
 ---
 
 <!-- .slide: data-background="many-point.jpg" -->
@@ -462,20 +585,24 @@ Nova, Supernova, Religious Emblems
 ## Outings
 <!-- .element: style="color: white" -->
 
+Notes:
+
+This is from Many Point Scout Camp.
+
 ----
 
-## Gear
+## Who Provides Gear
 
 Troop: Tents, cooking equipment, dining fly
 <!-- .element: style="background-color: lightgreen" -->
 
-Patrol: Food
+Patrol or Troop: Food
 <!-- .element: style="background-color: lightblue" -->
 
 Scout: Sleeping system, handbook, bathing suit, weather appropriate clothing, hiking footwear
 <!-- .element: style="background-color: yellow" -->
 
-Day Pack: rain gear, handbook, water bottle
+Scout's Day Pack: rain gear, handbook, water bottle
 <!-- .element: style="background-color: orange" -->
 
 Notes:
@@ -484,12 +611,14 @@ Packing lists are available inside the handbook.
 
 ----
 
+## Camping
+
 * Monthly, even in rain and snow
 * Many Point in summer
-* Adults drive
-* Siblings can come only on some campouts
+* Adults drive and carpool
+* Typically meet at church or JRAC
+* Sometimes siblings can attend campouts
 * Campout fees cover facilities and food
-* Typically meet at church
 
 Notes:
 
@@ -505,7 +634,7 @@ Adults can camp too. Adults camp with adults, but not Scouts (including your own
 
 Required training for all adult leaders.
 
-About 2 hours of video segments.
+About 2 to 3 hours of videos plus quizzes.
 
 Can be done in a class or online.
 
@@ -518,38 +647,22 @@ You'll notice that Safety is our primary concern. It's a part of everything we d
 ----
 
 <table><tr><td width="25%">
-
-![](youth-protection-logo.jpg)
-
+<img src="youth-protection-logo.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](guide-to-safe-scouting.jpg)
-
+<img src="guide-to-safe-scouting.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](totin-chip.jpg)
-
+<img src="totin-chip.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](cyber-chip.jpg)
-
+<img src="cyber-chip.jpg" style="vertical-align: middle">
 </td></tr></table>
 <table><tr><td width="25%">
-
-![](wilderness-first-aid.jpg)
-
+<img src="wilderness-first-aid.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](safety-afloat.jpg)
-
+<img src="safety-afloat.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](two-leaders.jpg)
-
+<img src="two-leaders.jpg" style="vertical-align: middle">
 </td><td width="25%">
-
-![](hazardous-weather-training.jpg)
-
+<img src="hazardous-weather-training.jpg" style="vertical-align: middle">
 </td></tr></table>
 
 Notes:
@@ -569,15 +682,15 @@ All leaders have YPT. Always two-deep leadership, no one-on-one contact. The fir
 
 ## We Need You
 
-All troop leadership positions
+Various troop leadership positions
 
-Focused roles on the committee
+Focused, single-task roles on the committee
 
 Backup Scoutmaster or Assistant Scoutmaster
 
 Notes:
 
-Even an hour a week can make an impact. Most jobs don't require much time, especially with a lot of volunteering parents.
+Most jobs don't require much time, especially with a lot of volunteering parents.
 
 Children of active parents seem to get more out of the program and have more fun.
 
@@ -587,7 +700,9 @@ Children of active parents seem to get more out of the program and have more fun
 
 Merit Badge Counselors
 
-STEM: Nova Counselors and Supernova Mentors
+Outdoor and Bushcraft Skills
+
+Hobbies and Professions
 
 ----
 
@@ -596,17 +711,65 @@ STEM: Nova Counselors and Supernova Mentors
 * University of Scouting
 * Online videos
 * Leadership classes
-* CPR/AED
+* CPR/AED, NRA RSO, etc.
 
-We can ease you into a role too.
+----
+
+## Not Yet Ready?
+
+Consider registering as an adult leader to allow you to go with at summer camp.
+
+Only volunteer for what you can handle when you are ready.
+
+We can help and ease you into any role.
+
+Notes:
+
+Every little bit helps. Volunteer for only what you want to do.
+
+Registering as a leader helps us maintain two-deep leadership at meetings and outings. It allows you to camp with us at Many Point as well.
 
 ----
 
 ## How to Start?
 
 * Let us know
+* Youth protection training
 * Adult application
 * Pay registration fees
+
+---
+
+## Wrapping Up
+
+Let your Scouts make and work through mistakes.<br>They will become more self-reliant.
+
+Don't do anything that a Scout can do.<br>Don't steal opportunities for them to learn.
+
+----
+
+## Making Changes
+
+<table><tr><td style="vertical-align: top">
+
+The Scout
+
+</td><td>
+
+* Reach out to patrol leader
+* Have the topic brought up at the patrol leaders' council
+
+</td></tr>
+<tr><td style="vertical-align: top">
+
+Adults
+
+</td><td>
+
+* Contact the Scoutmaster, assistant Scoutmaster, or senior patrol leader
+* Bring the issue to the committee chair
+
+</td></tr></table>
 
 ----
 
@@ -616,18 +779,8 @@ We can ease you into a role too.
 
 Should be ***FUN!***
 
-*Doing enjoyable, Scouting activities in a safe environment.*
-
-----
-
-## Making Changes
-
-Have the topic brought up at PLC
-
-Contact the Scoutmaster, Assistant Scoutmaster, or Senior Patrol Leader
-
-Bring the issue to the Committee Chair
+*Doing enjoyable Scouting activities in a safe environment.*
 
 ---
 
-<!-- .slide: data-background="youre-awesome.jpg" -->
+<!-- .slide: data-background="youre-awesome.jpg" data-background-size="contain" -->
