@@ -10,6 +10,7 @@ clean:
 docs/%/index.html: %/index.md
 	mkdir -p docs
 	cd $(dir $<) && npm run build
+	rm docs/$(dir $<)/reveal.json docs/$(dir $<)/reveal-md.json docs/$(dir $<)/plugins
 
 docs/index.html: $(presentationsHtml) Makefile build-docs-index
 	./build-docs-index > docs/index.html
