@@ -87,6 +87,10 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 <img src="participation.jpg" width="40%"/>
 
+Notes:
+
+This also means you should follow along and know what question we are discussing.
+
 ---
 
 ## Importance
@@ -111,6 +115,8 @@ BSA definition isn't what's expected - signs communicate messages without words.
 Notes:
 
 Signs can also be confusing without a shared meaning.
+
+Doofer = an object or device where one can't remember its name. "Thingie"
 
 ----
 
@@ -171,15 +177,13 @@ Codes typically change a message from one form to another. They can obscure, sho
 
 <!-- .slide: data-background="ground-to-air.jpg" data-background-size="contain" -->
 
-Notes:
-
-2 mylar space blankets cut up to make the arrow. The trunk of the arrow is about 2 feet wide and 14 feet long.
-
-https://www.flickr.com/photos/troop14/8433084241
-
 ----
 
 <!-- .slide: data-background="air-seeing-signal.jpg" data-background-size="contain"-->
+
+Notes:
+
+2 mylar space blankets cut up to make the arrow. The trunk of the arrow is about 2 feet wide and 14 feet long.
 
 ----
 
@@ -241,25 +245,49 @@ ASL words are not the same as English words. Articles can be omitted and there a
 
 <!-- .slide: data-background="asl-help.gif" data-background-size="contain" -->
 
+Notes:
+
+Help (to assist)
+
 ----
 
 <!-- .slide: data-background="asl-help-me.gif" data-background-size="contain" -->
+
+Notes:
+
+Help me
 
 ----
 
 <!-- .slide: data-background="asl-i-will-help-you.gif" data-background-size="contain" -->
 
+Notes:
+
+I will help you
+
 ----
 
 <!-- .slide: data-background="asl-how-are-you.gif" data-background-size="contain" -->
+
+Notes:
+
+How are you?
 
 ----
 
 <!-- .slide: data-background="asl-i-dont-know.gif" data-background-size="contain" -->
 
+Notes:
+
+I don't know
+
 ----
 
 <!-- .slide: data-background="force-be-with-you.gif" data-background-size="contain" -->
+
+Notes:
+
+May the Force be with you
 
 ---
 
@@ -297,6 +325,8 @@ Flags here represent letters, numbers, or short messages. It does this by using 
 Notes:
 
 Can run flags up any of the masts. Larger ships can send more complex messages because they have the space.
+
+First-Substitute 9 4 5 Y 8 2 Answer/Code 6 4 ?
 
 ----
 
@@ -336,6 +366,10 @@ Space/rest also should be used to separate repeated letters, such as with "HELLO
 ----
 
 5: Explain the braille reading technique and how it helps individuals with sight impairment to communicate. Then do the following:
+
+Notes:
+
+Grade 1 vs Grade 2 (shortcut symbols). Interestingly, reading braille uses the brain's visual cortex.
 
 ----
 
