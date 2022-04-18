@@ -371,6 +371,8 @@ Notes:
 
 Grade 1 vs Grade 2 (shortcut symbols). Interestingly, reading braille uses the brain's visual cortex.
 
+Numbers in Nemeth Braille Code are lowered by one position.
+
 ----
 
 5a: Either by sight or by touch, identify the letters of the braille alphabet that spell your name. By sight or touch, decode a braille message at least six words long.
