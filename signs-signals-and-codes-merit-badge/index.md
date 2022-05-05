@@ -126,6 +126,8 @@ Notes:
 
 They can indicate danger, instructions for use, or convey messages.
 
+Mercaptan is added to natural gas to give it an odor.
+
 ----
 
 When were signs, signals, and codes first used?
