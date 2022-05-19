@@ -18,8 +18,6 @@ Tyler Akins
 
 Tyler Akins
 
-Accident prone + lived in obscure area
-
 612-387-8102 <br>
 fidian@rumkin.com
 
@@ -42,9 +40,9 @@ Respectful and engaged, otherwise you will be asked to leave.
 
 ----
 
-## Like College, Not High School
+## It's Up To You
 
-With college, you pay the instructor to teach. It's up to the student to learn.
+I offer the merit badge and allow you to complete the work. I do not complete the work for you.
 
 ----
 
@@ -60,7 +58,7 @@ I'll try to help achieve as many requirements as possible.
 
 ## Action Verb
 
-Each requirement has action verbs. "Describe," "prepare," "report," "interview," and other actions need to be performed.
+Each requirement has action verbs. "Describe," "discuss," "prepare," "report," "interview," and other actions need to be performed.
 
 Requirements must be met word for word.
 
@@ -72,7 +70,7 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 * Making your own kit instead of entirely relying on a pre-made emergency kit.
 
-* Writing your own words for the chart in 2C, not copying and pasting. Or you can explain each section in your own words.
+* Writing your own words instead of copying and pasting.
 
 ----
 
@@ -88,13 +86,17 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 ## Localized Emergencies
 
-<table><tr><td width="50%">
+<table><tr><td width="33%">
 
 ![](house-fire.jpg)
 
-</td><td>
+</td><td width="33%">
 
 ![](cpr.jpg)
+
+</td><td>
+
+![](falling-through-ice.jpg)
 
 </td></tr></table>
 
@@ -107,6 +109,7 @@ Notes:
 * Ingestion of poison
 * Gas leak
 * Explosion
+* Lost or stranded in dangerous weather
 
 ----
 
@@ -132,18 +135,24 @@ Notes:
 * Tornado
 * Riots
 * Earthquake
+* Hazardous chemicals
+* Pirates
 
 ----
 
 ## National Emergencies
 
-<table><tr><td width="50%">
+<table><tr><td width="33%">
 
 ![](war.jpg)
 
-</td><td width="50%">
+</td><td width="33%">
 
 ![](economic.jpg)
+
+</td><td>
+
+![](food-shortage.jpg)
 
 </td></tr></table>
 
@@ -156,13 +165,17 @@ Notes:
 
 ## Global Emergencies
 
-<table><tr><td width="50%">
+<table><tr><td width="33%">
 
 ![](covid-19.jpg)
 
-</td><td width="50%">
+</td><td width="33%">
 
 ![](climate-change.jpg)
+
+</td><td width="50%">
+
+![](aliens.jpg)
 
 </td></tr></table>
 
@@ -204,19 +217,30 @@ Include in your discussion the kinds of questions that are important to ask your
 
 Avoiding the problem is the safest course of action.
 
-Notes:
+**What questions would you ask?**
 
-Safety First
+----
+
+## Prevention Questions
+
+* What types of emergencies are possible?
+* Which of those are more likely?
+* What hazards need to be considered?
 
 ----
 
 ## Protection
 
-Make a plan and practice it.
+Protect against the greatest threats and hazards, while allowing our way of life to thrive.
 
-Make a kit and ensure it's ready.
+----
 
-Warning devices.
+## Protection Questions
+
+* What plans do we need?
+* Have we practiced our plan lately?
+* Do we have a disaster kit and is it current?
+* Are there warning systems or devices?
 
 Notes:
 
@@ -238,9 +262,20 @@ First Aid.
 
 Focus on your task.
 
+Respond quickly to save lives, protect property and equipment, and meet basic human needs.
+
 Notes:
 
 Avoid chaos and panic. Speak clearly. Ensure people know what's going on and direct them to best help the situation.
+
+----
+
+## Response Questions
+
+* What kinds of medical care should be handled?
+* Do you need shelter, and what kind of shelter?
+* Is there food and water?
+* Should people be evacuated?
 
 ----
 
@@ -252,11 +287,27 @@ Rebuild, repair, heal, console.
 
 ----
 
-## Mitigation
+## Recovery Questions
+
+* How do we rebuild?
+* Can people be consoled or counseled to return to a normal life?
+* What is the process?
+
+----
+
+## Back to Mitigation
 
 Lessen the impact of the next emergency by taking action now.
 
 It's **taking an action** to see if you can improve any of the other four aspects.
+
+----
+
+## Mitigation Questions
+
+* What additional threats can be avoided?
+* How can we be more prepared?
+* If a problem happens, how can we ensure a more timely response and recovery?
 
 Notes:
 
@@ -349,6 +400,12 @@ Do not focus on the kit itself at this point. It comes up again later.
 3a: Touching a live household wire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
+Notes:
+
+* Never use a metal or wet object.
+* Call 911.
+* Start CPR immediately if victim is not breathing.
+
 ----
 
 <!-- .slide: data-background="carbon-monoxide.jpg" data-background-size="contain" -->
@@ -356,12 +413,26 @@ Do not focus on the kit itself at this point. It comes up again later.
 3b: A structure <br> filled with <br> carbon monoxide
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
+Notes:
+
+Headache, nausea, dizziness, breathlessness, collapse, loss of consciousness
+
+Get outside ASAP. Evacuate everyone from structure. Open windows if unable to leave. Turn off any source of combustion. Call 911. Rescue breathing if necessary.
+
 ----
 
 <!-- .slide: data-background="clothes-on-fire.jpg" data-background-size="contain" -->
 
 3c: Clothes on fire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+
+Notes:
+
+* Stop - stop running.
+* Drop - lay down.
+* Cover - hide your face.
+* Roll - smother the fire.
+* Cool immediately for 10-15 minutes
 
 ----
 
@@ -374,8 +445,9 @@ Notes:
 
 * Reach
 * Throw
-* Row
+* Row - avoid canoes
 * Don't go, unless trained
+* Stop rescue if risk is unacceptable
 
 ----
 
@@ -430,6 +502,11 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 <!-- .slide: data-background="signal-fire.jpg" data-background-size="contain" -->
 
+Notes:
+
+* 3 large fires in a triangle or in a line, visible, 25 yards between
+* Prepare ahead of time and protect them
+
 ----
 
 <!-- .slide: data-background="smoke-from-air.jpg" data-background-size="contain" -->
@@ -438,21 +515,138 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 <!-- .slide: data-background="smoke-from-air2.jpg" data-background-size="contain" -->
 
+Notes:
+
+* Most natural materials burn with white smoke.
+* Man-made synthetic materials burn with black smoke.
+
+----
+
+<!-- .slide: data-background="chemlight.jpg" data-background-size="contain" -->
+
+Notes:
+
+Chemlight on paracord swung around head to make a larger, visible signal.
+
 ---
 
 5: With another person, show a good way to transport an injured person out of a remote and/or rugged area, conserving the energy of rescuers while ensuring the well-being and protection of the injured person.
 
 ----
 
-<!-- .slide: data-background="two-person-carry.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="firemans-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Fireman's carry
 
 ----
 
-<!-- .slide: data-background="two-person-carry-2.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="supporting-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Supporting carry
+
+Victim must be able to walk or hop
 
 ----
 
-<!-- .slide: data-background="one-person-carry.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="arms-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Arms carry
+
+Short distance
+
+----
+
+<!-- .slide: data-background="saddleback-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Saddleback carry
+
+Victim must hold on to the bearer's neck
+
+----
+
+<!-- .slide: data-background="pack-strap-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Pack-Strap carry
+
+Moderate distance. Hold victim's arms with palms down. Stand as erect as possible after positioning victim.
+
+----
+
+<!-- .slide: data-background="two-person-support-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Two-person support carry
+
+Can use victim's belt if need to drag unconscious person to safety.
+
+----
+
+<!-- .slide: data-background="two-person-arms-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Two-person arms carry
+
+Moderate distance. Carry victim high and close to chest. When there's no time for a spine board, this is the safest for transporting a person with a back injury, especially if additional people hold head and legs in alignment.
+
+----
+
+<!-- .slide: data-background="three-person-arms-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Three-person arms carry
+
+More people makes this easier.
+
+----
+
+<!-- .slide: data-background="two-person-fore-and-aft-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Two-person fore and aft carry
+
+Long distance. Taller person should be in back.
+
+----
+
+<!-- .slide: data-background="three-person-fore-and-aft-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Three-person fore and aft carry (Wheelbarrow carry)
+
+Long distance. Requires a wide path and not suitable for one track paths.
+
+----
+
+<!-- .slide: data-background="two-person-four-hand-seat-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Two-person four-hand seat carry
+
+Conscious victim must hold onto rescuer's shoulders. Moderate distance.
+
+----
+
+<!-- .slide: data-background="two-person-two-hand-seat-carry.svg" data-background-size="contain" -->
+
+Notes:
+
+Short distance.
 
 ----
 
@@ -466,6 +660,10 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 <!-- .slide: data-background="improvised-splint.jpg" data-background-size="contain" -->
 
+Notes:
+
+The best method is where the victim uses their own energy to move. It saves a tremendous amount of energy for the rescuers.
+
 ---
 
 6: Do the following:
@@ -478,13 +676,51 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 Helps government at all levels work together to prepare for, prevent, respond to, recover from, and mitigate the effects of incidents regardless of the incident's cause, size, location, or complexity.
 
+* Shared processes (playbook)
+* Shared vocabulary
+* Defined operational systems during incidents (like ICS)
+
+----
+
+## 14 NIMS Management Characteristics
+
+<ol style="column-count: 2; font-size: 0.8em">
+<li>Common Terminology</li>
+<li>Modular Organization</li>
+<li>Management by Objectives</li>
+<li>Incident Action Planning</li>
+<li>Manageable Span of Control</li>
+<li>Incident Facilities and Locations</li>
+<li>Comprehensive Resource Management</li>
+<li>Integrated Communications</li>
+<li>Establishment and Transfer of Command</li>
+<li>Unified Command</li>
+<li>Chain of Command and Unity of Command</li>
+<li>Accountability</li>
+<li>Dispatch/ Deployment</li>
+<li>Information and Intelligence Management</li>
+</ol>
+
 ----
 
 ## Incident Command System (ICS)
 
-Provides effective, cross-jurisdictional coordination.
+Provides effective, cross-jurisdictional coordination with a standardized, hierarchical structure.
 
-Represents organizational "best practices" and is the standard for emergency management across the country.
+* Organizational "best practices"
+* Works across agencies, both within and outside of government
+* Ensures most pressing needs are met and resources are not wasted
+
+----
+
+## Role of ICS
+
+* Establishes planning and management functions
+* Uses common terminology
+* Integrates communication media
+* Coordinates resource management and allocation
+* Handles planning
+* Creates unified command structure
 
 ----
 
