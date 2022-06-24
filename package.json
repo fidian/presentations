@@ -1,7 +1,6 @@
 {
     "private": true,
     "scripts": {
-        "clean": "rm -rf docs && mkdir docs",
         "build": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs . --assets-dir assets",
         "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
     },
