@@ -57,7 +57,7 @@ You must be the one that completes the work.
 
 ## Not Prepared?
 
-It's okay. Let me know, I make a note, and we will simply move on.
+It's okay. Let me know. I make a note and we will move on.
 
 I'll try to help achieve as many requirements as possible.
 
@@ -147,6 +147,10 @@ Explain how THREE of the following devices use energy, and explain their energy 
 
 <!-- .slide: data-background="toaster.jpg" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="toaster.jpg" data-background-size="contain" -->
+
 <div style="background-color: rgba(255, 255, 255, 0.7)">
 
 1. Lever is pressed -> potential energy in spring
@@ -159,12 +163,21 @@ Explain how THREE of the following devices use energy, and explain their energy 
 
 <!-- .slide: data-background="greenhouse.jpg" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="greenhouse.jpg" data-background-size="contain" -->
+
 <div style="background-color: rgba(255, 255, 255, 0.7)">
 
 1. Sun shines -> heat (infrared light)
 2. Sun shines -> photosynthesis (chemical)
+3. Ground heats up -> convection air currents (kinetic)
 
 </div>
+
+----
+
+<!-- .slide: data-background="lightbulb.jpg" data-background-size="contain" -->
 
 ----
 
@@ -180,9 +193,14 @@ Electricity -> heat and light
 
 <!-- .slide: data-background="led.jpg" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="led.jpg" data-background-size="contain" -->
+
 <div style="background-color: rgba(255, 255, 255, 0.7)">
 
-Electricity moving to lower orbit -> heat and light
+1. Electricity moving to lower orbit -> heat and light
+2. Electricity moving along the wire -> heat from the resistance
 
 </div>
 
@@ -190,15 +208,24 @@ Electricity moving to lower orbit -> heat and light
 
 <!-- .slide: data-background="fluorescent.png" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="fluorescent.png" data-background-size="contain" -->
+
 <div style="background-color: rgba(255, 255, 255, 0.7)">
 
-Electiricty moving to higher and lower orbits -> heat and light
+1. Electricity moving to higher and lower orbits -> heat and light
+2. Electricity moving along the wire -> heat from the resistance
 
 </div>
 
 ----
 
 <!-- .slide: data-background="light-vs-heat.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="bow-drill.svg" data-background-size="contain" -->
 
 ----
 
@@ -211,6 +238,10 @@ Electiricty moving to higher and lower orbits -> heat and light
 3. Heat builds to an ember -> chemical reaction of fire
 
 </div>
+
+----
+
+<!-- .slide: data-background="cell-phone.png" data-background-size="contain" -->
 
 ----
 
@@ -229,6 +260,10 @@ Electiricty moving to higher and lower orbits -> heat and light
 
 <!-- .slide: data-background="nuclear-reactor.png" data-background-size="contain" -->
 
+----
+
+<!-- .slide: data-background="nuclear-reactor.png" data-background-size="contain" -->
+
 <div style="background-color: rgba(255, 255, 255, 0.8)">
 
 1. Nuclear fission -> heat
@@ -237,6 +272,10 @@ Electiricty moving to higher and lower orbits -> heat and light
 4. Turbine spins -> electricity
 
 </div>
+
+----
+
+<!-- .slide: data-background="sweat-lodge.jpg" data-background-size="contain" -->
 
 ----
 
@@ -344,7 +383,19 @@ d. The fuels used to generate America’s electricity
 
 ----
 
-<!-- .slide: data-background="us-energy.png" data-background-size="contain" -->
+<!-- .slide: data-background="us-energy-2017.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="us-energy-2019.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="us-energy-2021.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="us-energy-trend.png" data-background-size="contain" -->
 
 ----
 
@@ -352,7 +403,7 @@ b. The share of energy resources used by the United States that comes from other
 
 ----
 
-<!-- .slide: data-background="us-energy-resources.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="us-energy-resources.svg" data-background-size="contain" -->
 
 ----
 
@@ -360,7 +411,7 @@ c. The proportion of energy resources used by homes, businesses, industry, and t
 
 ----
 
-<!-- .slide: data-background="us-energy-by-sector.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="us-energy-by-sector.png" data-background-size="contain" -->
 
 ----
 
