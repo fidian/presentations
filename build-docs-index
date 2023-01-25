@@ -15,14 +15,16 @@ echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
 echo "<title>Presentation Index</title></head><body>"
 
 for DIR in */; do
-    TARGET="${DIR%/}"
-    echo "<div>"
-    echo "    $(link "$TARGET" "$(title "$TARGET/index.html")") -"
-    echo "    ($(link "$TARGET?showNotes=true" notes),"
-    echo "    $(link "$TARGET?print-pdf" printable),"
-    echo "    $(link "$TARGET?print-pdf&showNotes=true" "printable+notes overlay"),"
-    echo "    $(link "$TARGET?print-pdf&showNotes=separate-page" "printable+notes separate page"))"
-    echo "</div>"
+    if [[ "$DIR" != "plugins/" ]]; then
+        TARGET="${DIR%/}"
+        echo "<div>"
+        echo "    $(link "$TARGET" "$(title "$TARGET/index.html")") -"
+        echo "    ($(link "$TARGET?showNotes=true" notes),"
+        echo "    $(link "$TARGET?print-pdf" printable),"
+        echo "    $(link "$TARGET?print-pdf&showNotes=true" "printable+notes overlay"),"
+        echo "    $(link "$TARGET?print-pdf&showNotes=separate-page" "printable+notes separate page"))"
+        echo "</div>"
+    fi
 done
 
 echo "</body></html>"

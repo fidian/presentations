@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "build": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs . --assets-dir assets",
+        "build": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs . --assets-dir assets && cd .. && cp -r reveal.json reveal-md.json plugins docs",
         "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
     },
     "dependencies": {
