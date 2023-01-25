@@ -391,7 +391,7 @@ Do not focus on the kit itself at this point. It comes up again later.
 
 ---
 
-3: Show how you could safely save a person from the following:
+3: Show how you could save a person from the following without putting yourself in danger:
 
 ----
 

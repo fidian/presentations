@@ -153,7 +153,7 @@ Today we rely on transistors, not steam or mechanical force.
 
 ## Knowledge
 
-3a: Explain to your counselor how text, sound, pictures, and videos are digitized for storage.
+3a: Explain to your counselor how text, sound, and pictures are digitized for storage.
 
 ----
 
@@ -179,10 +179,6 @@ DAC - Digital to Analog Converter
 ----
 
 <!-- .slide: data-background="digital-camera.jpg" data-background-size="contain" -->
-
-Notes:
-
-This covers both pictures and video, because video is just a lot of pictures with some audio.
 
 ----
 
@@ -214,7 +210,8 @@ This covers both pictures and video, because video is just a lot of pictures wit
 
 ## Knowledge
 
-3e: Explain what a computer network is and describe the network's purpose.
+3e: Explain what a computer network is and the difference between a local area network (LAN) versus a wide area network (WAN).
+
 
 ----
 
@@ -224,7 +221,7 @@ This covers both pictures and video, because video is just a lot of pictures wit
 
 ## Software
 
-4a: Explain what a program or software application or "app" is and how it is created.
+4a: Explain what a program or software application or "app" is and how a computer uses a CPU and memory to execute it.
 
 ----
 
@@ -246,7 +243,7 @@ This covers both pictures and video, because video is just a lot of pictures wit
 
 ## Internet
 
-5a: Describe how digital devices are connected to the Internet.
+5a: Describe at least two different ways data can be transferred through the internet.
 
 ----
 
@@ -256,7 +253,7 @@ This covers both pictures and video, because video is just a lot of pictures wit
 
 ## Internet
 
-5b: Using an Internet search engine (with your parent's permission), find ideas about how to conduct a troop court of honor or campfire program. Print out a copy of the ideas from at least three different websites. Share what you found with your counselor, and explain how you used the search engine to find this information.
+5b: Using an internet search engine (with your parent’s permission), find ideas about how to conduct a troop court of honor or campfire program. Print out a copy of the ideas from at least three different websites.  Share what you found with your counselor, and explain how you used the search engine to find this information.
 
 ----
 
@@ -364,7 +361,7 @@ Maybe:
 
 ## Intellectual Property
 
-7c: Discuss with your counselor an article or a news report about a recent legal case involving an intellectual property dispute.
+7c: Discuss with your counselor an article or (with your parent or guardian's permission) a report on the internet about a recent legal case involving an intellectual property dispute.
 
 ---
 
