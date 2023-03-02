@@ -1,4 +1,3 @@
----
 title: Pioneering Merit Badge
 ---
 
@@ -36,7 +35,7 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 Learned and used knots at an early age.
 
-Father owned a nursery and tree care business.
+Father owned a nursery and tree care business, grandfather was in the navy.
 
 Lived in a woods and built structures.
 
@@ -62,7 +61,7 @@ Working on earning the world record for the smallest nautical knot board.
 
 Can anyone here define it?
 
-Why does the BSA promote it since its start in 1911?
+Why does the BSA continue to promote it since its start in 1911?
 
 Notes:
 
@@ -140,7 +139,7 @@ It's okay to get things wrong!
 
 > Wrong ≠ Bad <!-- .element: style="font-size: 2em" -->
 
-You just didn't succeed ***yet***.
+You didn't succeed ***yet***.
 
 Notes:
 
@@ -182,7 +181,7 @@ BSA's "Forty Knots" card (95% correct)
 
 </td><td align=center width="50%">
 
-"Sailor's Knot" isn't really found anywhere else. It's really a "cow hitch" or "reversed half hitches."
+This "Sailor's Knot" is really a "cow hitch" or "reversed half hitches."
 
 </td><td align=center>
 
@@ -372,45 +371,9 @@ The left one is wrong.
 
 1. Pay close attention.
 
-2. Take your time
+2. Take your time.
 
-3. You'll make mistakes. It's okay.
-
----
-
-## Rope Construction
-
-Fibers are twisted together to make yarns.<br />
-Yarns are twisted together to make strands.<br />
-Strands are twisted together to make rope.
-
-----
-
-<!-- .slide: data-background="strands-yarns.jpg" data-background-size="contain" -->
-
-Notes:
-
-Define: S twist vs Z twist.
-
-Thinner yarns can be twisted together to make plied yarns.
-
-----
-
-## Twisted vs Braided
-
-Braided rope can be hollow.
-
-Braided rope can have strands inside. Those may be twisted, braided, or straight.
-
-The braided jackets provide protection for the core.
-
-----
-
-<!-- .slide: data-background="twisted-vs-braided.jpg" data-background-size="contain" -->
-
-Notes:
-
-Forgive the British English spelling.
+3. Mistakes are okay.
 
 ---
 
@@ -546,11 +509,29 @@ What should you do with an old climbing rope?
 
 > Do not use it for climbing!
 
+----
+
+> Discussion About Rope Storage
+
+How do you store rope?
+
+Does the rope's intended use change how you store it?
+
+---
+
+## Fundamentals (Part 1)
+
+2a: Demonstrate the West Country method of whipping a rope.
+
+----
+
+<!-- .slide: data-background="west-country-whipping.png" data-background-size="contain" -->
+
 ---
 
 ## Fundamentals (Part 2)
 
-2b: Demonstrate how to tie the following knots: clove hitch, butterfly knot, roundturn with two half hitches, rolling hitch, water knot, carrick bend, sheepshank, and sheet bend.
+2b: Demonstrate how to tie a rope tackle and the following knots: clove hitch formed as two half hitches, clove hitch on a bight, butterfly knot, roundturn with two half hitches, and rolling hitch.
 
 ----
 
@@ -587,19 +568,53 @@ Attaching to another rope
 
 ----
 
-<!-- .slide: data-background="water-knot.jpg" data-background-size="contain" -->
+<table><tr><td>
+
+![](rope-tackle.png)
+
+</td><td>
+
+![](rope-tackle2.jpg)
+
+</td><td>
+
+![](rope-tackle3.jpg)
+
+</td></tr></table>
 
 ----
 
-<!-- .slide: data-background="carrick-bend.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="rope-tackle-pulling.jpg" data-background-size="contain" -->
+
+---
+
+## Fundamentals (Part 3)
+
+2c: Demonstrate and explain when to use the following lashings: square, diagonal, round, shear, tripod, and floor lashing.
 
 ----
 
-<!-- .slide: data-background="sheepshank.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="square-lashing.jpg" data-background-size="contain" -->
 
 ----
 
-<!-- .slide: data-background="sheet-bend.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="diagonal-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="round-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="shear-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="tripod-lashing.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="floor-lashing.jpg" data-background-size="contain" -->
 
 ---
 
@@ -610,28 +625,6 @@ Do you know your knots?
 ----
 
 <!-- .slide: data-background="eight-knot-contest-normal.png" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="eight-knot-contest-pioneering.jpg" data-background-size="contain" -->
-
----
-
-## Fundamentals (Part 1)
-
-2a: Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope.
-
-----
-
-<!-- .slide: data-background="common-whipping.gif" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="west-country-whipping.png" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="fuse-rope.jpg" data-background-size="contain" -->
 
 ---
 
@@ -711,9 +704,79 @@ Spacer is replaced later with a "top".
 
 ---
 
+## Lashings (Parts 1 through 3)
+
+3a: Using square and tripod lashings from requirement 2c, build a Tripod Wash Station (or with your counselor’s permission, another camp gadget of your own design).
+
+----
+
+<!-- .slide: data-background="tripod-wash-station.webp" data-background-size="contain" -->
+
+----
+
+3b: Using rolling hitches or roundturns with two half hitches, and round lashings from requirements 2b and 2c, build a 15-foot Scout Stave Flagpole (or with your counselor’s permission, another camp gadget of your own design).
+
+----
+
+<!-- .slide: data-background="15-foot-flagpole.jpg" data-background-size="contain" -->
+
+----
+
+3c: Using shear, square, and floor lashings, clove hitches on a bight, and rope tackles from requirements 2b and 2c, build a Simple Camp Table (or with your counselor’s permission, another camp gadget of your own design.
+
+----
+
+<!-- .slide: data-background="scout-stave-camp-table.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="short-table.gif" data-background-size="contain" -->
+
+---
+
 ## Splices
 
-5: Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice.
+5: Explain the uses for the back splice, eye splice, and short splice. View a demonstration on forming each splice.
+
+----
+
+<video controls>
+    <source src="back-splice.mp4" type="video/mp4">
+</video>
+
+<div style="font-size: 0.5em">
+
+[YouTube](https://www.youtube.com/watch?v=TmONOINLHOo) - Prevent Rope from Unravelling with the Back Splice - ITS Knot of the Week HD
+
+</div>
+
+----
+
+<video controls>
+    <source src="eye-splice.mp4" type="video/mp4">
+</video>
+
+<div style="font-size: 0.5em">
+
+[YouTube](https://www.youtube.com/watch?v=xrlIAUW3b5I) - How to Eye Splice a Natural Fiber Rope - ITS Knot of the Week HD
+
+</div>
+
+----
+
+<video controls>
+    <source src="short-splice.mp4" type="video/mp4">
+</video>
+
+<div style="font-size: 0.5em">
+
+[YouTube](https://www.youtube.com/watch?v=oMDM4tukWfc) - How to Short Splice a Natural Fiber Rope - ITS Knot of the Week HD
+
+</div>
+
+----
+
+Why would these be used?
 
 ----
 
@@ -723,79 +786,23 @@ Notes:
 
 The toggle rope was used by British Commandos and Paratroopers during World War II.
 
-----
-
-<!-- .slide: data-background="back-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="eye-splice.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="short-splice.jpg" data-background-size="contain" -->
-
----
-
-## Fundamentals (Part 3)
-
-2c: Demonstrate and explain when to use the following lashings: square, diagonal, round, shear, tripod, and floor lashing.
-
-----
-
-<!-- .slide: data-background="square-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="diagonal-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="round-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="shear-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="tripod-lashing.jpg" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="floor-lashing.jpg" data-background-size="contain" -->
-
----
-
-## Throwing Rope
-
-3: Explain why it is useful to be able to throw a rope, then demonstrate how to coil and throw a 40-foot length of 1/4- or 3/8-inch rope. Explain how to improve your throwing distance by adding weight to the end of your rope.
-
-----
-
-<!-- .slide: data-background="coil-rope.jpg" data-background-size="contain" -->
-
-----
-
-<!-- <table><tr><td> -->
-
-![](coil-rope2.jpg)
-
-<!-- </td><td> -->
-
-Split the coil in two. Throw your right hand coil first underhand. Follow with throwing left half or letting coils fly from left hand. The rope will go much farther.
-
-<!-- </td></tr></table> -->
-
 ---
 
 ## Anchoring
 
-7: Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 1-1-1 anchoring system and the log-and-stake anchoring methods.
+7: Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 3-2–1 anchoring system and the log-and-stake anchoring system.
 
 ----
 
-<!-- .slide: data-background="1-1-1-anchoring.jpg" data-background-size="contain" -->
+Why is anchoring important?
+
+----
+
+<!-- .slide: data-background="rope-bridge.webp" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="3-2-1-anchor.jpg" data-background-size="contain" -->
 
 ----
 
@@ -803,35 +810,9 @@ Split the coil in two. Throw your right hand coil first underhand. Follow with t
 
 ---
 
-## Rope Tackle
-
-8: With the approval of your counselor, demonstrate and use a rope tackle. Be sure the rope tackle is secured properly. Explain the advantages and limitations of using a rope tackle. Describe the potential damage that friction can do to a rope.
-
-----
-
-<table><tr><td>
-
-![](rope-tackle.png)
-
-</td><td>
-
-![](rope-tackle2.jpg)
-
-</td><td>
-
-![](rope-tackle3.jpg)
-
-</td></tr></table>
-
-----
-
-<!-- .slide: data-background="rope-tackle-pulling.jpg" data-background-size="contain" -->
-
----
-
 ## Trestle
 
-9: By yourself, build a trestle using square and diagonal lashings. Explain why trestles are used when constructing pioneering projects.
+8: Describe the lashings that are used when building a trestle, how the poles are positioned, and how X braces contribute to the overall structural integrity of a pioneering project.
 
 ----
 
@@ -841,21 +822,69 @@ Split the coil in two. Throw your right hand coil first underhand. Follow with t
 
 ## Project
 
-10: With the approval of your counselor and using appropriate lashings and pioneering techniques, build and use one full-size pioneering project from either group A or group B. Your project must comply with the requirements of the Guide to Safe Scouting. (Requirement 10 may be done at summer camp, at district or council events, or on a troop camp outing.)
+9: Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in the merit badge pamphlet.
+
+Carefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height restrictions in the Guide to Safe Scouting.
 
 ----
 
-## Project (Teams)
-
-Group A: Tower OR bridge
-
-Anchor your project as appropriate and necessary. Explain how your anchoring system works.
-
-Group A projects may be worked on in a group and with others.
+Double A-Frame Monkey Bridge
 
 ----
 
-<!-- .slide: data-background="rope-bridge.jpg" data-background-size="contain" -->
+<!-- .slide: data-background="rope-bridge.webp" data-background-size="contain" -->
+
+----
+
+Single A-Frame Bridge
+
+----
+
+<!-- .slide: data-background="monkey-bridge.png" data-background-size="contain" -->
+
+----
+
+Single Trestle Bridge
+
+----
+
+<!-- .slide: data-background="single-trestle-bridge.gif" data-background-size="contain" -->
+
+----
+
+Single Lock Bridge
+
+----
+
+<!-- .slide: data-background="single-lock-bridge.jpg" data-background-size="contain" -->
+
+----
+
+4x4 Square Climbing Tower
+
+----
+
+<!-- .slide: data-background="4x4-climbing-tower.jpg" data-background-size="contain" -->
+
+----
+
+Four Flag Gateway Tower
+
+----
+
+<!-- .slide: data-background="tower-gateway.jpg" data-background-size="contain" -->
+
+----
+
+Double Tripod Chippewa Kitchen
+
+----
+
+<!-- .slide: data-background="chippewa-kitchen.webp" data-background-size="contain" -->
+
+----
+
+Another type of structure approved in advance by your counselor
 
 ----
 
@@ -873,45 +902,11 @@ Group A projects may be worked on in a group and with others.
 
 </td></tr></table>
 
-----
-
-## Project (Individuals)
-
-Group B: Camp chair OR camp table
-
-Group B projects must be worked on individually.
-
-----
-
-<table><tr><td>
-
-![](small-camp-chair.gif)
-
-</td><td>
-
-![](large-camp-chair.jpg)
-
-</td></tr></table>
-
-----
-
-<table><tr><td>
-
-![](short-table.gif)
-
-</td><td>
-
-![](long-table.jpg)
-
-</td></tr></table>
-
 ---
 
 # THE END
 
 ### Thank you!
-
-*You survived!* <!-- .element style="font-size: 0.6em" -->
 
 ----
 
