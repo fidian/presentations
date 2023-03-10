@@ -1,6 +1,3 @@
-title: Pioneering Merit Badge
----
-
 # Pioneering Merit Badge
 
 Tyler Akins
@@ -318,6 +315,22 @@ Lashings, Pioneering merit badge pamphlet
 Notes:
 
 Don't weave over/under. Go around the three spars and frap to tighten. The spars should all go out the same side, not alternate.
+
+----
+
+<table><tr><td align=center>
+
+![](knots-patch.png)
+
+BSA Knots Patch (Wrong)
+
+</td><td align=center>
+
+![](fishermans-knot.png)
+
+BSA's "Forty Knots" card (Correct)
+
+</td></tr></table>
 
 ----
 
