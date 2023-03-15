@@ -559,6 +559,16 @@ Check California and Alaska again.
 
 ----
 
+How do we compare with the rest of the world?
+
+(Stats are from 2011.)
+
+----
+
+<!-- .slide: data-background="carbon-atlas-2011.png" data-background-size="contain" -->
+
+----
+
 Are there other concerns with the use of green energy?
 
 ----
