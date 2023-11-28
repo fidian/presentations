@@ -84,32 +84,63 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 ----
 
-## Localized Emergencies
+<i>A serious, unexpected, and often dangerous situation requiring immediate action.</i>
+
+----
+
+### What are some examples?
+
+* Global
+* National
+* Regional
+* Local
+
+----
+
+## Global Emergencies
 
 <table><tr><td width="33%">
 
-![](house-fire.jpg)
+![](covid-19.jpg)
 
 </td><td width="33%">
 
-![](cpr.jpg)
+![](climate-change.jpg)
 
-</td><td>
+</td><td width="50%">
 
-![](falling-through-ice.jpg)
+![](aliens.jpg)
 
 </td></tr></table>
 
 Notes:
 
-* House on fire
-* CPR
-* Active shooter
-* Car accident
-* Ingestion of poison
-* Gas leak
-* Explosion
-* Lost or stranded in dangerous weather
+* Disease
+* Climate change
+* Nuclear reactor explosions
+
+----
+
+## National Emergencies
+
+<table><tr><td width="33%">
+
+![](war.jpg)
+
+</td><td width="33%">
+
+![](economic.jpg)
+
+</td><td>
+
+![](food-shortage.jpg)
+
+</td></tr></table>
+
+Notes:
+
+* War
+* Economic or trade emergencies
 
 ----
 
@@ -140,50 +171,32 @@ Notes:
 
 ----
 
-## National Emergencies
+## Localized Emergencies
 
 <table><tr><td width="33%">
 
-![](war.jpg)
+![](house-fire.jpg)
 
 </td><td width="33%">
 
-![](economic.jpg)
+![](cpr.jpg)
 
 </td><td>
 
-![](food-shortage.jpg)
+![](falling-through-ice.jpg)
 
 </td></tr></table>
 
 Notes:
 
-* War
-* Economic or trade emergencies
-
-----
-
-## Global Emergencies
-
-<table><tr><td width="33%">
-
-![](covid-19.jpg)
-
-</td><td width="33%">
-
-![](climate-change.jpg)
-
-</td><td width="50%">
-
-![](aliens.jpg)
-
-</td></tr></table>
-
-Notes:
-
-* Disease
-* Climate change
-* Nuclear reactor explosions
+* House on fire
+* CPR
+* Active shooter
+* Car accident
+* Ingestion of poison
+* Gas leak
+* Explosion
+* Lost or stranded in dangerous weather
 
 ---
 
@@ -750,6 +763,28 @@ Notes:
 ----
 
 7b: Prepare a written plan for mobilizing your troop when needed to do emergency service. If there is already a plan, explain it. Tell your part in making it work.
+
+----
+
+Mobilization Plan
+
+* How you inform everyone
+* When and where you meet
+* How work is determined and distributed
+* How to monitor participants
+* Additional needs (food, bathroom, water, stress)
+* When to end
+
+----
+
+Example for a burning house, mid 1800's:
+
+* Send runners down the street to seek help
+* People show up with buckets
+* Organizer puts them into a bucket brigade
+* Organizer decides what is of most value to save
+* Those closest to fire are monitored for their health
+* Organizer determines when emergency is over
 
 ---
 
