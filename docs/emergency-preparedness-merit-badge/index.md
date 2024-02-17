@@ -735,6 +735,14 @@ Provides effective, cross-jurisdictional coordination with a standardized, hiera
 
 ----
 
+# NIMS vs ICS
+
+*NIMS requires that responses to all domestic incidents utilize a common management structure. The Incident Command System—or ICS—is a standard, on-scene, all-hazard incident management concept.*
+
+U.S. Department of Agriculture
+
+----
+
 6b: Identify the government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS.
 
 Notes:
@@ -753,6 +761,15 @@ Notes:
 ----
 
 6c: Find out who is your community's emergency management director and learn what this person does to prevent, protect, mitigate, respond to, and recover from emergency situations in your community. Discuss this information with your counselor, utilizing the information you learned from requirement 2b.
+
+----
+
+* City of Minneapolis - Bryan Gorman
+* Hennepin County - Eric Waage
+* U of M - Katharine Bonneson
+* Anoka County - Terry Stoltzman
+* Washington County - Doug Berglund
+* State of Minnesota - Kristi Rollwagen
 
 ---
 
