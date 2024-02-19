@@ -764,11 +764,15 @@ Notes:
 
 ----
 
-* City of Minneapolis - Bryan Gorman
-* Hennepin County - Eric Waage
 * U of M - Katharine Bonneson
+* City of Minneapolis - Bryan Gorman
 * Anoka County - Terry Stoltzman
+* Dakota County - Jenny Groskopf
+* Hennepin County - Eric Waage
+* Ramsey County - Judson Freed
+* Scott County - Scott Haas
 * Washington County - Doug Berglund
+* Wright County - Seth Hansen
 * State of Minnesota - Kristi Rollwagen
 
 ---
