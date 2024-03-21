@@ -35,7 +35,7 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 ## Safety
 
-1: Show your counselor your current, up-to-date Cyber Chip.
+1: View the Personal Safety Awareness “Digital Safety” video (with your parent or guardian’s permission).
 
 ----
 
