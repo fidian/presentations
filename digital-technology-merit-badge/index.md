@@ -28,7 +28,7 @@ fidian@rumkin.com
 
 </td></tr></table>
 
-Email is for adults and for Scouts that have a current Cyber Chip.
+ALWAYS INCLUDE A PARENT
 <!-- .element style="color: red" -->
 
 ---
@@ -37,17 +37,17 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 
 1: View the Personal Safety Awareness “Digital Safety” video (with your parent or guardian’s permission).
 
-----
-
-### Cyber Chip
-
-There is a section at the end of the presentation that should help you get started with this requirement.
-
-It is beyond the scope of this class. You must do some work with your Scoutmaster and parents or guardians.
-
 ---
 
 ## What is Digital Technology?
+
+----
+
+(Latin) <i>digitus</i>: finger or toe
+
+(Latin) <i>-al</i>: being like
+
+fingerlike
 
 ----
 
@@ -178,6 +178,10 @@ DAC - Digital to Analog Converter
 
 ----
 
+<!-- .slide: data-background="sound-wave.jpg" data-background-size="contain" -->
+
+----
+
 <!-- .slide: data-background="digital-camera.jpg" data-background-size="contain" -->
 
 ----
@@ -266,6 +270,14 @@ DAC - Digital to Analog Converter
 ## Projects
 
 6: Do THREE of the following. For each project you complete, copy the files to a backup device and share the finished projects with your counselor:
+
+----
+
+Easiest way to send files to me:
+
+tinyurl.com/tyler-akins
+
+<img src="tyler-akins-dropbox.gif" style="width: 314px" />
 
 ----
 
