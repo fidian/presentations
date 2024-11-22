@@ -737,9 +737,9 @@ Provides effective, cross-jurisdictional coordination with a standardized, hiera
 
 # NIMS vs ICS
 
-*NIMS requires that responses to all domestic incidents utilize a common management structure. The Incident Command System—or ICS—is a standard, on-scene, all-hazard incident management concept.*
+NIMS is the overarching framework that helps coordinate responses. ICS is a specific tool within that framework used for managing the incident on the ground.
 
-U.S. Department of Agriculture
+NIMS is broad and also covers policies, procedures, and best practices. ICS is focused solely on the actual command and control of a specific emergency situation.
 
 ----
 
@@ -798,7 +798,7 @@ Mobilization Plan
 
 ----
 
-Example for a burning house, mid 1800's:
+Brief example for a burning house, mid 1800's:
 
 * Send runners down the street to seek help
 * People show up with buckets
@@ -824,96 +824,16 @@ Example for a burning house, mid 1800's:
 
 ----
 
-<!-- .slide: data-background="kit.jpg" data-background-size="contain" -->
+## What's in My Kit
 
-## My Kit
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-Notes:
-
-I'll go over the major groupings of items in my pack.
-
-----
-
-<!-- .slide: data-background="kit-first-aid-and-medicines.jpg" data-background-size="contain" -->
-
-## First Aid and Medicines
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-----
-
-<!-- .slide: data-background="kit-shelter-and-protection.jpg" data-background-size="contain" -->
-
-## Shelter and Protection
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-Notes:
-
-Heavy duty garbage bag as a raincoat or shelter.
-
-----
-
-<!-- .slide: data-background="kit-water-and-food.jpg" data-background-size="contain" -->
-
-## Water and Food
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-Food is much less important.
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-Notes:
-
-Purification tablets plus a water filter. Two separate systems that will work.
-
-----
-
-<!-- .slide: data-background="kit-fire.jpg" data-background-size="contain" -->
-
-## Fire
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-Notes:
-
-Three different ways to start fires, plus emergency tinder. Most are waterproof.
-
-* Lighter + cotton balls rubbed in Vasoline
-* Flint + magnesium bar (magnesium is tinder)
-* Flint wheel + Tinder Quick
-
-----
-
-<!-- .slide: data-background="kit-cooking.jpg" data-background-size="contain" -->
-
-## Cooking
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-----
-
-<!-- .slide: data-background="kit-tools.jpg" data-background-size="contain" -->
-
-## Tools
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-----
-
-<!-- .slide: data-background="kit-hygiene.jpg" data-background-size="contain" -->
-
-## Hygiene
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-----
-
-<!-- .slide: data-background="kit-communication.jpg" data-background-size="contain" -->
-
-## Communication and Lighting
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
-
-----
-
-<!-- .slide: data-background="kit-assembled.jpg" data-background-size="contain" -->
-
-## My Kit
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+* First Aid and Medicines
+* Shelter and Protection
+* Water and Food
+* Fire-making
+* Cooking
+* Tools
+* Hygiene
+* Communication and Lighting
 
 ---
 
