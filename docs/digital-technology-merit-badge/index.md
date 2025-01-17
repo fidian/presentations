@@ -37,6 +37,8 @@ ALWAYS INCLUDE A PARENT
 
 1: View the Personal Safety Awareness “Digital Safety” video (with your parent or guardian’s permission).
 
+*[Required for Scout rank]*
+
 ---
 
 ## What is Digital Technology?
@@ -257,7 +259,7 @@ DAC - Digital to Analog Converter
 
 ## Internet
 
-5b: Using an internet search engine (with your parent’s permission), find ideas about how to conduct a troop court of honor or campfire program. Print out a copy of the ideas from at least three different websites.  Share what you found with your counselor, and explain how you used the search engine to find this information.
+5b: Using an internet search engine (with a parent or guardian’s permission), find ideas from at least three different websites about how to conduct a troop court of honor or campfire program. Present the ideas to your counselor and explain how you used a search engine to find this information.
 
 ----
 
@@ -305,11 +307,11 @@ tinyurl.com/tyler-akins
 
 ----
 
-6g: Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the Internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval.
+6g: Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the Internet; however, if you choose to go live with your blog, you must first share it with your parent or guardian AND counselor AND get their approval.
 
 ----
 
-6h: Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the Internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval.
+6h: Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the Internet; however, if you decide to do so, you must first share the Web page with your parent or guardian AND counselor AND get their approval.
 
 ---
 
@@ -387,7 +389,7 @@ Maybe:
 
 ----
 
-8b: Explain to your counselor what is required to become a certified recycler of digital technology hardware or devices.
+8b: Explain to your counselor why it is important to use a certified recycler of digital technology hardware or devices.
 
 ----
 
@@ -411,7 +413,7 @@ Maybe:
 
 ## Careers
 
-9a: Investigate three career opportunities that involve digital technology. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
+9a: Identify three career opportunities that involve digital technology. Pick one and investigate the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
 
 ----
 
