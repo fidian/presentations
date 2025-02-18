@@ -16,20 +16,7 @@ Tyler Akins
 
 Professionally programming since 1995
 
-<table><tr><td>
-
-12650 130th Ave N<br>
-Dayton, MN 55327
-
-</td><td>
-
-612-387-8102 <br>
-fidian@rumkin.com
-
-</td></tr></table>
-
-ALWAYS INCLUDE A PARENT
-<!-- .element style="color: red" -->
+(I know a lot about computers.)
 
 ---
 
@@ -159,6 +146,12 @@ Today we rely on transistors, not steam or mechanical force.
 
 ----
 
+Computers only understand numbers.
+
+Everything must become a number or a series of numbers.
+
+----
+
 <!-- .slide: data-background="keyboard.gif" data-background-size="contain" -->
 
 ## Text
@@ -167,6 +160,24 @@ Today we rely on transistors, not steam or mechanical force.
 Notes:
 
 Signals on the keyboard start out as digital signals and end up encoded as Unicode, ASCII, or ANSI extended character set. Sometimes EBCDIC.
+
+----
+
+## ASCII
+
+<table>
+<tr><th>Char</th><th>Dec</th><th>Hex</th><th>Bin</th></tr>
+<tr><td>A</td><td>65</td><td>0x41</td><td>0100 0001</td></tr>
+<tr><td>B</td><td>66</td><td>0x42</td><td>0100 0010</td></tr>
+<tr><td>C</td><td>67</td><td>0x43</td><td>0100 0011</td></tr>
+<tr><td>a</td><td>97</td><td>0x61</td><td>0110 0001</td></tr>
+<tr><td>b</td><td>98</td><td>0x62</td><td>0110 0010</td></tr>
+<tr><td>c</td><td>99</td><td>0x63</td><td>0110 0011</td></tr>
+<tr><td>0</td><td>48</td><td>0x30</td><td>0011 0000</td></tr>
+<tr><td>1</td><td>49</td><td>0x31</td><td>0011 0001</td></tr>
+<tr><td>2</td><td>50</td><td>0x32</td><td>0011 0010</td></tr>
+<tr><td> </td><td>32</td><td>0x20</td><td>0010 0000</td></tr>
+</table>
 
 ----
 
@@ -185,6 +196,12 @@ DAC - Digital to Analog Converter
 ----
 
 <!-- .slide: data-background="digital-camera.jpg" data-background-size="contain" -->
+
+----
+
+How would you store video?
+
+(Hint: it's both sound and lots of pictures!)
 
 ----
 
