@@ -360,6 +360,18 @@ Trade secrets are not really protected by law, like the secret recipe for Coca-C
 
 ----
 
+### Simplified
+
+**Copyright** - Protects "intellectual products" (art, documentation, video)
+
+**Patents** - Protects "how it's done"
+
+**Trademarks** - Protects the name of your business
+
+**Trade Secrets** - Protection of an idea by not telling anyone
+
+----
+
 ## Intellectual Property
 
 7b: Explain when it is permissible to accept a free copy of a program from a friend.
