@@ -35,14 +35,20 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 ## Scout-Like Behavior
 <!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
 
-Respectful and engaged, otherwise you will be asked to leave.
+----
+
+<!-- .slide: data-background="participation.jpg" data-background-size="contain" -->
+
+## Participation is Expected
 <!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 ----
 
 ## It's Up To You
 
-I offer the merit badge and allow you to complete the work. I do not complete the work for you.
+You need to complete the work. I simply facilitate the process.
+
+Do your own work, especially when assembling kits and for the chart (requirement 2b).
 
 ----
 
@@ -58,42 +64,27 @@ I'll try to help achieve as many requirements as possible.
 
 ## Action Verb
 
-Each requirement has action verbs. "Describe," "discuss," "prepare," "report," "interview," and other actions need to be performed.
+Each requirement has action verbs. "Describe," "discuss," "prepare," "identify", "interview," and other actions need to be performed.
 
 Requirements must be met word for word.
 
-----
-
-## Ethics
-
-Scouts are expected to have done their own work. It is immoral to claim another person's work as your own. This includes:
-
-* Making your own kit instead of entirely relying on a pre-made emergency kit.
-
-* Writing your own words instead of copying and pasting.
-
-----
-
-## Participation Is Expected
-
-<img src="participation.jpg" width="40%"/>
-
 ---
 
-### What Is An Emergency?
+### Definition of "Emergency"
+
+What's your best definition?
 
 ----
 
 <i>A serious, unexpected, and often dangerous situation requiring immediate action.</i>
 
+- Oxford Languages
+
 ----
 
-### What are some examples?
+### Examples of Emergencies
 
-* Global
-* National
-* Regional
-* Local
+We'll go through a few, categorized by scale.
 
 ----
 
@@ -111,13 +102,19 @@ Scouts are expected to have done their own work. It is immoral to claim another 
 
 ![](aliens.jpg)
 
-</td></tr></table>
+</td></tr><tr><td align="center">
 
-Notes:
+Disease
 
-* Disease
-* Climate change
-* Nuclear reactor explosions
+</td><td align="center">
+
+Climate Change
+
+</td><td align="center">
+
+Aliens
+
+</td></table>
 
 ----
 
@@ -135,12 +132,19 @@ Notes:
 
 ![](food-shortage.jpg)
 
+</td></tr><tr><td align="center">
+
+War
+
+</td><td align="center">
+
+Economic Collapse
+
+</td><td align="center">
+
+Supply Chain Failure
+
 </td></tr></table>
-
-Notes:
-
-* War
-* Economic or trade emergencies
 
 ----
 
@@ -158,16 +162,30 @@ Notes:
 
 ![](riots.jpg)
 
+</td></tr><tr><td align="center">
+
+Flooding
+
+</td><td align="center">
+
+Tornado
+
+</td><td align="center">
+
+Riots
+
 </td></tr></table>
 
-Notes:
+----
 
-* Flood
+How could Scouts help with regional emergencies?
+
+* Flooding
 * Tornado
 * Riots
-* Earthquake
-* Hazardous chemicals
-* Pirates
+* Snowstorm
+* Power Outage
+* Forced Relocation
 
 ----
 
@@ -185,18 +203,31 @@ Notes:
 
 ![](falling-through-ice.jpg)
 
-</td></tr></table>
+</td></tr><tr><td align="center">
 
-Notes:
+Fire
 
-* House on fire
-* CPR
-* Active shooter
-* Car accident
-* Ingestion of poison
-* Gas leak
-* Explosion
-* Lost or stranded in dangerous weather
+</td><td align="center">
+
+Medical Emergency
+
+</td><td align="center">
+
+Accident
+
+</td></table>
+
+----
+
+Scouts can directly help with these!
+
+* House Fire
+* Heart Attack
+* Getting Lost
+* Choking
+* Ingestion of Poison
+* Automobile Crash
+* Falls
 
 ---
 
@@ -216,13 +247,13 @@ It's outside the scope of this merit badge to teach you the necessary lifesaving
 
 ---
 
-## Planning and Aspects
+## Emergency Situations
 
-2: Do the following:
+2(a): Discuss with your counselor the aspects of emergency preparedness and include in your discussion the kinds of questions that are important to ask yourself as you consider each of these:
 
-2a: Discuss with your counselor the aspects of emergency preparedness: prevention, protection, mitigation, response, recovery.
+----
 
-Include in your discussion the kinds of questions that are important to ask yourself as you consider each of these.
+To understand the aspects, we'll use an example of playing outside and getting frostbite.
 
 ----
 
@@ -230,7 +261,10 @@ Include in your discussion the kinds of questions that are important to ask your
 
 Avoiding the problem is the safest course of action.
 
-**What questions would you ask?**
+Stay warm to prevent frostbite.
+<!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
+
+*What questions would you ask?*
 
 ----
 
@@ -239,12 +273,18 @@ Avoiding the problem is the safest course of action.
 * What types of emergencies are possible?
 * Which of those are more likely?
 * What hazards need to be considered?
+* How can we avoid those hazards?
 
 ----
 
 ## Protection
 
 Protect against the greatest threats and hazards, while allowing our way of life to thrive.
+
+Warm clothes to protect against frostbite.
+<!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
+
+*List questions relating to protection. (Gear, plans, training, etc.)*
 
 ----
 
@@ -253,11 +293,8 @@ Protect against the greatest threats and hazards, while allowing our way of life
 * What plans do we need?
 * Have we practiced our plan lately?
 * Do we have a disaster kit and is it current?
-* Are there warning systems or devices?
-
-Notes:
-
-Smoke detectors are warning devices.
+* Are there warning systems or devices that should be used?
+* Is there any training we need?
 
 ----
 
@@ -271,15 +308,12 @@ We will come back to this.
 
 STOP: Stop, Think, Observe, Plan
 
-First Aid.
+Administer first aid + focus on your task.
 
-Focus on your task.
+Respond to frostbite by warming the affected area.
+<!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
 
-Respond quickly to save lives, protect property and equipment, and meet basic human needs.
-
-Notes:
-
-Avoid chaos and panic. Speak clearly. Ensure people know what's going on and direct them to best help the situation.
+*What do you need to find out to address the situation?*
 
 ----
 
@@ -287,7 +321,7 @@ Avoid chaos and panic. Speak clearly. Ensure people know what's going on and dir
 
 * What kinds of medical care should be handled?
 * Do you need shelter, and what kind of shelter?
-* Is there food and water?
+* Is there food and clean water?
 * Should people be evacuated?
 
 ----
@@ -297,6 +331,11 @@ Avoid chaos and panic. Speak clearly. Ensure people know what's going on and dir
 Get back to normal.
 
 Rebuild, repair, heal, console.
+
+Frostbite may need surgery, physical therapy, counseling.
+<!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
+
+*After a trauma, what concerns need to be addressed?*
 
 ----
 
@@ -310,9 +349,14 @@ Rebuild, repair, heal, console.
 
 ## Back to Mitigation
 
-Lessen the impact of the next emergency by taking action now.
+Lessen the impact of the next emergency.
 
-It's **taking an action** to see if you can improve any of the other four aspects.
+Preparing in advance.
+
+Talking about frostbite reinforces your training.
+<!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
+
+*Where would you investigate to improve your preparedness?*
 
 ----
 
@@ -321,34 +365,18 @@ It's **taking an action** to see if you can improve any of the other four aspect
 * What additional threats can be avoided?
 * How can we be more prepared?
 * If a problem happens, how can we ensure a more timely response and recovery?
-
-Notes:
-
-Taking this class can be seen as a mitigation step. Checklists, audits, and annual reviews are also mitigation steps.
-
-The important part is that it is an action you are taking.
+* Can I learn more about how to handle environmental hazards in this area?
+* How would I improve the audit checklist for annual reviews?
 
 ---
 
 ## Planning and Aspects
 
-2: Do the following:
-
-2b: Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a for 10 emergency situations from the list below. Discuss your findings with your counselor.
+2(b): Using a chart, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2(a) (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. Discuss your findings with your counselor.
 
 ----
 
-## Let's be REAL CLEAR
-
-Using a chart, graph, spreadsheet, or another method <span style="background-color: yellow">approved by your counselor</span>, <span style="background-color: orange">demonstrate your understanding</span> of each aspect of emergency preparedness listed in requirement 2a for 10 emergency situations from the list below. <span style="background-color: yellow">Discuss your findings</span> with your counselor.
-
-----
-
-## Ethics Again
-
-All work needs to be your own. Don't try to claim someone else's worksheet chart as your own.
-
-Use your own words, not someone else's.
+All work needs to be your own. Use your own words to describe your own ideas.
 
 ----
 
@@ -356,59 +384,101 @@ Use your own words, not someone else's.
 
 "Privilege escalation threat modeling revealed race conditions triggering edge-case memory overflows."
 
-You can copy and paste it, but you that doesn't mean you can demonstrate your understanding of the words.
+You could copy it, but what does it mean?
 
 ----
 
-You must use these five situations. Discuss prevention, protection, mitigation, response, recovery.
+<table><tr><td width="50%">
 
-1. Home kitchen fire
-2. Home basement / storage room / garage fire
-3. Explosion in the home
-4. Automobile crash
-5. Food-borne disease (food poisoning)
+* Home stovetop or oven fire
+* Home flammable liquid fire
+* Gas leak in or near a home or with outside cooking
+* Food poisoning
+* Automobile crash
+* Vehicle stalled in the desert
+* Vehicle trapped in a blizzard
+* Backcountry injury
+* Boating or water accident
+* Toxic chemical spills and releases
+* Nuclear power plant emergency
+
+</td><td>
+
+* Fire or explosion in a public place
+* Violence in a public place
+* Wildland fire
+* Avalanche (snowslide or rockslide)
+* Earthquake
+* Tsunami
+* Major flooding or a flash flood with water outage
+* Hurricane with power outage
+* Tornado
+* Lightning storm
+
+</td></tr></table>
+<!-- .element style="font-size: 0.8em;" -->
 
 ----
 
-Pick 5 more from this list. Discuss prevention, protection, mitigation, response, recovery.
+Demonstrate your understanding of each aspect of emergency preparedness for your chosen situations.
 
-----
-
-6. Fire or explosion in a public place <!-- .element: style="font-size: 0.80em" -->
-7. Vehicle stalled in the desert <!-- .element: style="font-size: 0.80em" -->
-8. Vehicle trapped in a blizzard <!-- .element: style="font-size: 0.80em" -->
-9. Earthquake or tsunami <!-- .element: style="font-size: 0.80em" -->
-10. Mountain / backcountry accident <!-- .element: style="font-size: 0.80em" -->
-11. Boating or water accident <!-- .element: style="font-size: 0.80em" -->
-12. Gas leak in a home or a building <!-- .element: style="font-size: 0.80em" -->
-13. Tornado or hurricane <!-- .element: style="font-size: 0.80em" -->
-14. Major flooding or a flash flood <!-- .element: style="font-size: 0.80em" -->
-15. Toxic chemical spills and releases <!-- .element: style="font-size: 0.80em" -->
-16. Nuclear power plant emergency <!-- .element: style="font-size: 0.80em" -->
-17. Avalanche (snowslide or rockslide) <!-- .element: style="font-size: 0.80em" -->
-18. Violence in a public place <!-- .element: style="font-size: 0.80em" -->
+* Prevention - completely stopping the event
+* Protection - lessening the chance of harm
+* Response - how to best act when it happens
+* Recover - getting back to normal
+* Mitigation - lessening potential future impact
 
 ---
 
-## Planning and Aspects
+## Planning for Family Emergencies
 
-2: Do the following:
+3(a): At a family meeting, discuss the situations on the chart you created for requirement 2(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
 
-2c: Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Complete a family plan. Then meet with your counselor and report on your family meeting, discuss their responses, and share your family plan.
+----
 
-Notes:
+3(b): Develop and practice a plan of escape for your family in case of fire in your home. Draw a floor plan with escape routes and a map with a safe meeting place. Discuss your family's home escape plan with your counselor.
 
-Do not focus on the kit itself at this point. It comes up again later.
+----
+
+3(c): Using a checklist in the <em>Emergency Preparedness</em> merit badge pamphlet or one approved by your counselor, prepare or inspect a family disaster kit for sheltering-in-place and for evacuation of your home. Review the needs and uses of the items in a kit with your counselor.
 
 ---
 
-3: Show how you could save a person from the following without putting yourself in danger:
+## Preventing Accidents and Emergencies
+
+4(a): Using a home safety checklist included in the <em>Emergency Preparedness</em> merit badge pamphlet or one approved by your counselor, inspect a home (or a similar building near where you live or at a camp) for safety hazards with the help of an adult. Present your completed checklist to and discuss your findings with your counselor.
+
+----
+
+The pamphlet does not have a checklist.
+
+Scoutmaster Bucky's workbook does.
+
+US Scouting Project's outdated workbook does.
+
+----
+
+4(b): Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. (Examples are taking a picnic to a park, seeing a movie, attending a worship service, an outing at a beach, traveling to visit a relative, or attending a ball game or concert.) Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.
+
+----
+
+* Possible Hazards
+
+* Proposals to prevent, protect from, mitigate, respond to, and recover from emergencies
+
+* Reasons for the actions proposed
+
+---
+
+## Dangerous Situations
+
+5: Show how you could save a person from the following dangerous situations without putting yourself in danger:
 
 ----
 
 <!-- .slide: data-background="live-household-wire.jpg" data-background-size="contain" -->
 
-3a: Touching a live household wire
+5(a): Live household electric wire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
@@ -421,7 +491,7 @@ Notes:
 
 <!-- .slide: data-background="carbon-monoxide.jpg" data-background-size="contain" -->
 
-3b: A structure <br> filled with <br> carbon monoxide
+5(b): A structure <br> filled with <br> carbon monoxide
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
@@ -434,7 +504,7 @@ Get outside ASAP. Evacuate everyone from structure. Open windows if unable to le
 
 <!-- .slide: data-background="clothes-on-fire.jpg" data-background-size="contain" -->
 
-3c: Clothes on fire
+5(c): Clothes on fire
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
@@ -449,7 +519,7 @@ Notes:
 
 <!-- .slide: data-background="drowning.jpg" data-background-size="contain" -->
 
-3d: Drowning using nonswimming rescues
+5(d): Drowning using nonswimming rescues ...
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
@@ -464,7 +534,7 @@ Notes:
 
 <!-- .slide: data-background="drowning-under-ice.jpg" data-background-size="contain" -->
 
-3d: ... (including accidents on ice)
+5(d): ... (including accidents on ice)
 <!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
 
 Notes:
@@ -475,7 +545,17 @@ Notes:
 
 ---
 
-4: Show three ways of attracting and communicating with rescue planes / aircraft.
+## Signaling for Help
+
+6(a): Show three ways of attracting and communicating with rescue aircraft or drones.
+
+----
+
+6(b): Show ways to attract attention of searchers on the ground if you are lost in the wilderness.
+
+----
+
+6(c): Show ways to attract attention of searchers on the water if you are stranded with a capsized or disabled motorboat or sailboat.
 
 ----
 
@@ -541,7 +621,31 @@ Chemlight on paracord swung around head to make a larger, visible signal.
 
 ---
 
-5: With another person, show a good way to transport an injured person out of a remote and/or rugged area, conserving the energy of rescuers while ensuring the well-being and protection of the injured person.
+## Moving an Injured Person
+
+7: With another person, show two good ways to transport an injured person out of a remote area using improvised stretchers to conserve the energy of rescuers while ensuring the well-being and protection of the injured person.
+
+----
+
+<!-- .slide: data-background="improvised-stretcher.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="improvised-stretcher.gif" data-background-size="contain" -->
+
+----
+
+When possible, conserve the rescuer's energy!
+
+----
+
+<!-- .slide: data-background="improvised-splint.jpg" data-background-size="contain" -->
+
+----
+
+*It says stretchers, not carries.*
+
+You've probably seen the following carries.
 
 ----
 
@@ -659,27 +763,23 @@ Notes:
 
 Short distance.
 
-----
-
-<!-- .slide: data-background="improvised-stretcher.png" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="improvised-stretcher.gif" data-background-size="contain" -->
-
-----
-
-<!-- .slide: data-background="improvised-splint.jpg" data-background-size="contain" -->
-
-Notes:
-
-The best method is where the victim uses their own energy to move. It saves a tremendous amount of energy for the rescuers.
-
 ---
 
-6: Do the following:
+## NIMS and ICS
 
-6a: Describe the National Incident Management System (NIMS) and the Incident Command System (ICS).
+8(a): Describe the National Incident Management System (NIMS) and the local Incident Command System (ICS).
+
+----
+
+Before we dive in, let's look at Scouting.
+
+----
+
+Scouting is a framework to help create leaders. It also covers policies and procedures.
+
+The patrol method is a tool within that framework to help small groups manage tasks.
+
+Scouting says "how we work with youth." The patrol method defines "how a small group can manage itself."
 
 ----
 
@@ -689,28 +789,7 @@ Helps government at all levels work together to prepare for, prevent, respond to
 
 * Shared processes (playbook)
 * Shared vocabulary
-* Defined operational systems during incidents (like ICS)
-
-----
-
-## 14 NIMS Management Characteristics
-
-<ol style="column-count: 2; font-size: 0.8em">
-<li>Common Terminology</li>
-<li>Modular Organization</li>
-<li>Management by Objectives</li>
-<li>Incident Action Planning</li>
-<li>Manageable Span of Control</li>
-<li>Incident Facilities and Locations</li>
-<li>Comprehensive Resource Management</li>
-<li>Integrated Communications</li>
-<li>Establishment and Transfer of Command</li>
-<li>Unified Command</li>
-<li>Chain of Command and Unity of Command</li>
-<li>Accountability</li>
-<li>Dispatch/ Deployment</li>
-<li>Information and Intelligence Management</li>
-</ol>
+* Defined routines during incidents (like ICS)
 
 ----
 
@@ -724,77 +803,38 @@ Provides effective, cross-jurisdictional coordination with a standardized, hiera
 
 ----
 
-## Role of ICS
+NIMS is a framework. It also covers policies, procedures, and best practices.
 
-* Establishes planning and management functions
-* Uses common terminology
-* Integrates communication media
-* Coordinates resource management and allocation
-* Handles planning
-* Creates unified command structure
+ICS is a tool within that framework, focused solely on the command and control of a specific emergency situation.
+
+NIMS says "how we work together." ICS defines "how we manage this incident."
 
 ----
 
-# NIMS vs ICS
+8(b): Find out how your community and its leaders work to manage and to train for disasters. Discuss this information with your counselor.
 
-NIMS is the overarching framework that helps coordinate responses. ICS is a specific tool within that framework used for managing the incident on the ground.
-
-NIMS is broad and also covers policies, procedures, and best practices. ICS is focused solely on the actual command and control of a specific emergency situation.
+Like troops, each community is generally the same but have noticeable differences.
 
 ----
 
-6b: Identify the government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS.
-
-Notes:
-
-* Hennepin County, and each city's Emergency Operation Plan.
-* National Weather Service Twin Cities.
-* Federal Emergency Management Agency.
-
-----
-
-6b: (continued) Explain to your counselor one of the following:
-
-1. How the NIMS/ICS can assist a Scout troop when responding in a disaster.
-2. How a group of Scouts could volunteer to help in an event of these types of emergencies.
-
-----
-
-6c: Find out who is your community's emergency management director and learn what this person does to prevent, protect, mitigate, respond to, and recover from emergency situations in your community. Discuss this information with your counselor, utilizing the information you learned from requirement 2b.
-
-----
-
-* U of M - Katharine Bonneson
-* City of Minneapolis - Bryan Gorman
-* Anoka County - Terry Stoltzman
-* Dakota County - Jenny Groskopf
-* Hennepin County - Eric Waage
-* Ramsey County - Judson Freed
-* Scott County - Scott Haas
-* Washington County - Doug Berglund
-* Wright County - Seth Hansen
-* State of Minnesota - Kristi Rollwagen
+8(c): Discuss how a Scout troop can help in an emergency situation using ICS.
 
 ---
 
-7: Do the following:
+## Emergency Service
 
-7a: Take part in an emergency service project, either a real one or a practice drill, with a Scouting unit or a community agency.
-
-----
-
-7b: Prepare a written plan for mobilizing your troop when needed to do emergency service. If there is already a plan, explain it. Tell your part in making it work.
+9(a): Discuss with your counselor the duties that a Scout troop should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:
 
 ----
 
-Mobilization Plan
+1. Crowd and traffic control
+2. Messenger service during an incident
+3. Collection and distribution services
+4. Group feeding, shelter, and sanitation
 
-* How you inform everyone
-* When and where you meet
-* How work is determined and distributed
-* How to monitor participants
-* Additional needs (food, bathroom, water, stress)
-* When to end
+----
+
+9(b): Prepare a written plan for mobilizing your troop when needed to do emergency service. If your troop already has a mobilization plan, present the plan to your counselor and tell your part in making the plan work.
 
 ----
 
@@ -804,60 +844,58 @@ Brief example for a burning house, mid 1800's:
 * People show up with buckets
 * Organizer puts them into a bucket brigade
 * Organizer decides what is of most value to save
-* Those closest to fire are monitored for their health
+* Those closest to fire are monitored for their health and safety
 * Organizer determines when emergency is over
 
+----
+
+Your plan should be much more detailed.
+
+A new member of your troop should be able to follow the instructions and know what to do.
+
+Is your plan complete enough that you can rehearse it?
+
+----
+
+Mobilization Plan
+
+* Specific roles and responsibilities
+* How you inform everyone
+* When and where you meet
+* How work is determined and distributed
+* How to monitor participants
+* Additional needs (food, bathroom, water, stress)
+* When to end
+
+----
+
+9(c): Using a checklist in the <em>Emergency Preparedness</em> merit badge pamphlet or one approved by your counselor, prepare or inspect a personal emergency service pack for a mobilization call. Explain the needs and uses of the contents to your counselor.
+
+----
+
+9(d): Take part in an emergency service project, either a real one or a practice exercise, with a Scouting troop or a community agency or at Scout camp or at a school. Review what you learned and practiced with your counselor.
+
 ---
 
-8: Do the following:
+## Looking Ahead
 
-8a: Tell the things a group of Scouts should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:
-
-1. Crowd and traffic control.
-2. Messenger service and communications.
-3. Collection and distribution services.
-4. Group feeding, shelter, and sanitation.
+Do ONE of the following
 
 ----
 
-8b: Prepare a personal emergency service pack for a mobilization call. Prepare a family emergency kit (suitcase or waterproof box) for use by your family in case an emergency evacuation is needed. Explain the needs and uses of the contents.
+10(a): Interview an emergency services coordinator or a civil servant about their work in disaster management. Learn about how they chose this career and about their duties. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 ----
 
-## What's in My Kit
-
-* First Aid and Medicines
-* Shelter and Protection
-* Water and Food
-* Fire-making
-* Cooking
-* Tools
-* Hygiene
-* Communication and Lighting
-
----
-
-9: Do one of the following:
-
-9a: Using a safety checklist approved by your counselor, inspect your home for potential hazards. Explain the hazards you find and how they can be corrected.
+10(b): Identify three career opportunities that would use skills and knowledge in emergency services. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
 ----
 
-Or
-
-9b: Review or develop a plan of escape for your family in case of fire in your home.
-
-----
-
-Or
-
-9c: Develop an accident prevention program for five family activities outside the home (such as taking a picnic or seeing a movie) that includes an analysis of possible hazards, a proposed plan to correct those hazards, and the reasons for the corrections you propose.
+10(c): Identify how you might use the skills and knowledge in the field of emergency preparedness to pursue a personal hobby and/or healthy lifestyle. Research the additional training required, expenses, and affiliation with organizations that would help you maximize the enjoyment and benefit you might gain from it. Discuss what you learned with your counselor and share what short-term and long-term goals you might have if you pursued this.
 
 ---
 
 # THE END
-
-### Thank you!
 
 *You survived!*
 <!-- .element style="font-size: 0.6em" -->
