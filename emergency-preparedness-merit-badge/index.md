@@ -33,40 +33,33 @@ Email is for adults and for Scouts that have a current Cyber Chip.
 <!-- .slide: data-background="on-my-honor-coin.jpg" data-background-size="cover" -->
 
 ## Scout-Like Behavior
-<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.6)" -->
 
 ----
 
 <!-- .slide: data-background="participation.jpg" data-background-size="contain" -->
 
 ## Participation is Expected
-<!-- .element: style="background-color: rgba(255, 255, 255, 0.5)" -->
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.6)" -->
+
+Action verbs matter:<br>Describe - Discuss - Prepare<br>Show - Prepare - Inspect - etc.
+<!-- .element: style="background-color: rgba(255, 255, 255, 0.6)" -->
 
 ----
 
 ## It's Up To You
 
-You need to complete the work. I simply facilitate the process.
+*You* complete the requirements.
 
-Do your own work, especially when assembling kits and for the chart (requirement 2b).
+All work needs to be your own.
 
 ----
 
 ## Not Prepared?
 
-It's okay. Let me know, I make a note, and we will simply move on.
-
-I'll try to help achieve as many requirements as possible.
+It's okay. Just let me know and we'll move on.
 
 <img src="unprepared.jpg">
-
-----
-
-## Action Verb
-
-Each requirement has action verbs. "Describe," "discuss," "prepare," "identify", "interview," and other actions need to be performed.
-
-Requirements must be met word for word.
 
 ---
 
@@ -240,10 +233,10 @@ Scouts can directly help with these!
 <!-- .slide: data-background="first-aid-merit-badge.jpg" data-background-size="contain" -->
 
 ## On Your Own
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+<!-- .element style="background-color: rgba(255, 255, 255, 0.6)" -->
 
 It's outside the scope of this merit badge to teach you the necessary lifesaving skills.
-<!-- .element style="background-color: rgba(255, 255, 255, 0.5)" -->
+<!-- .element style="background-color: rgba(255, 255, 255, 0.6)" -->
 
 ---
 
@@ -353,7 +346,7 @@ Lessen the impact of the next emergency.
 
 Preparing in advance.
 
-Talking about frostbite reinforces your training.
+Reviewing the signs of frostbite before each winter
 <!-- .element style="background-color: #ccf; border: 2px solid black; border-radius: 0.5em;" -->
 
 *Where would you investigate to improve your preparedness?*
@@ -627,6 +620,14 @@ Chemlight on paracord swung around head to make a larger, visible signal.
 
 ----
 
+stretcher: A litter, usually of canvas stretched over a frame, used to transport the sick, wounded, or dead.
+
+litter: A flat supporting framework, such as a piece of canvas stretched between parallel shafts, for carrying a disabled or dead person; a stretcher.
+
+- American Heritage Dictionary
+
+----
+
 <!-- .slide: data-background="improvised-stretcher.png" data-background-size="contain" -->
 
 ----
@@ -635,17 +636,27 @@ Chemlight on paracord swung around head to make a larger, visible signal.
 
 ----
 
+<!-- .slide: data-background="travois.jpg" data-background-size="contain" -->
+
+----
+
+For fun, I asked AI to generate a picture showing improvised stretchers.
+
+None are diagrammed correctly.
+
+----
+
+<!-- .slide: data-background="bad-improvised-stretchers.png" data-background-size="contain" -->
+
+---
+
+Even though carries are not stretchers, they are often practiced. You will expend a tremendous amount of energy carrying someone.
+
 When possible, conserve the rescuer's energy!
 
 ----
 
 <!-- .slide: data-background="improvised-splint.jpg" data-background-size="contain" -->
-
-----
-
-*It says stretchers, not carries.*
-
-You've probably seen the following carries.
 
 ----
 
@@ -838,7 +849,7 @@ Like troops, each community is generally the same but have noticeable difference
 
 ----
 
-Brief example for a burning house, mid 1800's:
+Brief outline for a burning house, mid 1800's:
 
 * Send runners down the street to seek help
 * People show up with buckets
