@@ -576,6 +576,18 @@ Arrow was made from two mylar blankets cut in half. The trunk of the arrow is ab
 
 ----
 
+<!-- .slide: data-background="beach-help1.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="beach-help2.webp" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="beach-help3.jpg" data-background-size="contain" -->
+
+----
+
 <!-- .slide: data-background="walkie-talkie.jpg" data-background-size="contain" -->
 
 ----
