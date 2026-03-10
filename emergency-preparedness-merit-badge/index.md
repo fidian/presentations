@@ -355,14 +355,6 @@ Demonstrate your understanding of each aspect of emergency preparedness for your
 
 ---
 
-## 5 Aspects - Exercises
-
-3(b): Develop emergency prevention plans for five family activities outside the home, as approved by your counselor. 
-
-Each plan should include an analysis of possible hazards, proposals to prevent, protect from, mitigate, respond to, and recover from emergencies, and the reasons for the actions that you propose.
-
----
-
 ## Emergencies at Home
 
 2(a): At a family meeting, discuss the situations on the chart you created for requirement 1(b) and make emergency plans for sheltering-in-place and for evacuation of your home. Discuss your family meeting and plans with your counselor.
