@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "fudgel.umd.js",
+        "hashing-demo.js",
+        "totp-demo.js"
+    ]
+}
