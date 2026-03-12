@@ -1,0 +1,439 @@
+---
+title: Artificial Intelligence Merit Badge
+---
+
+# Artificial Intelligence
+
+Tyler Akins
+
+<table width="30%"><tr><td align=center>
+
+![](artificial-intelligence.png)
+
+</td></tr></table>
+
+---
+
+## Expectations
+
+----
+
+<!-- .slide: data-background="on-my-honor-coin.jpg" data-background-size="cover" -->
+
+## Scout-Like Behavior
+<!-- .element: style="background-color: rgba(0, 0, 0, 0.6)" -->
+
+----
+
+<!-- .slide: data-background="participation.jpg" data-background-size="contain" -->
+
+## Participation is Expected
+<!-- .element: style="background-color: rgba(0, 0, 0, 0.6)" -->
+
+---
+
+## Guide to Advancement
+
+Section 5.0.8.0. Using Technology-Based Tools in Advancement
+
+----
+
+"Generative artificial intelligence and other tools (spell checkers, grammar checkers, autofill, etc.) may be used by a Scout to assist with written requirements, but their use must be fully disclosed to the person reviewing the work, and the final output must be the Scout’s own original work."
+
+---
+
+2e. Create a timeline with five key milestones in the development of artificial intelligence.
+
+----
+
+* 1837 - Charles Babbage proposes Analytical Engine, Ada Lovelace writes the first program (not constructed)
+* 1943 – Warren McCulloch and Walter Pitts publish a mathematical model of neural networks.
+* 1950 – Alan Turing proposed the Turing Test in “Computing Machinery and Intelligence.”
+
+----
+
+* 1956 – The term "Artificial Intelligence" is coined at the Dartmouth Summer Research Project on Artificial Intelligence.
+* 1957 - Frank Rosenblatt develops an early neural network model called the Perceptron.
+* 1966 - ELIZA, an early natural language processing chatbot, is created by Joseph Weizenbaum.
+
+----
+
+* 1970s-1980s – AI Winter: Funding declines due to unmet expectations.
+* 1980's - Expert systems arise.
+* 1986 - Backpropagation algorithm is popularized.
+
+----
+
+* 1997 - Deep Blue defeats world chess champion Garry Kasparov.
+* 2006 - Geoffrey Hinton publishes influential work on deep belief networks.
+* 2011 - IBM's Watson wins Jeopardy! against human champions.
+* 2012 – AlexNet dramatically improves image recognition accuracy.
+* 2016 – AlphaGo beats Lee Sedol at Go.
+
+----
+
+* 2017 – “Attention Is All You Need” paper introduces the Transformer, enabling modern language models.
+* 2022 – Public release of ChatGPT and DALL·E accelerates widespread adoption of generative AI.
+* 2023-present - Models integrate text, images, audio, and video; AI widely embedded in productivity tools.
+
+---
+
+## What is Artificial Intelligence?
+
+Where is the cutoff between "artificial intelligence" and "regular software"?
+
+----
+
+Attributes of modern AI systems, which classify them as AI.
+
+* Learn from data and improve over time
+* Understand and generate human language
+* Recognize and generate images
+* Make decisions and solve problems
+
+---
+
+1. Key Concepts. Define the following terms and share the meaning of each with your counselor:
+
+----
+
+* Data
+* Databases
+* Variables
+* Basic programming<br>(Not BASIC programming)
+
+----
+
+* Bots
+* Automation
+* Tasks
+* Triggers
+* Workflows
+
+----
+
+* Artificial intelligence (AI)
+* Artificial intelligence agents
+* Digital workers
+* Machine learning (ML)
+
+----
+
+* General AI
+* Narrow AI
+* Superintelligent AI
+
+---
+
+2a. Identify 10 examples of how AI is currently used in everyday life.
+
+2b. Identify five examples of how AI is currently used in the workplace.
+
+2c. Identify five examples of how AI can be used at school or in support of your education.
+
+----
+
+<style>
+table.border {
+  width: 100%;
+}
+table.border, .border tr, .border td, .border th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+.border th {
+    text-decoration: underline;
+}
+.border td {
+    font-size: 0.6em;
+}
+</style>
+<table class="border">
+<tr><th>Everyday</th><th>Everyday</th><th>Workplace</th><th>Education</th></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+</table>
+
+---
+
+2d. Meet with your counselor and play ten rounds of the "AI or Not?" game to determine if the presented scenario utilizes AI. Discuss your answers.
+
+----
+
+<ai-or-not></ai-or-not>
+
+---
+
+3d. Explain how automation performs repetitive tasks without human intervention and how it reduces human error and optimizes resources.
+
+----
+
+Is it worth the time to automate a task?
+
+How much time is saved over one year?
+
+----
+
+<!-- .slide: data-background="worth-the-time.png" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="worth-the-time-work.png" data-background-size="contain" -->
+
+---
+
+3a. Identify ten examples of how automation is currently used in everyday life.
+
+3b. Identify five examples of how automation is currently used in the workplace.
+
+3c. Identify five examples of how automation can be used at school or in support of your education.
+
+----
+
+<style>
+table.border {
+  width: 100%;
+}
+table.border, .border tr, .border td, .border th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+.border th {
+    text-decoration: underline;
+}
+.border td {
+    font-size: 0.6em;
+}
+</style>
+<table class="border">
+<tr><th>Everyday</th><th>Everyday</th><th>Workplace</th><th>Education</th></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+<tr><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td><td contenteditable="true"></td></tr>
+</table>
+
+---
+
+3e. Create a timeline with five significant milestones in automation development.
+
+----
+
+* ~3rd century BCE – Greek engineers created automata powered by water, steam, or weights.
+* 1738 – Mechanical Duck, an automaton that simulated digestion and movement.
+* 1801 – Jacquard Loom used punch cards to automate weaving patterns.
+* Late 1800s – Factories began using machines capable of self-repeating manufacturing operations.
+* 1913 – Henry Ford introduces the assembly line
+
+----
+
+* 1930s – Mathematical models for feedback systems begin to formalize automation engineering.
+* 1940s – Computers! Machines like ENIAC enable automated calculations and control.
+* 1961 – First industrial robot installed at a General Motors factory.
+* 1968 – Programmable logic controllers introduced, revolutionizing industrial automation.
+* 1970s–1980s – Robots used widely in welding, painting, and assembly lines.
+
+----
+
+* 2000s – Rise of industrial IoT.
+* 2010s – Software bots automate repetitive office tasks.
+* 2014 – Amazon deploys Kiva Systems robots at scale.
+* 2020s – Self-driving vehicles, AI-driven factories, and collaborative robots.
+
+---
+
+4a. Research ethical concerns and responsible use in AI, including bias, privacy, and AI decision-making.
+
+---
+
+4b. Meet with your counselor, play, and discuss five rounds of the "What Would You Do?" ethical decision-making scenarios.
+
+----
+
+<what-would-you-do></what-would-you-do>
+
+---
+
+4c. Develop your own ethical guidelines for the use of AI.
+
+---
+
+4d. What is the Turing test?
+
+----
+
+* 1950's proposal by Alan Turing.
+* A judge uses text-based communications with two entities.
+* A machine passes if the judge is unable to determine which is the machine and which is the human.
+
+----
+
+Let's try it!
+
+---
+
+5a. Explain what a deepfake is and how it can affect an individual.
+
+----
+
+<!-- .slide: data-background="talking-heads.gif" data-background-size="contain" -->
+
+---
+
+5b. Describe what actions to take if you or someone you know is impacted by a deepfake.
+
+----
+
+Support the person!
+
+----
+
+Document Everything
+
+Take screenshots, save URLs, and download the content as evidence before it is removed.
+
+----
+
+Report to Platforms
+
+Use the reporting tools on social media or websites hosting the content (e.g., Meta, YouTube, X) to get it taken down.
+
+----
+
+Contact Law Enforcement
+
+File a report with local police, especially if it involves extortion or, in the U.S., report to the IC3 (Internet Crime Complaint Center) or the FTC.
+
+----
+
+Secure Accounts
+
+If the deepfake was used for impersonation, change passwords and enable two-factor authentication (2FA) on all accounts.
+
+----
+
+Set Up Alerts
+
+Create Google Alerts for the person's name or image to monitor if the deepfake spreads.
+
+----
+
+Financial Protection
+
+If money was lost, notify banks, credit card companies, and freeze credit.
+
+----
+
+Legal Action
+
+In cases of severe harassment or impersonation, consult a lawyer regarding state-specific laws.
+
+---
+
+6a. Discuss the learning process for AI and its limitations.
+
+----
+
+<!-- .slide: data-background="ai-eating-data.jpg" data-background-size="contain" -->
+
+----
+
+<!-- .slide: data-background="ai-eating-junk.jpg" data-background-size="contain" -->
+
+----
+
+It's also not great at understanding content, nuance, nor context.
+
+It's unable to verify the accuracy of content.
+
+AIs are unable to think critically, reason, or apply common sense.
+
+---
+
+6b. Identify five methods of how to effectively communicate with AI.
+
+6c. Explain the importance of prompt engineering when using AI to create better output.
+
+----
+
+Pretend you're talking to a person.
+
+Super eager to please, but doesn't really understand.
+
+----
+
+Be clear, specific, and concise.
+
+Provide background, set constraints, avoid vague requests.
+
+----
+
+Use structured prompts with examples.
+
+Provide examples, break complex tasks into steps, try role playing.
+
+----
+
+Engage in iterative refinement.
+
+It won't work the first time, but you can update the prompt and try again.
+
+----
+
+Verify and refine.
+
+AI wants to please so much that it will make things up.
+
+---
+
+6d. Demonstrate three examples of writing clear instructions for a school-related task.
+
+----
+
+Let's do it!
+
+---
+
+7. Practical Application. Do ONE of the following:
+
+***This can't be done here.***
+
+----
+
+7a. With your counselor's approval, choose an artificial intelligence project based on your personal interest or a community need. Develop a plan outlining the project's objectives, data requirements, and potential ethical considerations. Implement the project utilizing appropriate artificial intelligence tools, languages, or platforms. Share your project with your counselor. Discuss the steps you followed to create the project and your experience during the process.
+
+----
+
+7b. With your counselor's approval, design a short lesson plan on AI and teach it to your patrol of a group of Scouts. The lesson should include an AI-generated age-appropriate explanation of AI, examples of how AI is used in both everyday life as well as in the workplace, and an interactive demonstration of how Scouts could utilize AI to assist them with a school assignment, Scouting activity, or rank advancement. Share information on the development process and teaching experience with your counselor.
+
+---
+
+8. Career Exploration. Do ONE of the following:
+
+Either one works. 8b can be done here!
+
+----
+
+8a. Identify three career opportunities that would use skills and knowledge in artificial intelligence or automation. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities, and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
+
+----
+
+8b. Interview an artificial intelligence or automation professional. Learn about their day-to-day work, the challenges they face, and their vision for the future of artificial intelligence or automation. Inquire about training, education, certification requirements, experience, and expenses associated with entering the field. Share what you learned with your counselor.
+
+---
+
+That's it!
+
+----
+
+## Tyler Akins
+
+612-387-8102 <br>
+fidian@rumkin.com
+
+A parent MUST be included!
+<!-- .element style="color: red" -->

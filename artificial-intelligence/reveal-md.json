@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "fudgel.umd.js",
+        "ai-or-not.js",
+        "what-would-you-do.js"
+    ]
+}

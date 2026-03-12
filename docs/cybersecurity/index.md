@@ -430,5 +430,5 @@ That's it!
 612-387-8102 <br>
 fidian@rumkin.com
 
-Email is for adults and for Scouts that have a current Cyber Chip.
+A parent MUST be included!
 <!-- .element style="color: red" -->
