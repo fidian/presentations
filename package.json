@@ -1,10 +1,16 @@
 {
     "private": true,
     "scripts": {
-        "build": "cd \"$INIT_CWD\" && reveal-md index.md --static \"../docs/${INIT_CWD##*/}\" --static-dirs . --assets-dir assets && cd .. && cp -r reveal.json reveal-md.json plugins docs",
-        "start": "cd \"$INIT_CWD\" && reveal-md index.md -w"
+        "postinstall": "npm run postinstall-js && npm run postinstall-css",
+        "postinstall-css": "cp node_modules/reveal.js/dist/reveal.css node_modules/reveal.js/dist/theme/night.css css/",
+        "postinstall-js": "cp node_modules/reveal.js/dist/reveal.mjs js/reveal.js ; cp node_modules/reveal.js/dist/plugin/markdown.mjs js/markdown.js ; cp node_modules/reveal.js/dist/plugin/notes.mjs js/notes.js ; cp node_modules/fudgel/dist/fudgel.mjs js/fudgel.js",
+        "start": "light-server -s . -o -w 'js/*, css/*, **/index.html'"
     },
     "dependencies": {
-        "reveal-md": "latest"
+        "fudgel": "^3.3.0",
+        "reveal.js": "latest"
+    },
+    "devDependencies": {
+        "light-server": "latest"
     }
 }

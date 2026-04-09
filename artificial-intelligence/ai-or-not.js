@@ -1,3 +1,5 @@
+import { component, css, html } from '../js/fudgel.js';
+
 const scenarios = [
     {
         number: 1,
@@ -329,10 +331,10 @@ const scenarios = [
     }
 ];
 
-Fudgel.component(
+component(
     "ai-or-not",
     {
-        style: `
+        style: css`
             :host {
                 display: flex;
                 flex-direction: column;
@@ -378,7 +380,7 @@ Fudgel.component(
                 margin-bottom: 0.5em;
             }
         `,
-        template: `
+        template: html`
         <div class="header">
             Played {{ played }} games -
             <button disabled="{{ spinning }}" @click="pickRandomScenario()">Pick a Random Scenario</button>

@@ -1,12 +1,14 @@
-Fudgel.component(
+import { component, css, html } from "../js/fudgel.js";
+
+component(
     "hashing-demo",
     {
-        style: `
+        style: css`
             .result {
                 font-family: monospace;
             }
         `,
-        template: `
+        template: html`
             <textarea
                 @keypress="updateDelayed()"
                 @keyup="updateDelayed()"
@@ -14,13 +16,11 @@ Fudgel.component(
                 rows="10"
                 cols="50"
                 #ref="input"
-            >Typing anything into here changes the numbers below. It's possible to have a conflict (two values that have the same computed hash) much more easily with MD5. Most current computer algorithms use SHA256 or SHA512.</textarea>
-            <div class="result">
-                MD5: {{ md5 }}
-            </div>
-            <div class="result" style="font-size: 0.8em">
-                SHA1: {{ sha1 }}
-            </div>
+            >
+Typing anything into here changes the numbers below. It's possible to have a conflict (two values that have the same computed hash) much more easily with MD5. Most current computer algorithms use SHA256 or SHA512.</textarea
+            >
+            <div class="result">MD5: {{ md5 }}</div>
+            <div class="result" style="font-size: 0.8em">SHA1: {{ sha1 }}</div>
             <div class="result" style="font-size: 0.5em">
                 SHA256: {{ sha256 }}
             </div>

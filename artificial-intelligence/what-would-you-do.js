@@ -1,3 +1,5 @@
+import { component, css, html } from '../js/fudgel.js';
+
 const scenarios2 = [
     {
         number: 1,
@@ -454,10 +456,10 @@ const scenarios2 = [
     }
 ];
 
-Fudgel.component(
+component(
     "what-would-you-do",
     {
-        style: `
+        style: css`
             :host {
                 display: flex;
                 flex-direction: column;
@@ -485,7 +487,7 @@ Fudgel.component(
                 font-size: 0.6em;
             }
         `,
-        template: `
+        template: html`
         <button @click="start()">Pick a Random Scenario</button>
         <div *if="scenario" class="title">{{ scenario?.title }}</div>
         <div *if="scenario" class="description">{{ scenario?.description }}</div>

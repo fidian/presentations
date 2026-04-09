@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+link() {
+    echo "<a href=\"$1\">${2:-$1}</a>"
+}
+
+title() {
+    pup 'title text{}' -f "$1"
+}
+
+cd "${0%/*}" || exit 1
+
+echo "<html><head>"
+echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+echo "<title>Presentation Index</title></head><body>"
+
+for FILE in */index.html; do
+    TARGET="${FILE%index.html}"
+    echo "<div>"
+    echo "    $(link "$TARGET" "$(title "$FILE")")"
+    echo "</div>"
+done
+
+echo "</body></html>"
