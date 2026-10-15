@@ -1,4 +1,6 @@
-const newSet = (...iterables) => new Set(iterables.flatMap(list => [...list]));
+// concat rather than flatMap: the library stays within ES2018 so Safari
+// 11.1 can parse it, and flatMap arrived in ES2019.
+const newSet = (...iterables) => new Set([].concat(...iterables.map(list => [...list])));
 
 const allComponents = /*@__PURE__*/ newSet();
 
@@ -16,7 +18,8 @@ class Emitter {
     // Emits a value to all event listeners. If one listener removes a later
     // listener from the list, the later listener will still be called.
     emit(name, ...data) {
-        for (const cb of [...(this._m.get(name) ?? [])]) {
+        var _a;
+        for (const cb of [...((_a = this._m.get(name)) !== null && _a !== void 0 ? _a : [])]) {
             cb(...data);
         }
     }
@@ -30,7 +33,8 @@ class Emitter {
         }
     }
     on(name, callback) {
-        (this._m.get(name) ?? this._m.set(name, newSet()).get(name)).add(callback);
+        var _a;
+        ((_a = this._m.get(name)) !== null && _a !== void 0 ? _a : this._m.set(name, newSet()).get(name)).add(callback);
         return () => this.off(name, callback);
     }
 }
@@ -38,13 +42,15 @@ class Emitter {
 const events = new Emitter();
 
 const lifecycle = (controller, stage, ...args) => {
+    var _a, _b;
     events.emit(stage, controller, ...args);
-    controller[metadata]?.events.emit(stage, ...args);
-    controller[`on${stage[0].toUpperCase()}${stage.slice(1)}`]?.(...args);
+    (_a = controller[metadata]) === null || _a === void 0 ? void 0 : _a.events.emit(stage, ...args);
+    (_b = controller[`on${stage[0].toUpperCase()}${stage.slice(1)}`]) === null || _b === void 0 ? void 0 : _b.call(controller, ...args);
 };
 
 const emit = (source, eventName, detail, customEventInit = {}) => {
-    const e = source instanceof Element ? source : source[metadata]?.host;
+    var _a;
+    const e = source instanceof Element ? source : (_a = source[metadata]) === null || _a === void 0 ? void 0 : _a.host;
     if (e) {
         e.dispatchEvent(new CustomEvent(eventName, {
             bubbles: true,
@@ -66,6 +72,7 @@ const update = (controller) => {
     }
 };
 const updateController = (controller) => {
+    var _a;
     // Mark all attributes and properties as being changed so internals get
     // updated. Necessary when deeply nested objects are passed as input
     // properties to directives and are updated in scopes.
@@ -75,7 +82,7 @@ const updateController = (controller) => {
         lifecycle(controller, 'change', name, controller[name], controller[name]);
     }
     // Update all bound functions
-    controller[metadata]?.events.emit('update');
+    (_a = controller[metadata]) === null || _a === void 0 ? void 0 : _a.events.emit('update');
 };
 
 const Obj = Object;
@@ -87,8 +94,9 @@ const camelToDash = (camel) => camel.replace(/\p{Lu}/gu, match => `-${match[0]}`
 // Convert PascalCaseString to dashed-string, used when removing a leading
 // portion of a camel case string, such as "on" from "onClick"
 const pascalToDash = (pascal) => camelToDash(pascal.replace(/^\p{Lu}/gu, match => match.toLowerCase()));
-const toString = (value) => `${value ?? ''}`;
+const toString = (value) => `${value !== null && value !== void 0 ? value : ''}`;
 const isString = (x) => typeof x == 'string';
+const isFunction = (x) => typeof x == 'function';
 const getAttribute = (node, name) => node.getAttribute(name);
 const hasOwn = (obj, prop) => Obj.prototype.hasOwnProperty.call(obj, prop);
 // In the future, we could use the newer method. As of right now, it's only
@@ -105,19 +113,25 @@ const setAttribute = (node, name, value) => {
         node.removeAttribute(name);
     }
 };
-// Return the entries of an Iterable or fall back on Object.entries for
-// normal objects and arrays.
-const entries = (iterable) => iterable.entries?.() ?? Obj.entries(iterable);
+// Return [key, value] pairs for a Map, Set, array, other iterable, or plain
+// object. Only a real iterable is trusted to have an entries() method; a
+// plain object may carry any key, including one called "entries".
+const entries = (x) => isFunction(x === null || x === void 0 ? void 0 : x[Symbol.iterator])
+    ? // Map, Set, Array and NodeList have entries(); spread the rest.
+        (isFunction(x.entries) ? x : [...x]).entries()
+    : Obj.entries(x || {});
 const isTemplate = (node) => node.nodeName == 'TEMPLATE';
 
 /**
  * Shorthands for creating elements. Using these is better for minification.
  *
- * Both `doc` and `win` have a fallback to an object to support unit testing of
- * some things in a non-browser environment, such as `di()`.
+ * `win` falls back to the global object so the library can be imported where
+ * there is no window, such as a Node test of a service that uses `di()` or
+ * of the expression parser. `doc` is then undefined, and every DOM path stays
+ * unreachable until a component is defined in a real browser.
  */
-const doc = document;
-const win = window;
+const win = (typeof window != 'undefined' ? window : globalThis);
+const doc = win.document;
 const cloneNode = (node) => node.cloneNode(true);
 const createElement = (name) => doc.createElement(name);
 const createTextNode = (content) => doc.createTextNode(content);
@@ -145,55 +159,91 @@ const shorthandWeakMap = () => {
 
 const patchedSetters = shorthandWeakMap();
 const removeSetters = (obj) => {
-    for (const [_, callbacks] of entries(patchedSetters(obj) || {})) {
-        callbacks.length = 0;
+    for (const callbacks of Obj.values(patchedSetters(obj) || {})) {
+        callbacks.clear();
     }
 };
+// Watch assignments to obj[property]. Returns a function that stops watching.
 const patchSetter = (obj, property, callback) => {
     const trackingObject = patchedSetters(obj) || patchedSetters(obj, {});
     let callbacks = trackingObject[property];
     if (!callbacks) {
-        let value = obj[property];
-        const desc = Obj.getOwnPropertyDescriptor(obj, property) || {};
-        callbacks = [];
-        trackingObject[property] = callbacks;
+        callbacks = trackingObject[property] = newSet();
+        // Find the property wherever it is defined so an accessor, on the
+        // instance or on the prototype, keeps being an accessor rather than
+        // a value copied once at bind time.
+        let proto = obj;
+        let desc;
+        while (proto &&
+            !(desc = Obj.getOwnPropertyDescriptor(proto, property))) {
+            proto = Obj.getPrototypeOf(proto);
+        }
+        const get = desc === null || desc === void 0 ? void 0 : desc.get;
+        const set = desc === null || desc === void 0 ? void 0 : desc.set;
+        let value = get ? undefined : obj[property];
+        const read = function () {
+            return get ? get.call(this) : value;
+        };
         Obj.defineProperty(obj, property, {
-            get: desc.get || (() => value),
-            set: function (newValue) {
-                const oldValue = value;
+            configurable: true,
+            get: read,
+            set(newValue) {
+                const oldValue = read.call(this);
                 // Distinguish between different NaN values or +0 and -0.
                 if (!Obj.is(newValue, oldValue)) {
-                    desc.set?.(newValue);
-                    value = newValue;
-                    for (const cb of callbacks) {
-                        cb(newValue, oldValue);
+                    set ? set.call(this, newValue) : get || (value = newValue);
+                    // Walk a copy: a callback may tear down content whose
+                    // callbacks are still ahead in the set (skip those) or
+                    // build content that adds callbacks (leave those for the
+                    // next change; they were just evaluated).
+                    for (const cb of [...callbacks]) {
+                        callbacks.has(cb) && cb(newValue, oldValue);
                     }
                 }
             },
         });
     }
-    callbacks.push(callback);
+    callbacks.add(callback);
+    return () => callbacks.delete(callback);
 };
 
+// Run `cleanup` once, when a directive removes `node` or the controller is
+// destroyed, and drop the listeners that were waiting for that moment.
+const whenRemoved = (controller, node, cleanup) => {
+    var _a;
+    const events = (_a = controller[metadata]) === null || _a === void 0 ? void 0 : _a.events;
+    const done = () => {
+        cleanup();
+        for (const remover of removers) {
+            remover === null || remover === void 0 ? void 0 : remover();
+        }
+    };
+    const removers = [
+        events === null || events === void 0 ? void 0 : events.on('unlink', (removedNode) => {
+            if (removedNode.contains(node)) {
+                done();
+            }
+        }),
+        events === null || events === void 0 ? void 0 : events.on('destroy', done),
+    ];
+};
 const addBindings = (controller, node, callback, bindingList, scope) => {
+    var _a;
     for (const binding of bindingList) {
         const target = findBindingTarget(controller, scope, binding);
-        patchSetter(target, binding, callback);
-        const onDestroy = () => {
-            for (const remover of removers) {
-                remover?.();
-            }
-        };
-        const events = controller[metadata]?.events;
-        const removers = [
-            events?.on('update', callback),
-            events?.on('unlink', (removedNode) => {
-                if (removedNode.contains(node)) {
-                    onDestroy();
-                }
-            }),
-            events?.on('destroy', onDestroy)
-        ];
+        // A name that is neither in scope nor on the controller but is a
+        // global, such as Math or Date, means the global. Watching it on the
+        // controller would define it there and shadow the global with
+        // undefined.
+        if (!(binding in target) && binding in win) {
+            continue;
+        }
+        const unpatch = patchSetter(target, binding, callback);
+        const offUpdate = (_a = controller[metadata]) === null || _a === void 0 ? void 0 : _a.events.on('update', callback);
+        whenRemoved(controller, node, () => {
+            unpatch();
+            offUpdate === null || offUpdate === void 0 ? void 0 : offUpdate();
+        });
     }
 };
 const findBindingTarget = (controller, scope, binding) => hasOwn(scope, binding)
@@ -255,7 +305,7 @@ const binaryOps = {
     // 1 Skip: , (comma)
     // 2 Skip: ...x, yield, =>, x?y:z, assignments
     '||': [3, (left, right) => root => [left(root)[0] || right(root)[0]]],
-    '??': [3, (left, right) => root => [left(root)[0] ?? right(root)[0]]],
+    '??': [3, (left, right) => root => { var _a; return [(_a = left(root)[0]) !== null && _a !== void 0 ? _a : right(root)[0]]; }],
     '&&': [4, (left, right) => root => [left(root)[0] && right(root)[0]]],
     '|': [5, (left, right) => root => [left(root)[0] | right(root)[0]]], // After ||
     '^': [6, (left, right) => root => [left(root)[0] ^ right(root)[0]]],
@@ -370,7 +420,28 @@ const gobbleSpaces = (advanceChars = 0) => {
         advance();
     }
 };
+// An expression is a binary expression, optionally followed by `? a : b`.
 const gobbleExpression = () => {
+    const test = gobbleBinaryExpression();
+    // 63 is '?'. Optional chaining was already consumed by
+    // gobbleTokenProperty, so a '?' here starts a conditional.
+    if (test && code == 63) {
+        gobbleSpaces(1);
+        const consequent = gobbleExpression() || throwJsepError();
+        // 58 is ':'
+        if (code != 58) {
+            throwJsepError();
+        }
+        gobbleSpaces(1);
+        const alternate = gobbleExpression() || throwJsepError();
+        return [
+            root => test[0](root)[0] ? consequent[0](root) : alternate[0](root),
+            newSet(test[1], consequent[1], alternate[1]),
+        ];
+    }
+    return test;
+};
+const gobbleBinaryExpression = () => {
     const combineLast = () => {
         const r = stack.pop(), op = stack.pop(), l = stack.pop();
         stack.push([op[1](l[0], r[0]), newSet(l[1], r[1])]);
@@ -450,7 +521,18 @@ const gobbleToken = () => {
         // Char code 46 is a dot `.`, which can start off a numeric literal
         return gobbleNumericLiteral();
     }
-    if (code == 34 || code == 39) {
+    if (code == 40) {
+        // 40 is '('
+        // A parenthesized expression
+        gobbleSpaces(1);
+        node = gobbleExpression() || throwJsepError();
+        // 41 is ')'
+        if (code != 41) {
+            throwJsepError();
+        }
+        gobbleSpaces(1);
+    }
+    else if (code == 34 || code == 39) {
         // 34 = '"', 39 = "'"
         // Single or double quotes
         const str = gobbleStringLiteral();
@@ -483,7 +565,14 @@ const gobbleToken = () => {
     }
     return gobbleTokenProperty(node);
 };
+// A chain of property accesses and calls: `a.b[c](d)?.e`. Each step is
+// evaluated against the value of the one before it. A `?.` is recorded as a
+// 0 in the list of steps; when it finds null or undefined, the rest of the
+// chain is skipped, as in JavaScript, so `a?.b.c` is undefined when `a` is.
+// A parenthesized expression is its own chain, so `(a?.b).c` still throws.
 const gobbleTokenProperty = (node) => {
+    const steps = [];
+    let bindings = node[1];
     // '.', '[', '(', '?'
     while (
     /* . */ code == 46 ||
@@ -491,29 +580,28 @@ const gobbleTokenProperty = (node) => {
         /* ( */ code == 40 ||
         /* ? */ code == 63) {
         let optional;
-        let action;
-        let bindings = newSet();
-        let prevNode = node;
         // '?'
         if (code == 63) {
-            // Checking for optional chaining
-            advance();
-            // '.'
-            if (code !== 46) {
-                advance(-1);
-                return node;
+            // Without a dot, this '?' starts a conditional. So does "?."
+            // followed by a digit, as in JavaScript: `a?.5:1` is `a ? .5 : 1`.
+            if (expr[index + 1] != '.' ||
+                isDecimalDigit(expr.charCodeAt(index + 2))) {
+                break;
             }
+            // Skip "?." so `?.[` and `?.(` are handled below
+            steps.push(0);
             optional = true;
+            gobbleSpaces(2);
         }
         // '['
         if (code == 91) {
             gobbleSpaces(1);
             const expression = gobbleExpression() || throwJsepError();
-            action = (value, root) => [
+            steps.push((value, root) => [
                 value[0][expression[0](root)[0]],
                 value[0],
-            ];
-            bindings = expression[1];
+            ]);
+            bindings = newSet(bindings, expression[1]);
             // ']'
             if (code !== 93) {
                 throwJsepError();
@@ -526,40 +614,39 @@ const gobbleTokenProperty = (node) => {
             // A function call is being made; gobble all the arguments
             // 41 is ')'
             const args = gobbleArguments(41);
-            action = (value, root) => [
+            steps.push((value, root) => [
                 value[0].apply(value[1], args[0](root)[0]),
-            ];
-            bindings = args[1];
-        }
-        else if (code == 46) {
-            // '.'
-            gobbleSpaces(1);
-            const identifier = gobbleIdentifier();
-            action = value => [value[0][identifier], value[0]];
+            ]);
+            bindings = newSet(bindings, args[1]);
         }
         else {
-            throwJsepError();
+            // '.', or the property name right after "?."
+            if (!optional) {
+                gobbleSpaces(1);
+            }
+            const identifier = gobbleIdentifier();
+            steps.push(value => [value[0][identifier], value[0]]);
         }
-        node = optional
-            ? [
-                root => {
-                    const value = prevNode[0](root);
-                    // This returns true for undefined and null, false
-                    // otherwise for everything else (including false, 0,
-                    // and empty string).
-                    return value[0] == null
-                        ? []
-                        : action(value, root);
-                },
-                newSet(prevNode[1], bindings),
-            ]
-            : [
-                root => action(prevNode[0](root), root),
-                newSet(prevNode[1], bindings),
-            ];
         gobbleSpaces();
     }
-    return node;
+    return [
+        root => {
+            let value = node[0](root);
+            for (const step of steps) {
+                if (step) {
+                    value = step(value, root);
+                }
+                else if (value[0] == null) {
+                    // This is true for undefined and null, false for
+                    // everything else (including false, 0, and empty
+                    // string).
+                    return [];
+                }
+            }
+            return value;
+        },
+        bindings,
+    ];
 };
 const gobbleNumericLiteral = () => {
     let number = '';
@@ -743,7 +830,7 @@ const gobbleObjectLiteral = () => {
             }
             return [obj];
         },
-        newSet(...(props.map(prop => [prop[0][1], prop[1][1]]).flat()))
+        newSet(...props.map(prop => prop[0][1]), ...props.map(prop => prop[1][1])),
     ];
 };
 
@@ -787,7 +874,7 @@ const splitText = (text) => {
 const assembleCall = (splitResult) => splitResult
     ? [
         (...roots) => splitResult[0]
-            .map(x => toString(x?.call ? x(...roots) : x))
+            .map(x => toString(isFunction(x) ? x(...roots) : x))
             .join(''),
         splitResult[1],
     ]
@@ -796,11 +883,12 @@ const assembleCall = (splitResult) => splitResult
 // See parseText
 const parseAttr = (text) => {
     const splitResult = splitText(text);
-    const first = splitResult?.[0];
-    if (first?.length == 3 && first[0] == '' && first[2] == '') {
+    const first = splitResult === null || splitResult === void 0 ? void 0 : splitResult[0];
+    if ((first === null || first === void 0 ? void 0 : first.length) == 3 && first[0] == '' && first[2] == '') {
         return [
             (...roots) => {
-                const x = first[1](...roots) ?? false;
+                var _a;
+                const x = (_a = first[1](...roots)) !== null && _a !== void 0 ? _a : false;
                 return x === !!x ? x : toString(x);
             },
             splitResult[1],
@@ -857,7 +945,11 @@ const modifierGuards = {
     exact: (e, _node, modifierSet) => ['ctrl', 'shift', 'alt', 'meta'].some(m => e[`${m}Key`] && !modifierSet.has(m)),
 };
 const eventDirective = (controller, node, attrValue, attrName) => {
-    const [eventName, ...modifiers] = dashToCamel(attrName.slice(1)).split('.');
+    // Modifiers keep their dashes ("arrow-left"); only the event name is
+    // converted, and the attribute's own spelling is listened for as well
+    // so a dashed event from another library ("sl-change") can be heard.
+    const [rawName, ...modifiers] = attrName.slice(1).split('.');
+    const eventName = dashToCamel(rawName);
     const scope = Obj.create(getScope(node));
     const parsed = parse.js(attrValue);
     const fn = (event) => {
@@ -888,15 +980,30 @@ const eventDirective = (controller, node, attrValue, attrName) => {
     if (checkModifier('document') || modifierSet.has('outside')) {
         eventTarget = doc;
     }
-    eventTarget.addEventListener(eventName, event => {
+    const listener = (event) => {
         if (![...modifierSet].some(modifier => (modifierGuards[modifier] ||
-            ((e) => pascalToDash(e.key) !==
-                (modifier.match(/^code-\d+$/)
-                    ? String.fromCodePoint(+modifier.split('-')[1])
-                    : modifier)))(event, node, modifierSet))) {
+            ((e) => {
+                const key = e.key;
+                const code = modifier.match(/^code-(\d+)$/);
+                return code
+                    ? key != String.fromCodePoint(+code[1])
+                    : (key == ' ' ? 'space' : pascalToDash(key)) !=
+                        modifier;
+            }))(event, node, modifierSet))) {
             fn(event);
         }
-    }, options);
+    };
+    const names = newSet([eventName, rawName]);
+    for (const name of names) {
+        eventTarget.addEventListener(name, listener, options);
+    }
+    // A listener on the window or document would otherwise outlive the
+    // element, and keep firing for it, forever.
+    whenRemoved(controller, node, () => {
+        for (const name of names) {
+            eventTarget.removeEventListener(name, listener, options);
+        }
+    });
     setAttribute(node, attrName);
 };
 
@@ -918,7 +1025,7 @@ const hashClassDirective = (controller, node, attrValue, attrName) => {
 
 const change = (controller, propertyName, newValue) => {
     // Only allow the change if the controller is still active
-    if (controller?.[metadata]) {
+    if (controller === null || controller === void 0 ? void 0 : controller[metadata]) {
         const oldValue = controller[propertyName];
         if (oldValue !== newValue) {
             controller[propertyName] = newValue;
@@ -949,13 +1056,19 @@ const propertyDirective = (controller, node, attrValue, attrName) => {
 const starForDirective = (controller, anchor, source, attrValue) => {
     let keyName = 'key';
     let valueName = 'value';
-    const matches = attrValue.match(/^\s*(?:(?:(\S+)\s*,\s*)?(\S+)\s+of\s+)?(\S+)\s*$/);
+    let trackValue;
+    // [key,] value of iterable [track expression]
+    const matches = attrValue.match(/^\s*(?:(?:(\S+)\s*,\s*)?(\S+)\s+of\s+)?(.+?)(?:\s+track\s+(.+?))?\s*$/);
     if (matches) {
         keyName = matches[1] || keyName;
         valueName = matches[2] || valueName;
         attrValue = matches[3];
+        trackValue = matches[4];
     }
     const parsed = parse.js(attrValue);
+    // What identifies an item: the track expression, evaluated with the
+    // loop variables in scope, or else the iteration key.
+    const track = trackValue && parse.js(trackValue);
     const anchorScope = getScope(anchor);
     let activeNodes = new Map();
     const update = () => {
@@ -963,23 +1076,24 @@ const starForDirective = (controller, anchor, source, attrValue) => {
         let oldNodes = activeNodes;
         activeNodes = new Map();
         let lastNode = anchor;
-        // Attempt to reuse nodes based on the key of the iterable
         for (const [key, value] of entries(iterable)) {
-            // Attempt to find the old node
-            let copy = oldNodes.get(key);
-            oldNodes.delete(key);
-            if (copy === lastNode.nextSibling) {
-                // Next node is in the right position. Update the value in
-                // scope, which should trigger bindings.
+            const id = track
+                ? track[0]({ [keyName]: key, [valueName]: value }, anchorScope, controller)
+                : key;
+            let copy = oldNodes.get(id);
+            oldNodes.delete(id);
+            if (copy) {
+                // Keep the node, and with it whatever state it holds. Update
+                // the scope, which triggers its bindings, and move it only
+                // if it is out of place.
                 const scope = getScope(copy);
+                scope[keyName] = key;
                 scope[valueName] = value;
+                if (copy !== lastNode.nextSibling) {
+                    lastNode.after(copy);
+                }
             }
             else {
-                // Delete the old node if it exists
-                if (copy) {
-                    unlink(controller, copy);
-                    copy.remove();
-                }
                 // Create a new node and set its scope
                 copy = cloneNode(source);
                 const scope = childScope(anchorScope, copy);
@@ -989,7 +1103,7 @@ const starForDirective = (controller, anchor, source, attrValue) => {
                 lastNode.after(copy);
             }
             lastNode = copy;
-            activeNodes.set(key, lastNode);
+            activeNodes.set(id, copy);
         }
         // Clean up any remaining nodes. It's faster to call `unlink()` once,
         // so collect all nodes into a document fragment and flag that fragment
@@ -1049,8 +1163,8 @@ const starRepeatDirective = (controller, anchor, source, attrValue) => {
             unlink(controller, target);
             target.remove();
         }
-        let lastIndex = activeNodes.length + 1;
-        let lastNode = activeNodes[lastIndex - 1] || anchor;
+        let lastIndex = activeNodes.length;
+        let lastNode = activeNodes[activeNodes.length - 1] || anchor;
         while (activeNodes.length < desired) {
             let copy = cloneNode(source);
             const scope = childScope(anchorScope, copy);
@@ -1090,7 +1204,7 @@ const linkElementNode = (controller, currentNode) => {
         const applyDirective = generalDirectives[attrName] ||
             generalDirectives[firstChar] ||
             generalDirectives[''];
-        applyDirective?.(controller, currentNode, attr.nodeValue || '', attrName);
+        applyDirective === null || applyDirective === void 0 ? void 0 : applyDirective(controller, currentNode, attr.nodeValue || '', attrName);
     }
 };
 
@@ -1118,11 +1232,18 @@ const linkStructuralDirective = (controller, treeWalker, currentNode) => {
             currentNode.remove();
             // Move tree walker to the next node. Processing the directive will
             // modify the DOM between the anchor and the current tree walker node.
-            treeWalker.nextNode();
+            const next = treeWalker.nextNode();
             // Remove star directives here so infinite loops are avoided.
             setAttribute(currentNode, directive[0]);
             // Applying the directive may automatically append elements after the anchor.
             directive[1](controller, anchor, currentNode, directive[2], directive[0]);
+            if (!next) {
+                // Nothing followed the anchor, so nothing is left to walk.
+                // Stepping back would land inside the clones the directive
+                // just linked and walk them a second time, re-reading any
+                // braces in the data they rendered as expressions.
+                return 2;
+            }
             // Move back one node so the next loop will process the node we're
             // currently pointing at.
             treeWalker.previousNode();
@@ -1181,8 +1302,12 @@ const linkNodes = (controller, root) => {
             linkTextNode(controller, currentNode);
         }
         else if (type == 1) {
-            linkStructuralDirective(controller, treeWalker, currentNode) ||
-                linkElementNode(controller, currentNode);
+            const linked = linkStructuralDirective(controller, treeWalker, currentNode);
+            // 2 means the directive's element was the last node in this root.
+            if (linked == 2) {
+                return;
+            }
+            linked || linkElementNode(controller, currentNode);
         }
     }
 };
@@ -1279,7 +1404,10 @@ const observe = (doc, element, callback) => {
  * Set up config and define a custom element.
  */
 // Decorator to wire a class as a custom component
-const Component = (tag, config) => (target) => component(tag, config, target);
+const Component = (tag, config) => (target) => {
+    component(tag, config, target);
+    // Returns void
+};
 const component = (tag, configInitial, constructor) => {
     const cssClassName = `fudgel_${tag}`;
     const style = scopeStyle(configInitial.style || '', tag, cssClassName, configInitial.useShadow);
@@ -1298,11 +1426,13 @@ const component = (tag, configInitial, constructor) => {
     };
     template.innerHTML = configInitial.template;
     updateClasses(template);
+    // Property names, whichever way they were written.
+    const names = (list) => newSet([...(list || [])].map(dashToCamel));
     const config = {
         ...configInitial,
-        attr: newSet(configInitial.attr || []),
+        attr: names(configInitial.attr),
         cssClassName,
-        prop: newSet(configInitial.prop || []),
+        prop: names(configInitial.prop),
         style,
         tag,
         template: template.innerHTML,
@@ -1334,13 +1464,21 @@ const component = (tag, configInitial, constructor) => {
             // Set up bindings before adding child nodes
             for (const propertyName of config.attr) {
                 const attributeName = camelToDash(propertyName);
-                // Set initial value - updates are tracked with
+                // Set the initial value. An absent attribute leaves the
+                // controller's own default alone; later changes, including
+                // a removal (which sets null), arrive at
                 // attributeChangedCallback.
-                change(controller, propertyName, getAttribute(this, attributeName));
-                // When the internal property changes, update the attribute but only
-                // if it is a string or null.
+                const initial = getAttribute(this, attributeName);
+                if (initial !== null) {
+                    change(controller, propertyName, initial);
+                }
+                // When the internal property changes, update the attribute:
+                // a string is set, true becomes an empty string, and false,
+                // null and undefined remove it.
                 patchSetter(controller, propertyName, (newValue) => {
-                    if ((isString(newValue) || newValue === null) &&
+                    if ((isString(newValue) ||
+                        newValue == null ||
+                        newValue === !!newValue) &&
                         controller[metadata]) {
                         setAttribute(this, attributeName, newValue);
                     }
@@ -1392,17 +1530,20 @@ const component = (tag, configInitial, constructor) => {
         }
         disconnectedCallback() {
             const controller = this[metadata];
-            lifecycle(controller, 'destroy');
-            // Remove the controller from the global list
-            allControllers.delete(controller);
-            // Remove setters on the element.
-            // It is not necessary to remove setters on the controller because
-            // all references will be lost.
-            removeSetters(this);
-            // Remove the controller's metadata
-            delete controller[metadata];
-            // Remove the link to the controller
-            delete this[metadata];
+            // Absent when the controller's constructor threw.
+            if (controller) {
+                lifecycle(controller, 'destroy');
+                // Remove the controller from the global list
+                allControllers.delete(controller);
+                // Remove setters on the element.
+                // It is not necessary to remove setters on the controller because
+                // all references will be lost.
+                removeSetters(this);
+                // Remove the controller's metadata
+                delete controller[metadata];
+                // Remove the link to the controller
+                delete this[metadata];
+            }
         }
     }
     // iOS 15 Safari doesn't support static initialization blocks.
@@ -1417,45 +1558,67 @@ const component = (tag, configInitial, constructor) => {
     // initialization blocks. Currently (Feb 2026) it blocks 0.88% of global
     // users.  https://caniuse.com/mdn-javascript_classes_static_initialization_blocks
     CustomElement.observedAttributes = [...config.attr].map(camelToDash);
-    try {
-        const componentInfo = [
-            CustomElement,
-            constructor,
-            config,
-        ];
-        events.emit('component', ...componentInfo);
-        customElements.define(tag, CustomElement); // throws
+    const componentInfo = [
+        CustomElement,
+        constructor,
+        config,
+    ];
+    events.emit('component', ...componentInfo);
+    // A name that is already defined is skipped, so the same library can be
+    // loaded twice. Anything else define() rejects, such as a name without
+    // a hyphen, throws here rather than leaving an element that silently
+    // never upgrades.
+    if (!customElements.get(tag)) {
+        customElements.define(tag, CustomElement);
         allComponents.add(componentInfo);
     }
-    catch (_ignore) { }
     return CustomElement;
 };
 const scopeStyleRule = (rule, tagForScope, className, useShadow) => {
-    if (rule.selectorText) {
-        rule.selectorText = rule.selectorText
-            .split(',')
-            .map((selector) => {
-            selector = selector.trim();
-            const addSuffix = (x) => `${x}.${className}`;
-            const replaceScope = (x, withThis) => x.replace(/:host/, withThis);
-            const doesNotHaveScope = replaceScope(selector, '') == selector;
+    var _a;
+    const styleRule = rule;
+    const original = styleRule.selectorText;
+    if (original) {
+        // Split on the commas between selectors, not the ones inside :is(),
+        // :not() or an attribute value, then scope each selector.
+        const scoped = (original.match(/(?:\([^)]*\)|\[[^\]]*\]|[^,])+/g) || [])
+            .map(selector => {
+            // A pseudo-element must stay last, so the scoping class goes
+            // before it. (The browser has already serialized the legacy
+            // :before as ::before.)
+            const [, base, pseudo = ''] = selector
+                .trim()
+                .match(/^(.*?)(::[\w-]+(?:\([^)]*\))?)?$/);
+            // :host, :host(X) or :host-context(X), and whatever follows
+            const [, context, arg = '', rest] = base.match(/^:host(-context)?(?:\(([^)]*)\))?(.*)$/) || [];
+            const addSuffix = (x) => `${x}.${className}${pseudo}`;
+            if (rest == undefined) {
+                // No host form: the element and its own descendants.
+                return useShadow
+                    ? addSuffix(base)
+                    : `${tagForScope} ${addSuffix(base)}`;
+            }
             if (useShadow) {
-                if (doesNotHaveScope || selector.includes(' ')) {
-                    selector = addSuffix(selector);
-                }
+                // The shadow root scopes the host itself; a descendant
+                // still needs the class so a nested light DOM component
+                // is not styled too.
+                return rest.trim() ? addSuffix(base) : base + pseudo;
             }
-            else {
-                selector = replaceScope(selector, tagForScope);
-                if (doesNotHaveScope) {
-                    selector = `${tagForScope} ${addSuffix(selector)}`;
-                }
-            }
-            return selector;
+            // A descendant of the host gets the class too, as in the
+            // shadow DOM, so a nested component is not styled by accident.
+            return ((context ? `${arg} ${tagForScope}` : tagForScope + arg) +
+                (rest.trim() ? addSuffix(rest) : pseudo));
         })
             .join(',');
+        styleRule.selectorText = scoped;
+        // The browser ignores a selector it cannot parse, which would leave
+        // the rule exactly as written and applying to the whole page.
+        if (scoped != original && styleRule.selectorText == original) {
+            console.error(`Unable to scope selector: ${scoped}`);
+        }
         tagForScope = ''; // Don't need to scope children selectors
     }
-    for (const childRule of rule.cssRules ?? []) {
+    for (const childRule of (_a = rule.cssRules) !== null && _a !== void 0 ? _a : []) {
         scopeStyleRule(childRule, tagForScope, className, useShadow);
     }
     return rule.cssText;
@@ -1469,54 +1632,114 @@ const registered = new Map();
 const circular = [];
 const di = (Key) => {
     if (circular.includes(Key)) {
-        circular.push(Key);
-        throwError(`Circular dependency: ${circular
-            .map((Key) => `${Key.name}`)
-            .join(' -> ')}`);
+        const chain = [...circular, Key]
+            .map(Key => `${Key.name}`)
+            .join(' -> ');
+        circular.length = 0;
+        throwError(`Circular dependency: ${chain}`);
     }
     circular.push(Key);
-    const value = registered.get(Key) ||
-        registered.set(Key, new Key()).get(Key);
-    circular.pop();
-    return value;
+    // A constructor that throws must not leave its class on the stack, or
+    // every later request for it would look like a cycle.
+    try {
+        return (registered.get(Key) ||
+            registered.set(Key, new Key()).get(Key));
+    }
+    finally {
+        circular.pop();
+    }
 };
 const diOverride = (Key, value) => {
     registered.set(Key, value);
 };
 
-class RouterComponent extends HTMLElement {
+// Extending a global that does not exist would throw while the module is
+// still being evaluated, which is the one thing a Node import must survive.
+const HTMLElementBase = (win.HTMLElement || Object);
+// Every connected router, in connection order: an outer router before the
+// inner one it created.
+const routers = /*@__PURE__*/ newSet();
+let installed;
+// Route every router against the current location. A snapshot is walked
+// because an outer router activating a route can connect an inner router,
+// which routes itself as it connects.
+const routeAll = () => {
+    for (const router of [...routers]) {
+        router._route();
+    }
+};
+const clickedLink = (e) => {
+    const link = e
+        .composedPath()
+        .filter((n) => n.tagName == 'A')[0];
+    // Leave to the browser: anything already handled, a click meant to open
+    // a new tab or window (modifier keys, another button, a target), a
+    // download, a link marked external, another origin, and a fragment on
+    // the current page, which needs the browser to scroll.
+    if (link &&
+        !e.defaultPrevented &&
+        !e.button &&
+        !(e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) &&
+        (!link.target || link.target == '_self') &&
+        !link.hasAttribute('download') &&
+        !/\bexternal\b/.test(link.rel) &&
+        link.href &&
+        link.origin == win.location.origin &&
+        !link.href.startsWith('blob:') &&
+        !(link.hash &&
+            link.pathname == win.location.pathname &&
+            link.search == win.location.search)) {
+        e.preventDefault();
+        win.history.pushState(null, '', `${link.pathname}${link.search}${link.hash}`);
+    }
+};
+// The history patch and the two listeners are installed once for the page,
+// not once per router. Per-router patches restored their originals in
+// disconnection order, which is parent first, so tearing down nested
+// routers left a dead router's wrapper on history.pushState.
+const install = () => {
+    win.addEventListener('popstate', routeAll);
+    doc.body.addEventListener('click', clickedLink);
+    for (const method of ['pushState', 'replaceState']) {
+        const original = win.history[method];
+        win.history[method] = function (...args) {
+            original.apply(this, args);
+            routeAll();
+        };
+    }
+};
+class RouterComponent extends HTMLElementBase {
     constructor() {
         super();
         this._fragment = createDocumentFragment();
         this._lastMatched = [];
-        this._routeElements = [];
-        this._undo = [];
+        // The elements that define the routes, in order. Public for tooling.
+        this.routes = [];
         let children = this.children;
         let firstChild = children[0];
         if (isTemplate(firstChild)) {
             // Use the children within the template
-            this._routeElements = Array.from(firstChild.content.children);
+            this.routes = Array.from(firstChild.content.children);
         }
         else {
             // Use direct children and move elements to a document fragment
             while (children.length > 0) {
                 const element = children[0];
-                this._routeElements.push(element);
+                this.routes.push(element);
                 this._fragment.append(element);
             }
         }
     }
     connectedCallback() {
-        this._listen(win, 'popstate', this._popState);
-        this._listen(doc.body, 'click', this._clickedLink);
-        this._route(win.location.pathname);
-        this._patch(win.history, 'pushState', this._modifyStateGenerator);
-        this._patch(win.history, 'replaceState', this._modifyStateGenerator);
+        if (!installed) {
+            installed = true;
+            install();
+        }
+        routers.add(this);
+        this._route();
     }
     disconnectedCallback() {
-        while (this._undo.length) {
-            this._undo.pop()();
-        }
+        routers.delete(this);
     }
     go(url) {
         win.history.pushState(null, '', url);
@@ -1543,32 +1766,19 @@ class RouterComponent extends HTMLElement {
         for (const [key, value] of matchedRoute.g) {
             setAttribute(e, camelToDash(key), value);
         }
+        const params = new URLSearchParams(win.location.search);
+        for (const key of matchedRoute.q) {
+            // get() returns null when the parameter is absent, and
+            // setAttribute would then remove that attribute.
+            setAttribute(e, camelToDash(key), params.get(key));
+        }
         if (append) {
             this.append(e);
         }
     }
-    _clickedLink(e) {
-        if (!e.defaultPrevented) {
-            const link = e
-                .composedPath()
-                .filter((n) => n.tagName == 'A')[0];
-            if (link) {
-                if (link.href &&
-                    link.origin == win.location.origin &&
-                    !link.href.startsWith('blob:')) {
-                    e.preventDefault();
-                    this.go(`${link.pathname}${link.search}${link.hash}`);
-                }
-            }
-        }
-    }
-    _listen(target, eventName, unboundListener) {
-        const boundListener = unboundListener.bind(this);
-        target.addEventListener(eventName, boundListener);
-        this._undo.push(() => target.removeEventListener(eventName, boundListener));
-    }
     _match(url) {
-        for (const routeElement of this._routeElements) {
+        var _a;
+        for (const routeElement of this.routes) {
             const path = getAttribute(routeElement, 'path') || '**';
             const regexpAttr = getAttribute(routeElement, 'regexp');
             let regexpStr = path;
@@ -1583,31 +1793,25 @@ class RouterComponent extends HTMLElement {
                 return {
                     e: routeElement,
                     g: entries(match.groups || {}),
+                    q: ((_a = getAttribute(routeElement, 'query')) === null || _a === void 0 ? void 0 : _a.split(',')) || [],
                 };
             }
         }
         // Returning undefined is falsy
     }
-    _modifyStateGenerator(target, original) {
-        return (state, title, url) => {
-            original.call(target, state, title, url);
-            this._route(url || '/');
-        };
-    }
-    _patch(target, methodName, generator) {
-        const original = target[methodName];
-        target[methodName] = generator.call(this, target, original);
-        this._undo.push(() => (target[methodName] = original));
-    }
-    _popState() {
-        this._route(win.location.pathname);
-    }
-    _route(url) {
-        const matchedRoute = this._match(url);
+    // Routes match on the path alone. A query string and a fragment both
+    // select something *within* a route rather than changing which route
+    // matched, so `/orders?status=open` is the orders route. The path is
+    // read back from the browser after every change, so a relative URL or
+    // a replaceState() with no URL at all is resolved the way the browser
+    // resolved it.
+    _route() {
+        const path = win.location.pathname;
+        const matchedRoute = this._match(path);
         if (matchedRoute) {
             this._activate(matchedRoute);
         }
-        emit(doc.body, 'routeChange', url);
+        emit(doc.body, 'routeChange', path);
     }
 }
 const defineRouterComponent = (name = 'router-outlet') => {
@@ -1784,4 +1988,4 @@ const defineSlotComponent = (name = 'slot-like') => {
 const css = (strings, ...values) => String.raw({ raw: strings }, ...values);
 const html = css;
 
-export { Component, Emitter, RouterComponent, addDirective, allComponents, component, css, defineRouterComponent, defineSlotComponent, di, diOverride, emit, events, getAttribute, getScope, html, lifecycle, link, linkNodes, metadata, parse, setAttribute, unlink, update };
+export { Component, Emitter, RouterComponent, addDirective, allComponents, camelToDash, component, css, dashToCamel, defineRouterComponent, defineSlotComponent, di, diOverride, emit, events, generalDirectives, getAttribute, getScope, html, lifecycle, link, linkNodes, metadata, parse, setAttribute, structuralDirectives, unlink, update };

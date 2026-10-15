@@ -7,7 +7,7 @@
         "start": "light-server -s . -o -w 'js/*, css/*, **/index.html'"
     },
     "dependencies": {
-        "fudgel": "^3.3.0",
+        "fudgel": "^4.1.0",
         "reveal.js": "latest"
     },
     "devDependencies": {

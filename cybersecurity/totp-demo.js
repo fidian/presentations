@@ -48,7 +48,7 @@ component(
         }
 
         onDestroy() {
-            this.clearInterval(this.interval);
+            clearInterval(this.interval);
         }
     }
 );
