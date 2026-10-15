@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Arial, Helvetica, sans-serif">
+    <title>NIMS tiered response: incident, city, county, state, and federal</title>
+    <defs>
+        <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#e7ad52" />
+        </marker>
+        <marker id="arrow-gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#bbbbbb" />
+        </marker>
+    </defs>
+
+    <text x="480" y="40" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">When an Emergency Gets Too Big</text>
+    <text x="480" y="70" font-size="18" fill="#cccccc" text-anchor="middle">Every disaster starts local. A level asks the next one for help when it is overwhelmed.</text>
+
+    <g font-size="16" fill="#ffffff" text-anchor="middle">
+        <rect x="20" y="432" width="176" height="78" rx="8" fill="#2f5d8a" />
+        <text x="108" y="458" font-size="20" font-weight="bold">Incident</text>
+        <text x="108" y="480">Responders on</text>
+        <text x="108" y="499">scene, using ICS</text>
+
+        <rect x="204" y="348" width="176" height="78" rx="8" fill="#2f5d8a" />
+        <text x="292" y="374" font-size="20" font-weight="bold">City</text>
+        <text x="292" y="396">City emergency</text>
+        <text x="292" y="415">manager and EOC</text>
+
+        <rect x="388" y="264" width="176" height="78" rx="8" fill="#1f6f7d" />
+        <text x="476" y="290" font-size="20" font-weight="bold">County or Tribe</text>
+        <text x="476" y="312">Emergency</text>
+        <text x="476" y="331">management, EOC</text>
+
+        <rect x="572" y="180" width="176" height="78" rx="8" fill="#5b3f86" />
+        <text x="660" y="206" font-size="20" font-weight="bold">State</text>
+        <text x="660" y="228">State agencies,</text>
+        <text x="660" y="247">National Guard</text>
+
+        <rect x="756" y="96" width="176" height="78" rx="8" fill="#e7ad52" />
+        <text x="844" y="122" font-size="20" font-weight="bold" fill="#111111">Federal</text>
+        <text x="844" y="144" fill="#111111">FEMA and other</text>
+        <text x="844" y="163" fill="#111111">federal agencies</text>
+    </g>
+
+    <g stroke="#e7ad52" stroke-width="4" marker-end="url(#arrow)" fill="none">
+        <path d="M 166 432 L 166 406 L 198 406" />
+        <path d="M 350 348 L 350 322 L 382 322" />
+        <path d="M 534 264 L 534 238 L 566 238" />
+        <path d="M 718 180 L 718 154 L 750 154" />
+    </g>
+    <g font-size="15" font-weight="bold" fill="#e7ad52" text-anchor="end">
+        <text x="158" y="402">Need help</text>
+        <text x="342" y="318">Need help</text>
+        <text x="526" y="234">Need help</text>
+        <text x="710" y="150">Need help</text>
+    </g>
+
+    <rect x="756" y="186" width="176" height="66" rx="8" fill="none" stroke="#e7ad52" stroke-width="2" stroke-dasharray="6 4" />
+    <g font-size="15" fill="#e7ad52" text-anchor="middle">
+        <text x="844" y="208">The governor asks</text>
+        <text x="844" y="226">the President for a</text>
+        <text x="844" y="244">disaster declaration.</text>
+    </g>
+
+    <rect x="388" y="432" width="176" height="78" rx="8" fill="none" stroke="#bbbbbb" stroke-width="2" stroke-dasharray="6 4" />
+    <g font-size="16" fill="#ffffff" text-anchor="middle">
+        <text x="476" y="458" font-size="20" font-weight="bold">Neighbor City</text>
+        <text x="476" y="480">Sends trucks</text>
+        <text x="476" y="499">and crews</text>
+    </g>
+    <path d="M 388 471 L 320 471 L 320 434" stroke="#bbbbbb" stroke-width="3" fill="none" marker-end="url(#arrow-gray)" />
+    <text x="292" y="500" font-size="15" font-weight="bold" fill="#bbbbbb" text-anchor="middle">Mutual aid</text>
+
+    <rect x="600" y="300" width="332" height="118" rx="8" fill="none" stroke="#7ddc7d" stroke-width="2" />
+    <text x="766" y="330" font-size="19" font-weight="bold" fill="#7ddc7d" text-anchor="middle">Volunteer groups</text>
+    <g font-size="17" fill="#ffffff" text-anchor="middle">
+        <text x="766" y="358">Red Cross, Salvation Army, churches,</text>
+        <text x="766" y="382">and Scouts help at every level,</text>
+        <text x="766" y="406">assigned through ICS.</text>
+    </g>
+</svg>
